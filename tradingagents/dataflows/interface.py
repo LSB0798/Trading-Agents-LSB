@@ -160,3 +160,23 @@ def route_to_vendor(method: str, *args, **kwargs):
             continue  # Only rate limits trigger fallback
 
     raise RuntimeError(f"No available vendor for '{method}'")
+
+"""
+这段代码正是通过 yfinance 和 yfinance_news 获取数据的底层实现。
+
+- 它位于 tradingagents/dataflows/ 目录下（从导入路径 .y_finance、.yfinance_news 可以看出），扮演了数据供应商路由层的角色。核心机制如下：
+
+    -- 统一接口：外部调用的 get_stock_data、get_indicators、get_news 等工具函数，最终都会调用 route_to_vendor。
+
+    -- 配置驱动：根据 DEFAULT_CONFIG 中的 data_vendors（按类别，如 core_stock_apis）或 tool_vendors（按具体工具名）选择使用 yfinance 还是 alpha_vantage。
+
+    -- 多供应商实现：
+
+        --- yfinance：提供 OHLCV 数据（get_YFin_data_online）、技术指标（get_stock_stats_indicators_window）、基本面（get_yfinance_fundamentals 等）、新闻（get_news_yfinance、get_global_news_yfinance）、内幕交易（get_yfinance_insider_transactions）。
+
+        --- alpha_vantage：提供对应的替代实现（如 get_alpha_vantage_stock、get_alpha_vantage_indicator 等）。
+
+    -- 自动降级：当主供应商（如 Alpha Vantage）遇到速率限制（AlphaVantageRateLimitError）时，自动切换到备用供应商（如 yfinance），提高鲁棒性。
+
+- 因此，您之前关心的“框架如何获取真实股票数据”，最终就是通过这段代码调用 yfinance 库（或可选的 Alpha Vantage API）来实现的。数据可以在本地缓存（data_cache），但实时获取时确实依赖网络请求到 Yahoo Finance 或 Alpha Vantage 服务器。
+"""
