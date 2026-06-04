@@ -174,7 +174,7 @@ def select_openrouter_model() -> str:
     return choice
 
 
-def select_shallow_thinking_agent(provider) -> str:
+def select_shallow_thinking_agent_origin(provider) -> str:
     """Select shallow thinking llm engine using an interactive selection."""
 
     if provider.lower() == "openrouter":
@@ -205,7 +205,7 @@ def select_shallow_thinking_agent(provider) -> str:
     return choice
 
 
-def select_deep_thinking_agent(provider) -> str:
+def select_deep_thinking_agent_origin(provider) -> str:
     """Select deep thinking llm engine using an interactive selection."""
 
     if provider.lower() == "openrouter":
@@ -233,7 +233,7 @@ def select_deep_thinking_agent(provider) -> str:
 
     return choice
 
-def select_llm_provider() -> tuple[str, str | None]:
+def select_llm_provider_origin() -> tuple[str, str | None]:
     """Select the LLM provider and its API endpoint."""
     BASE_URLS = [
         ("OpenAI", "https://api.openai.com/v1"),
@@ -360,3 +360,66 @@ def ask_output_language() -> str:
         ).ask().strip()
 
     return choice
+
+
+
+# =================================================================================================== #
+# ===================== 替换以下三个函数 =====================
+import os
+# 全局变量，用于缓存用户输入的模型名称
+_SINGLE_MODEL_NAME = None
+
+def select_llm_provider() -> tuple[str, str | None]:
+    """使用单一 OpenAI 兼容 API，用户只需输入 URL 和模型名一次"""
+    global _SINGLE_MODEL_NAME
+    console.print("\n[bold cyan]⚙️  Single API Mode (OpenAI-compatible)[/bold cyan]")
+    
+    api_url = questionary.text(
+        "Enter API base URL (with /v1 suffix):",
+        default="http://10.20.223.83:61273/v1",
+        # default="http://10.20.223.89:61253/v1",
+        validate=lambda x: x.startswith("http") or "Must be a valid HTTP/HTTPS URL",
+    ).ask()
+    if not api_url:
+        console.print("[red]No URL provided. Exiting...[/red]")
+        exit(1)
+    
+    model_name = questionary.text(
+        "Enter model name (used for ALL agents):",
+        default="qwen3_32B",
+        # default="qwen3-moe",
+        validate=lambda x: len(x.strip()) > 0 or "Model name cannot be empty",
+    ).ask()
+    if not model_name:
+        console.print("[red]No model name provided. Exiting...[/red]")
+        exit(1)
+    
+    _SINGLE_MODEL_NAME = model_name.strip()
+    # 固定返回 provider = "openai"，因为你的 API 是 OpenAI 兼容的
+
+    # 🔧 设置占位 API Key（因为你的本地 API 不需要真实 key）
+    os.environ["OPENAI_API_KEY"] = "dummy"
+
+    # ========== 插入检查代码 ==========
+    print(f"[DEBUG] select_llm_provider returns: provider='openai', base_url={api_url}")
+    print(f"[DEBUG] Model name cached: {_SINGLE_MODEL_NAME}")
+    # =================================
+
+    return "openai", api_url
+
+def select_shallow_thinking_agent(provider: str) -> str:
+    """直接返回之前缓存的模型名"""
+    global _SINGLE_MODEL_NAME
+    if _SINGLE_MODEL_NAME is None:
+        # 理论上不会发生，因为 select_llm_provider 会先调用
+        console.print("[red]Please select LLM provider first. Exiting...[/red]")
+        exit(1)
+    return _SINGLE_MODEL_NAME
+
+def select_deep_thinking_agent(provider: str) -> str:
+    """与浅层思考使用相同模型"""
+    global _SINGLE_MODEL_NAME
+    if _SINGLE_MODEL_NAME is None:
+        console.print("[red]Please select LLM provider first. Exiting...[/red]")
+        exit(1)
+    return _SINGLE_MODEL_NAME

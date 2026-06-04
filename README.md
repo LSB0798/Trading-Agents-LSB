@@ -1,235 +1,168 @@
 <p align="center">
-  <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
+  <img src="assets/schema.png" style="width: 80%; height: auto;">
 </p>
 
-<div align="center" style="line-height: 1;">
-  <a href="https://arxiv.org/abs/2412.20138" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv"/></a>
-  <a href="https://discord.com/invite/hk9PGKShPK" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da"/></a>
-  <a href="./assets/wechat.png" target="_blank"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-TauricResearch-brightgreen?logo=wechat&logoColor=white"/></a>
-  <a href="https://x.com/TauricResearch" target="_blank"><img alt="X Follow" src="https://img.shields.io/badge/X-TauricResearch-white?logo=x&logoColor=white"/></a>
-  <br>
-  <a href="https://github.com/TauricResearch/" target="_blank"><img alt="Community" src="https://img.shields.io/badge/Join_GitHub_Community-TauricResearch-14C290?logo=discourse"/></a>
-</div>
-
-<div align="center">
-  <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=zh">中文</a>
-</div>
+# TradingAgents‑RAG
 
 ---
 
-# TradingAgents: Multi-Agents LLM Financial Trading Framework
+## ✨ Selective RAG Integration
 
-## News
-- [2026-03] **TradingAgents v0.2.3** released with multi-language support, GPT-5.4 family models, unified model catalog, backtesting date fidelity, and proxy support.
-- [2026-03] **TradingAgents v0.2.2** released with GPT-5.4/Gemini 3.1/Claude 4.6 model coverage, five-tier rating scale, OpenAI Responses API, Anthropic effort control, and cross-platform stability.
-- [2026-02] **TradingAgents v0.2.0** released with multi-provider LLM support (GPT-5.x, Gemini 3.x, Claude 4.x, Grok 4.x) and improved system architecture.
-- [2026-01] **Trading-R1** [Technical Report](https://arxiv.org/abs/2509.11420) released, with [Terminal](https://github.com/TauricResearch/Trading-R1) expected to land soon.
+This fork selectively adds **retrieval‑augmented generation (RAG)** to the agents where investment wisdom is most valuable – analysts and the research manager. Other agents (researchers, trader, risk analysts, portfolio manager) rely on their original reasoning and the already enriched reports; they do not directly query the knowledge base. The model can (or is forced to) query a local knowledge base of investment classics (Buffett letters, Munger speeches, seminal books) and use the retrieved wisdom as arguments, evidence, or decision support.
 
-<div align="center">
-<a href="https://www.star-history.com/#TauricResearch/TradingAgents&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TauricResearch/TradingAgents&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TauricResearch/TradingAgents&type=Date" />
-   <img alt="TradingAgents Star History" src="https://api.star-history.com/svg?repos=TauricResearch/TradingAgents&type=Date" style="width: 80%; height: auto;" />
- </picture>
-</a>
-</div>
+> **Note**: “-” in the table below means the agent does not use RAG by design (its role does not benefit from direct quotes).
 
-> 🎉 **TradingAgents** officially released! We have received numerous inquiries about the work, and we would like to express our thanks for the enthusiasm in our community.
->
-> So we decided to fully open-source the framework. Looking forward to building impactful projects with you!
+### 🧠 RAG Role per Agent
 
-<div align="center">
+| Role | RAG Purpose | Injection Method |
+|------|-------------|------------------|
+| **Market Analyst** | Technical analysis & market psychology | Tool‑call (Agentic RAG) |
+| **Social Media Analyst** | Sentiment & crowd behavior quotes | Tool‑call (Agentic RAG) |
+| **News Analyst** | Macroeconomic & event insights | Tool‑call (Agentic RAG) |
+| **Fundamentals Analyst** | Valuation & moat principles | Tool‑call (Agentic RAG) |
+| **Bull / Bear Researcher** | Support bull/bear arguments with master quotes | - |
+| **Research Manager** | Multi‑turn RAG Agent: plans sub‑queries, critiques results, iteratively retrieves until sufficient wisdom is gathered | **RAG Agent** (internal Planner + Evaluator + Retriever) |
+| **Trader** | Trade discipline & position sizing | - |
+| **Risk Analyst** | Risk control & margin of safety | - |
+| **Portfolio Manager** | Final decision backing | - |
 
-🚀 [TradingAgents](#tradingagents-framework) | ⚡ [Installation & CLI](#installation-and-cli) | 🎬 [Demo](https://www.youtube.com/watch?v=90gr5lwjIho) | 📦 [Package Usage](#tradingagents-package) | 🤝 [Contributing](#contributing) | 📄 [Citation](#citation)
+### 🤖 RAG Agent: Autonomous Multi‑Turn Retrieval for Research Manager
 
-</div>
+The **Research Manager** no longer uses a simple tool‑call or active injection. Instead, it runs a complete **autonomous RAG agent** that internally performs **planning, retrieval, critique, filtering, and iterative refinement** – all without human intervention.
 
-## TradingAgents Framework
+#### How It Works
 
-TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deploying specialized LLM-powered agents: from fundamental analysts, sentiment experts, and technical analysts, to trader, risk management team, the platform collaboratively evaluates market conditions and informs trading decisions. Moreover, these agents engage in dynamic discussions to pinpoint the optimal strategy.
+1. **Context Fact Extraction**  
+   The incoming context (market report, sentiment report, news, fundamentals, debate history) is automatically decomposed into a list of key facts using a dedicated LLM call (`_extract_facts_from_context`). Each fact is a short, self‑contained statement relevant to the investment decision.
 
-<p align="center">
-  <img src="assets/schema.png" style="width: 100%; height: auto;">
-</p>
+2. **Sub‑query Generation (Planner)**  
+   For each extracted fact, the RAG agent calls the planner LLM (via function calling) to generate 2‑5 targeted sub‑queries. The planner receives:
+   - Original user query
+   - The specific fact to focus on
+   - Already queried terms (to avoid repetition)
+   - Missing information feedback from previous iterations
 
-> TradingAgents framework is designed for research purposes. Trading performance may vary based on many factors, including the chosen backbone language models, model temperature, trading periods, the quality of data, and other non-deterministic factors. [It is not intended as financial, investment, or trading advice.](https://tauric.ai/disclaimer/)
+3. **Retrieval**  
+   Each sub‑query is sent to the underlying RAG retrieval service (Milvus Lite + Qwen embeddings), which returns the top‑k relevant document passages.
 
-Our framework decomposes complex trading tasks into specialized roles. This ensures the system achieves a robust, scalable approach to market analysis and decision-making.
+4. **Critique & Filtering (Evaluator)**  
+   Every retrieved passage is independently judged by a critic LLM on four metrics:
+   - *Relevance* (0‑1)
+   - *Factual consistency* (0‑1)
+   - *Role appropriateness* (0‑1)
+   - *Actionable insight* (0‑1)  
+   Only passages with `relevance ≥ 0.6` and `factual ≥ 0.6` are kept. Others are discarded.
 
-### Analyst Team
-- Fundamentals Analyst: Evaluates company financials and performance metrics, identifying intrinsic values and potential red flags.
-- Sentiment Analyst: Analyzes social media and public sentiment using sentiment scoring algorithms to gauge short-term market mood.
-- News Analyst: Monitors global news and macroeconomic indicators, interpreting the impact of events on market conditions.
-- Technical Analyst: Utilizes technical indicators (like MACD and RSI) to detect trading patterns and forecast price movements.
+5. **Overall Sufficiency Assessment**  
+   After all sub‑queries for a fact are processed, the evaluator assesses whether the collected information sufficiently answers the user’s question. If not, it generates `suggested_next_queries` and feeds them back into the next iteration (bypassing the planner).
 
-<p align="center">
-  <img src="assets/analyst.png" width="100%" style="display: inline-block; margin: 0 2%;">
-</p>
+6. **Iteration & Termination**  
+   The loop continues until either:
+   - The evaluator declares the information sufficient (score ≥ 0.7), or
+   - A maximum of 10 iterations is reached, or
+   - No new sub‑queries can be generated.
 
-### Researcher Team
-- Comprises both bullish and bearish researchers who critically assess the insights provided by the Analyst Team. Through structured debates, they balance potential gains against inherent risks.
+7. **Final Output**  
+   All kept passages are deduplicated and returned as a numbered list (e.g., `1. ...\n2. ...`). The Research Manager then uses these high‑quality, filtered passages to write the final investment plan.
 
-<p align="center">
-  <img src="assets/researcher.png" width="70%" style="display: inline-block; margin: 0 2%;">
-</p>
+#### Key Technical Features
 
-### Trader Agent
-- Composes reports from the analysts and researchers to make informed trading decisions. It determines the timing and magnitude of trades based on comprehensive market insights.
+- **No hand‑crafted prompts** – the RAG agent autonomously decides what to retrieve and when to stop.
+- **Fact decomposition** – breaks large context into manageable, focused queries.
+- **Dual‑critique** – single‑passage scoring + overall sufficiency assessment.
+- **Automatic retry & exponential backoff** – handles temporary LLM or network failures.
+- **Full observability** – logs every iteration, sub‑query, critique score, and filtered count.
 
-<p align="center">
-  <img src="assets/trader.png" width="70%" style="display: inline-block; margin: 0 2%;">
-</p>
+This design makes the Research Manager the most sophisticated agent in the framework, capable of **planning its own knowledge gaps and actively seeking the most relevant investment wisdom** before committing to a decision.
 
-### Risk Management and Portfolio Manager
-- Continuously evaluates portfolio risk by assessing market volatility, liquidity, and other risk factors. The risk management team evaluates and adjusts trading strategies, providing assessment reports to the Portfolio Manager for final decision.
-- The Portfolio Manager approves/rejects the transaction proposal. If approved, the order will be sent to the simulated exchange and executed.
+### 🔧 Three RAG Integration Modes
 
-<p align="center">
-  <img src="assets/risk.png" width="70%" style="display: inline-block; margin: 0 2%;">
-</p>
+1. **Guided Tool Injection (Agentic RAG)**  
+   - Used for analysts (market, social, news, fundamentals).  
+   - `retrieve_xxx_wisdom` is registered as a LangChain `Tool` and bound with `bind_tools`.  
+   - The LLM decides when and what to retrieve, generating its own query.  
+   - The graph includes a dedicated `ToolNode` that executes the tool call.
 
-## Installation and CLI
+2. **Active Injection (Modular RAG)**  
+   - Used for researchers, trader, risk analysts, and portfolio manager.  
+   - The RAG function is called directly inside the node, and the retrieved content is forcibly appended to the system prompt.  
+   - No dependency on the model’s willingness to call tools; guarantees that master wisdom is always available.  
+   - Particularly useful in debate and decision nodes to increase argument authority.
 
-### Installation
+3. **RAG Agent (Autonomous Multi‑Turn Retrieval)**  
+   - Used exclusively for the **Research Manager**.  
+   - Invokes a dedicated `RAGAgent` that internally plans sub‑queries (via function calling), retrieves, critiques each passage, filters low‑quality results, and iterates until information is sufficient.  
+   - Automatically splits the analysis context into key facts and generates targeted sub‑queries for each fact.  
+   - Returns a numbered list of high‑relevance, fact‑filtered passages for the final investment decision.  
+   - Completely autonomous – does not rely on hand‑crafted prompts or forced tool injection.
 
-Clone TradingAgents:
+### 📚 RAG Knowledge Base
+
+The knowledge base is built from three sources (converted by `marker‑pdf`):
+- `Reminiscences of a Stock Operator 2006`
+- `pdfs`
+
+It contains:
+- Warren Buffett’s annual shareholder letters
+- Charlie Munger’s speeches and interviews
+- Classic investment books (e.g., *Poor Charlie’s Almanack*, *Margin of Safety*)
+
+### 🖥️ RAG Service Setup
+
+A standalone retrieval service (`start_rag.py`) provides the RAG backend:
+
+- **Vector database**: Milvus Lite (embedded)
+- **Embedding model**: Qwen3‑Embedding‑0.6B (local)
+- **Reranker**: Qwen3‑Reranker‑0.6B (local)
+- **Documents**: place `.md`, `.txt`, `.docx`, or `.pdf` files in the `./documents/` directory (supports large corpora; tested with 30 GB).
+
+#### Step 1: Prepare the document corpus
 ```bash
-git clone https://github.com/TauricResearch/TradingAgents.git
-cd TradingAgents
+mkdir documents
+# Copy your investment books, speeches, or reports into ./documents
+# The system recursively processes all supported files.
 ```
-
-Create a virtual environment in any of your favorite environment managers:
-```bash
-conda create -n tradingagents python=3.13
-conda activate tradingagents
+#### Step 2: Start the RAG service
 ```
+python start_rag.py
+```
+On first run, the service will:
+- Load all documents from ./documents/
+- Split text into chunks (smart chunking for mixed Chinese/English)
+- Generate embeddings using Qwen3‑0.6B
+- Build a Milvus Lite index (stored locally)
+- Launch a FastAPI server on http://localhost:8000
 
-Install the package and its dependencies:
+You can test the service with:
+```
+curl -X POST http://localhost:8000/search \
+  -H "Content-Type: application/json" \
+  -d '{"query": "value investing margin of safety"}'
+```
+Note: The full document corpus is 30 GB in size. During the first startup, the RAG system will chunk and index these documents. On subsequent startups, the pre‑built index will be reused directly. 
+Once the RAG service is running, the TradingAgents agents will automatically call its retrieve_*_wisdom tools to perform retrieval.
+
+### 🚀 Typical Impact
+
+- The **Market Analyst** may cite Buffett’s “Mr. Market” metaphor when describing volatility.  
+- **Bull/Bear researchers** can directly quote Munger on “moats” or “circle of competence” during debates.  
+- The **Research Manager** first retrieves master principles from similar market environments before writing the investment plan.  
+- The **Portfolio Manager** often includes a classic quote to back the final BUY/HOLD/SELL recommendation.
+
+---
+
+## 📦 Installation & Usage (same as original)
+
+### Requirements
+
+- Python 3.13+
+- Docker (optional but recommended)
+
+### Clone & Install
+
 ```bash
+git clone https://github.com/LSB0798/Trading-Agents-LSB.git
+cd Trading-Agents-LSB
+conda create -n tradingagents-rag python=3.13
+conda activate tradingagents-rag
 pip install .
-```
-
-### Docker
-
-Alternatively, run with Docker:
-```bash
-cp .env.example .env  # add your API keys
-docker compose run --rm tradingagents
-```
-
-For local models with Ollama:
-```bash
-docker compose --profile ollama run --rm tradingagents-ollama
-```
-
-### Required APIs
-
-TradingAgents supports multiple LLM providers. Set the API key for your chosen provider:
-
-```bash
-export OPENAI_API_KEY=...          # OpenAI (GPT)
-export GOOGLE_API_KEY=...          # Google (Gemini)
-export ANTHROPIC_API_KEY=...       # Anthropic (Claude)
-export XAI_API_KEY=...             # xAI (Grok)
-export OPENROUTER_API_KEY=...      # OpenRouter
-export ALPHA_VANTAGE_API_KEY=...   # Alpha Vantage
-```
-
-For local models, configure Ollama with `llm_provider: "ollama"` in your config.
-
-Alternatively, copy `.env.example` to `.env` and fill in your keys:
-```bash
-cp .env.example .env
-```
-
-### CLI Usage
-
-Launch the interactive CLI:
-```bash
-tradingagents          # installed command
-python -m cli.main     # alternative: run directly from source
-```
-You will see a screen where you can select your desired tickers, analysis date, LLM provider, research depth, and more.
-
-<p align="center">
-  <img src="assets/cli/cli_init.png" width="100%" style="display: inline-block; margin: 0 2%;">
-</p>
-
-An interface will appear showing results as they load, letting you track the agent's progress as it runs.
-
-<p align="center">
-  <img src="assets/cli/cli_news.png" width="100%" style="display: inline-block; margin: 0 2%;">
-</p>
-
-<p align="center">
-  <img src="assets/cli/cli_transaction.png" width="100%" style="display: inline-block; margin: 0 2%;">
-</p>
-
-## TradingAgents Package
-
-### Implementation Details
-
-We built TradingAgents with LangGraph to ensure flexibility and modularity. The framework supports multiple LLM providers: OpenAI, Google, Anthropic, xAI, OpenRouter, and Ollama.
-
-### Python Usage
-
-To use TradingAgents inside your code, you can import the `tradingagents` module and initialize a `TradingAgentsGraph()` object. The `.propagate()` function will return a decision. You can run `main.py`, here's also a quick example:
-
-```python
-from tradingagents.graph.trading_graph import TradingAgentsGraph
-from tradingagents.default_config import DEFAULT_CONFIG
-
-ta = TradingAgentsGraph(debug=True, config=DEFAULT_CONFIG.copy())
-
-# forward propagate
-_, decision = ta.propagate("NVDA", "2026-01-15")
-print(decision)
-```
-
-You can also adjust the default configuration to set your own choice of LLMs, debate rounds, etc.
-
-```python
-from tradingagents.graph.trading_graph import TradingAgentsGraph
-from tradingagents.default_config import DEFAULT_CONFIG
-
-config = DEFAULT_CONFIG.copy()
-config["llm_provider"] = "openai"        # openai, google, anthropic, xai, openrouter, ollama
-config["deep_think_llm"] = "gpt-5.4"     # Model for complex reasoning
-config["quick_think_llm"] = "gpt-5.4-mini" # Model for quick tasks
-config["max_debate_rounds"] = 2
-
-ta = TradingAgentsGraph(debug=True, config=config)
-_, decision = ta.propagate("NVDA", "2026-01-15")
-print(decision)
-```
-
-See `tradingagents/default_config.py` for all configuration options.
-
-## Contributing
-
-We welcome contributions from the community! Whether it's fixing a bug, improving documentation, or suggesting a new feature, your input helps make this project better. If you are interested in this line of research, please consider joining our open-source financial AI research community [Tauric Research](https://tauric.ai/).
-
-## Citation
-
-Please reference our work if you find *TradingAgents* provides you with some help :)
-
-```
-@misc{xiao2025tradingagentsmultiagentsllmfinancial,
-      title={TradingAgents: Multi-Agents LLM Financial Trading Framework}, 
-      author={Yijia Xiao and Edward Sun and Di Luo and Wei Wang},
-      year={2025},
-      eprint={2412.20138},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.TR},
-      url={https://arxiv.org/abs/2412.20138}, 
-}
-```

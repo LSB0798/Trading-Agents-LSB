@@ -7,6 +7,7 @@ from tradingagents.agents.utils.agent_utils import (
     get_income_statement,
     get_insider_transactions,
     get_language_instruction,
+    retrieve_fundamentals_wisdom,
 )
 from tradingagents.dataflows.config import get_config
 
@@ -21,12 +22,14 @@ def create_fundamentals_analyst(llm):
             get_balance_sheet,
             get_cashflow,
             get_income_statement,
+            retrieve_fundamentals_wisdom,
         ]
 
         system_message = (
             "You are a researcher tasked with analyzing fundamental information over the past week about a company. Please write a comprehensive report of the company's fundamental information such as financial documents, company profile, basic company financials, and company financial history to gain a full view of the company's fundamental information to inform traders. Make sure to include as much detail as possible. Provide specific, actionable insights with supporting evidence to help traders make informed decisions."
             + " Make sure to append a Markdown table at the end of the report to organize key points in the report, organized and easy to read."
             + " Use the available tools: `get_fundamentals` for comprehensive company analysis, `get_balance_sheet`, `get_cashflow`, and `get_income_statement` for specific financial statements."
+            + """\n\nIMPORTANT: Before writing your final report, you MUST use the `retrieve_fundamentals_wisdom` tool at least once to gather relevant investment wisdom about company valuation, financial analysis, and fundamental investing principles. For example, you can query: "Warren Buffett's approach to evaluating a company's moat" or "Charlie Munger's principles of financial statement analysis". Then incorporate the retrieved wisdom into your analysis report."""
             + get_language_instruction(),
         )
 
