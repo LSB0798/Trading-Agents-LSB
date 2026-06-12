@@ -6,7 +6,7 @@ from tradingagents.dataflows.interface import route_to_vendor
 import datetime
 import os
 
-LOG_FILE = "/data/lishuaibing/tradingagents/TradingAgents/tradingagents_debug.log"
+LOG_FILE = "/data/.../tradingagents/TradingAgents/tradingagents_debug.log"
 
 def debug_log(label, data):
     """Write debug info to a persistent log file."""
