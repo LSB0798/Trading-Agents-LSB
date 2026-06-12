@@ -1111,24 +1111,6 @@ def run_analysis():
         # Stream the analysis
         trace = []
         for chunk in graph.graph.stream(init_agent_state, **args):
-            # # ===== 添加这段调试 =====
-            # if "messages" in chunk and chunk["messages"]:
-            #     last_msg = chunk["messages"][-1]
-            #     msg_type = type(last_msg).__name__
-            #     has_tool_calls = hasattr(last_msg, "tool_calls") and bool(last_msg.tool_calls)
-            #     content_preview = str(getattr(last_msg, 'content', ''))[:200]
-                
-            #     # 写入日志文件（不受Rich影响）
-            #     with open("/data/lishuaibing/tradingagents/TradingAgents/langgraph_debug.log", "a") as f:
-            #         f.write(f"\n{'='*50}\n")
-            #         f.write(f"MSG_TYPE: {msg_type}\n")
-            #         f.write(f"HAS_TOOL_CALLS: {has_tool_calls}\n")
-            #         if has_tool_calls:
-            #             f.write(f"TOOL_CALLS: {last_msg.tool_calls}\n")
-            #         f.write(f"CONTENT: {content_preview}\n")
-            #         f.write(f"RAW_ATTRS: {dir(last_msg)}\n")
-            # # =========================
-
             # Process messages if present (skip duplicates via message ID)
             if len(chunk["messages"]) > 0:
                 last_message = chunk["messages"][-1]
