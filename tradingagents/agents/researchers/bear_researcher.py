@@ -2,6 +2,7 @@
 
 def create_bear_researcher(llm, memory):
     def bear_node(state) -> dict:
+        master_signals = state.get("master_analyst_signals", {})
         investment_debate_state = state["investment_debate_state"]
         history = investment_debate_state.get("history", "")
         bear_history = investment_debate_state.get("bear_history", "")
@@ -18,6 +19,22 @@ def create_bear_researcher(llm, memory):
         past_memory_str = ""
         for i, rec in enumerate(past_memories, 1):
             past_memory_str += rec["recommendation"] + "\n\n"
+        
+        # ========================================== master_analyst_signals 注入到 prompts ========================================== #
+        # 格式化大师信号
+        master_signals = state.get("master_analyst_signals", {})
+        master_signals_text = ""
+        if master_signals:
+            master_signals_text = "\n\nAdditional insights from investment masters:\n"
+            for analyst_name, signals in master_signals.items():
+                for ticker, sig in signals.items():
+                    master_signals_text += f"- {analyst_name.replace('_', ' ').title()} on {ticker}: {sig.get('signal', 'neutral').upper()} (confidence {sig.get('confidence', 0)}%)\n"
+                    if 'reasoning' in sig:
+                        master_signals_text += f"  Reasoning: {sig['reasoning']}\n"
+        else:
+            master_signals_text = "\n\nNo additional master analyst signals available.\n"
+        # master_signals_text length : 11338
+        # ========================================== master_analyst_signals 注入到 prompts ========================================== #
 
         prompt = f"""You are a Bear Analyst making the case against investing in the stock. Your goal is to present a well-reasoned argument emphasizing risks, challenges, and negative indicators. Leverage the provided research and data to highlight potential downsides and counter bullish arguments effectively.
 
@@ -35,6 +52,7 @@ Market research report: {market_research_report}
 Social media sentiment report: {sentiment_report}
 Latest world affairs news: {news_report}
 Company fundamentals report: {fundamentals_report}
+Master analyst signals: {master_signals_text}
 Conversation history of the debate: {history}
 Last bull argument: {current_response}
 Reflections from similar situations and lessons learned: {past_memory_str}

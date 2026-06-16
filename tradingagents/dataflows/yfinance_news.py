@@ -1,3 +1,4 @@
+# TradingAgents/tradingagents/dataflows/yfinance_news.py
 """yfinance-based news data fetching functions."""
 
 import yfinance as yf

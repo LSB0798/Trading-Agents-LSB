@@ -1,7 +1,14 @@
-from typing import Annotated
+from typing import Annotated, Dict, Any
 from typing_extensions import TypedDict
 from langgraph.graph import MessagesState
 
+# 自定义归约函数：合并字典
+def merge_dicts(a: Dict, b: Dict) -> Dict:
+    if a is None:
+        return b or {}
+    if b is None:
+        return a
+    return {**a, **b}
 
 # Researcher team state
 class InvestDebateState(TypedDict):
@@ -70,3 +77,6 @@ class AgentState(MessagesState):
         RiskDebateState, "Current state of the debate on evaluating risk"
     ]
     final_trade_decision: Annotated[str, "Final decision made by the Risk Analysts"]
+
+    # 🆕 新增：大师分析师信号存储
+    master_analyst_signals: Annotated[Dict[str, Any], merge_dicts]

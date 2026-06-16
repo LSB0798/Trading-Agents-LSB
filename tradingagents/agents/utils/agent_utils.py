@@ -19,6 +19,21 @@ from tradingagents.agents.utils.news_data_tools import (
     get_global_news
 )
 
+from tradingagents.agents.utils.investment_rag import (
+    # retrieve_investment_wisdom,
+    retrieve_market_wisdom,                 # 市场分析师
+    retrieve_sentiment_wisdom,              # 社交媒体分析师
+    retrieve_news_wisdom,                   # 新闻分析师
+    retrieve_fundamentals_wisdom,           # 基本面分析师
+    retrieve_bull_wisdom,                   # Bull Researcher
+    retrieve_bear_wisdom,                   # Bear Researcher
+    retrieve_research_manager_wisdom,       # Research Manager
+    retrieve_trader_wisdom,                 # Trader
+    retrieve_risk_wisdom,                   # 风险分析师
+    retrieve_portfolio_manager_wisdom,       # Portfolio Manager
+)
+
+
 
 def get_language_instruction() -> str:
     """Return a prompt instruction for the configured output language.
