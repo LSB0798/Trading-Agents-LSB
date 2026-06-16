@@ -1,126 +1,79 @@
-                               START
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-       news_analyst      sentiment_analyst   19个大师分析师
-       (保留宏观新闻)      (情感分析)          (并行)
-              │                  │                  │
-              └──────────────────┼──────────────────┘
-                                 ▼
-                        Signal Aggregator
-                        (汇聚所有信号)
-                                 │
-                                 ▼
-                          Bull Researcher
-                          (辩论引用信号)
-                                 │
-                           ... 原有流程 ...
+<p align="center">
+  <img src="assets/schema.png" style="width: 80%; height: auto;">
+</p>
+
+# TradingAgents with AI Hedge Fund Analysts
+
+**TradingAgents** is a multi‑agent trading decision framework that simulates a hedge fund investment team consisting of **19 AI analysts** inspired by legendary investors (e.g., Ben Graham, Warren Buffett, Peter Lynch, Charlie Munger), a bull/bear researcher team, risk analysts, and a portfolio manager. The system generates trading decisions through multi‑round debates and comprehensive signal aggregation.
+
+## 🧠 Core Architecture
+
+### Analyst Team
+
+The system currently includes the following analysts:
+
+| Analyst Type | Count | Description |
+|--------------|-------|-------------|
+| **News Analyst** | 1 | Fetches global macroeconomic and company‑specific news to generate a macro environment report. |
+| **Master Analysts** | 19 | Based on the investment philosophies of famous masters (Graham, Buffett, Lynch, Munger, etc.), each performs quantitative analysis and LLM reasoning independently, outputting trading signals (`bullish`/`bearish`/`neutral`) with confidence scores. |
+
+### Workflow
+
+1. **Parallel Analysis**: The News Analyst and the 19 Master Analysts run **in parallel**, each retrieving data and generating reports/signals.
+2. **Signal Aggregation**: After all analysts finish, the **SignalAggregator** node collects and prints a consolidated signal summary.
+3. **Multi‑Round Debate**: **Bull Researcher** and **Bear Researcher** engage in multi‑round debates based on the aggregated signals and raw reports (number of rounds configurable).
+4. **Research Manager Decision**: The **Research Manager** formulates an initial investment plan after the debate.
+5. **Trader Execution**: The **Trader** generates specific trade orders.
+6. **Risk Debate**: **Aggressive/Conservative/Neutral** risk analysts discuss risk exposure in multiple rounds.
+7. **Portfolio Manager**: The **Portfolio Manager** synthesises all information and outputs the final trading decision (`BUY`/`SELL`/`HOLD`/`SHORT` etc.).
+
+### Data Sources
+
+- **Financial Data**: Retrieved via the [Financial Datasets API](https://financialdatasets.ai/) (requires an API key).
+- **News Data**: Fetched via **yfinance** for company‑specific and global macro news.
+- **LLM**: The system uses your locally deployed LLM (e.g., Qwen3‑32B) via an OpenAI‑compatible API endpoint.
+
+### Optional Feature: RAG (Retrieval‑Augmented Generation)
+
+RAG is **disabled by default** but can be enabled optionally. When activated, agents can query a local knowledge base (e.g., Buffett’s letters, Munger’s speeches) to enhance their reasoning. For setup details, see the [RAG Service Setup](#rag-service-setup) section below.
+
+### RAG Service Setup (Optional)
+
+If you wish to enable RAG, you can start a local retrieval service (using Milvus Lite + Qwen Embeddings) and place investment classics in the `./documents/` folder. The service will automatically be used by the agents.
+
+> **Note**: In the default configuration, RAG is **turned off** and does not affect system operation.
 
 
+## 📦 Installation & Usage
 
-节点	RAG 作用	调用方式
-市场分析师	获取大师关于技术分析、市场心理的论述	工具调用
-社交媒体分析师	获取关于市场情绪的名言	工具调用
-新闻分析师	获取关于宏观经济与事件的见解	工具调用
-基本面分析师	获取关于企业估值、护城河的经典原则	工具调用
-Bull/Bear Researcher	引用大师观点支持看涨/看跌论据	工具调用
-Research Manager	综合辩论时参考经典决策案例	工具调用
-Trader	获取大师关于交易纪律、资金管理的建议	工具调用      制定交易细节
-风险分析师	获取关于风险管理、安全边际的论述	工具调用
-Portfolio Manager	最终决策时引用大师原则	工具调用
+### Requirements
 
-在每个节点中增加一个可选的工具 retrieve_investment_wisdom，让 LLM 在需要时主动查询。这种方式对原有代码改动最小，且灵活。
+- Python 3.13+
+- Docker (optional but recommended)
 
+### Clone & Install
 
+```bash
+git clone <your-repo-url>
+cd TradingAgents
+conda create -n tradingagents python=3.13
+conda activate tradingagents
+pip install .
+```
 
+# Required for financial data
+FINANCIAL_DATASETS_API_KEY=your-api-key
 
+# For LLM (OpenAI‑compatible local endpoint)
+OPENAI_API_BASE=http://your-local-llm:port/v1
+OPENAI_API_KEY=dummy
 
+# Run
+```
+python cli/main.py
+```
+Or use the test script:
+```
+python test.py
+```
 
-为市场分析师（技术面）加入RAG
-
-  创建了RAG工具函数：在tradingagents/agents/utils/investment_rag.py中定义了retrieve_investment_wisdom。
-
-  注册了RAG工具：
-
-  在tradingagents/agents/utils/agent_utils.py中导入了该工具。
-
-  在tradingagents/graph/trading_graph.py的_create_tool_nodes方法中，将工具添加到了market分析师的ToolNode中。
-
-  在tradingagents/agents/analysts/market_analyst.py中，将工具加入到了tools列表，并在系统提示中添加了使用引导。
-
-  调整了模型参数：在tradingagents/llm_clients/openai_client.py中设置了max_tokens=8192。
-
-
-
-
-并非所有角色都必须加入巴菲特和芒格的 RAG。每个角色有不同的分析侧重点，强行注入大师智慧可能反而偏离其职责。例如：
-  市场分析师：主要负责技术指标、价格趋势，大师的“技术分析无用论”可能与任务冲突。
-  新闻分析师：需要客观解读宏观事件，大师言论可能引入主观偏见。
-  风险分析师：风险控制原则（如安全边际）是大师经典，但也可以独立于大师言论。
-因此，您可以根据角色的实际需要选择性加入。我建议至少保留以下角色的 RAG，因为它们与价值投资理念高度相关：
-  基本面分析师（估值、护城河）
-  Bull/Bear Researcher（辩论论据）
-  Research Manager（综合决策）
-  Portfolio Manager（最终决策）
-  Trader（交易纪律）
-
-
-
-
-注入方式	核心原理与特点	与传统“注入”的维度对比
-- 注入方式 : 全塞模式
-- 核心原理与特点 : 不依赖外部检索，直接将所有上下文一次性注入。优点是架构简单，能保留完整的文档结构；缺点是受限于模型上下文长度，且随着上下文变长，准确率可能下降。	
-- 与传统“注入”的维度对比
-  -- 信息源：静态的完整上下文
-  -- 决策者：无
-  -- 可靠性：低（受限于模型长文本能力）
-  -- 关键组件：LLM 服务
-
-- 注入方式 :Naive RAG
-- 核心原理与特点 : 基础的“检索-生成”模式。根据用户查询，从外部知识库中检索最相关的若干文档片段，直接拼接后输入给模型。
-- 与传统“注入”的维度对比
-  -- 信息源：检索到的外部知识
-  -- 决策者：预定义的检索器
-  -- 可靠性：中（受检索精度影响）
-  -- 关键组件：向量数据库
-
-- 注入方式 : Advanced RAG
-- 核心原理与特点 : 在 Naive RAG 基础上进行一系列优化，例如查询改写、索引优化、重排序等，以提升检索精度和生成质量。
-- 与传统“注入”的维度对比
-  -- 信息源：检索到的外部知识
-  -- 决策者：预定义的检索器
-  -- 可靠性：高
-  -- 关键组件：向量数据库、重排序模型
-
-- 注入方式 :Agentic RAG
-- 核心原理与特点 : 将检索能力交给智能体（Agent）自主决策。模型作为“大脑”，自行判断是否需要检索、检索什么、如何检索以及如何使用检索结果。你的“引导式工具注入”就属于此类。
-- 与传统“注入”的维度对比
-  -- 信息源：模型自主检索的外部知识
-  -- 决策者：Agent（LLM）
-  -- 可靠性：高（模型需具备良好工具使用能力）
-  -- 关键组件：LLM Agent、外部工具/API
-
-- 注入方式 :MCP 协议生态
-- 核心原理与特点 : 通过标准化协议，让Agent能动态发现并调用外部工具或服务。其“注入”方式主要体现为将工具检索结果作为上下文。
-- 与传统“注入”的维度对比
-  -- 信息源：动态发现的外部工具/服务
-  -- 决策者：Agent（LLM）
-  -- 可靠性：极高（协议约束）
-  -- 关键组件：MCP 服务器、Agent
-
-- 注入方式 :Tool RAG 检索增强
-- 核心原理与特点 : 核心思想是为工具（Tool）建立索引。当模型需要选择工具时，先从知识库中检索出最相关的几个工具，再将工具描述注入Prompt。
-- 与传统“注入”的维度对比
-  -- 信息源：动态检索的工具元数据
-  -- 决策者：预定义的检索器 + LLM
-  -- 可靠性：高（语义匹配）
-  -- 关键组件：向量数据库
-
-- 注入方式 :Contextual Retrieval
-- 核心原理与特点 : 旨在解决传统RAG中信息碎片化的问题。它在创建向量库时为每个文档块添加上下文信息（如出处、背景），以使检索更准确。
-- 与传统“注入”的维度对比
-  -- 信息源：含上下文的外部知识
-  -- 决策者：预定义的检索器
-  -- 可靠性：高
-  -- 关键组件：向量数据库

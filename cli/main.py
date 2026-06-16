@@ -32,7 +32,7 @@ from cli.announcements import fetch_announcements, display_announcements
 from cli.stats_handler import StatsCallbackHandler
 
 import os
-os.environ["FINANCIAL_DATASETS_API_KEY"] = "7822668c-eb7d-43b6-bee4-fb31a46e182a"
+os.environ["FINANCIAL_DATASETS_API_KEY"] = "xxx"
 
 console = Console()
 
