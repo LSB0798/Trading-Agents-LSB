@@ -1,0 +1,90 @@
+## WDAY News, from 2026-06-08 to 2026-06-22:
+
+### Workday (WDAY) Stock Could Be 31.7% Undervalued as AI Growth Narrative Faces a Market Test (source: Simply Wall St.)
+Workday (WDAY) has been under pressure recently, with the stock down 4% over the past day and 10% over the past week, extending a decline of 14% over the past 3 months. See our latest analysis for Workday. Looking beyond the latest move, Workday’s share price has been under pressure for some time, with the year to date share price return down 43.18% and the 1 year total shareholder return down 50.91%. This points to fading momentum as investors reassess growth and risk. If Workday’s pullback...
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-wday-stock-could-31-140658417.html
+
+### Workday (WDAY) Why Embark’s Commit Deal Could Matter For Its Ecosystem (source: Simply Wall St.)
+Embark has acquired Commit, a consulting firm focused on the Workday ecosystem. The deal expands Embark’s human capital advisory capabilities for Workday deployments and modernization projects. The transaction increases the pool of third party expertise available to companies using Workday for HR and finance. Workday (NasdaqGS:WDAY) sits at the center of many HR and finance transformation projects, and this acquisition highlights the level of interest external consultants have in the...
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-wday-why-embark-commit-071303426.html
+
+### Q1 Earnings Highs And Lows: Workday (NASDAQ:WDAY) Vs The Rest Of The Finance and HR Software Stocks (source: StockStory)
+Earnings results often indicate what direction a company will take in the months ahead. With Q1 behind us, let’s have a look at Workday (NASDAQ:WDAY) and its peers.
+Link: https://finance.yahoo.com/markets/stocks/articles/q1-earnings-highs-lows-workday-171728808.html
+
+### Workday Stock: Is WDAY Underperforming the Technology Sector? (source: Barchart)
+Workday has notably underperformed the Technology sector over the past year, but analysts are cautiously optimistic about the stock’s prospects.
+Link: https://www.barchart.com/story/news/2537582/workday-stock-is-wday-underperforming-the-technology-sector
+
+### What CIOs should know about AI-driven SaaS pricing changes (source: CIO Dive)
+SaaS vendors are rethinking their pricing models when it comes to AI, moving away from subscriptions and toward usage- or outcome-focused structures.
+Link: https://www.ciodive.com/news/software-pricing-changes-SaaS-AI/823170/
+
+### Base10, A VC Firm Co-Founded By Adeyemi Ajao, Raises $850M To Fund Early Stage AI-Focused Founders (source: AfroTech)
+Base10 will continue investing in founders who are centering their companies around automation.
+Link: https://finance.yahoo.com/technology/ai/articles/base10-vc-firm-co-founded-151255672.html
+
+### Stocks Indexes Finish Mostly Lower as Chipmakers Retreat (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.57%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.89%. June E-mini S&P futures (ESM26 ) fell -0.60%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2502375/stocks-indexes-finish-mostly-lower-as-chipmakers-retreat
+
+### Broader Market Weakens as Energy and Software Stocks Fall (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.83%. June E-mini S&P futures (ESM26 ) are down -0.20%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2496862/broader-market-weakens-as-energy-and-software-stocks-fall
+
+### Workday (WDAY) Just Partnered With Amazon And Short Sellers Are Still Dominating (source: Insider Monkey)
+Workday Inc. (NASDAQ:WDAY) is one of the 7 Worst Cloud Stocks To Buy According to Short Sellers. On June 2, Workday Inc. (NASDAQ:WDAY) announced a new integration between its data cloud and Amazon Web Services. This integration will allow developers to use Workday’s HR and financial data with Amazon Web Services. Moreover, this will make […]
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-wday-just-partnered-amazon-120501579.html
+
+### Workday (WDAY) Slid Over AI Risk (source: Insider Monkey)
+Madison Investments, an investment advisor, released its first-quarter 2026 investor letter for the “Madison Large Cap Fund”. A copy of the letter is available to download here. The Madison Large Cap Fund (Class I) declined 2.7% in the quarter, outperforming the S&P 500’s -4.33% return. The fund focuses on long-term capital appreciation. The quarter saw […]
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-wday-slid-over-ai-141044370.html
+
+### How one terrible trip inspired a tech IPO: Navan Co-Founder (source: Yahoo Finance Video)
+Navan Co-founder and CEO Ariel Cohen shares with Yahoo Finance Executive Editor Brian Sozzi how his frustration with broken corporate travel systems led him to disrupt the industry, detailing Navan's journey to going public and the cutting-edge role of AI in modernizing business travel.
+Link: https://finance.yahoo.com/video/one-terrible-trip-inspired-tech-100000598.html
+
+### Workday Bets On Trusted AI Agents And AWS Data Ties To Reignite Growth (source: Simply Wall St.)
+Workday (NasdaqGS:WDAY) announced new AI and data features, including the Agent Passport security compliance platform for AI agents. The company introduced new agentic developer tools through the Workday Build platform. Workday Data Cloud is now fully integrated with Amazon Web Services, enabling bi directional data connections. Cisco is partnering with Workday to provide third party validation of AI agent security. For investors tracking NasdaqGS:WDAY, these product moves arrive after a...
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-bets-trusted-ai-agents-001543179.html
+
+### Adobe CFO Quits to Join a Chipmaker. You Shouldn’t Quit ADBE Stock. (source: Barchart)
+Adobe stock has fallen to a seven-year low, and the AI disruption fears are being compounded by the departure of its top leadership. Is ADBE stock a buy at these levels?
+Link: https://www.barchart.com/story/news/2462322/adobe-cfo-quits-to-join-a-chipmaker-you-shouldnt-quit-adbe-stock
+
+### Stocks See Support from Hopes for a Near-term US-Iran Agreement (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) is up +0.29%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.37%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.41%. June E-mini S&P futures (ESM26 ) are up +0.28%, and June E-mini Nasdaq futures (NQM26...
+Link: https://www.barchart.com/story/news/2442017/stocks-see-support-from-hopes-for-a-near-term-us-iran-agreement
+
+### Stocks See Downward Pressure Despite Hopes for a Near-term US-Iran Agreement (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) is down -0.31%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.53%. June E-mini S&P futures (ESM26 ) are down -0.15%, and June E-mini Nasdaq futures (NQM26...
+Link: https://www.barchart.com/story/news/2441757/stocks-see-downward-pressure-despite-hopes-for-a-near-term-us-iran-agreement
+
+### Stocks Settle Sharply Higher on Middle East Peace Hopes (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.75%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.86%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.29%. June E-mini S&P futures (ESM26 ) rose +1.73%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2430056/stocks-settle-sharply-higher-on-middle-east-peace-hopes
+
+### Stocks Supported by a Rebound in Chipmakers and AI Stocks (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.03%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.37%. June E-mini S&P futures (ESM26 ) are up +0.03%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2424249/stocks-supported-by-a-rebound-in-chipmakers-and-ai-stocks
+
+### Stocks Edge Higher as Chipmakers and AI Stocks Rebound (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.53%. June E-mini S&P futures (ESM26 ) are up +0.29%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2422896/stocks-edge-higher-as-chipmakers-and-ai-stocks-rebound
+
+### 3 S&P 500 Stocks with Questionable Fundamentals (source: StockStory)
+The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-questionable-100137048.html
+
+### Workday, Oracle, and Palantir Technologies Shares Plummet, What You Need To Know (source: StockStory)
+A number of stocks fell in the afternoon session after Anthropic released new models (Claude Fable 5 and Claude Mythos 5) which were described as built for "the hardest knowledge work and coding problems."
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-oracle-palantir-technologies-shares-235014288.html
+
+### Broader Market Settles Lower as Chip Stocks Sink (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.17%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.12%. June E-mini S&P futures (ESM26 ) fell -0.36%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2387060/broader-market-pressured-as-chip-stocks-sink
+
+### Stocks Erase Early Gains as Chipmakers Turn Lower (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.28%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.80%. June E-mini S&P futures (ESM26 ) are down -0.25%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2381403/stocks-erase-early-gains-as-chipmakers-turn-lower
+

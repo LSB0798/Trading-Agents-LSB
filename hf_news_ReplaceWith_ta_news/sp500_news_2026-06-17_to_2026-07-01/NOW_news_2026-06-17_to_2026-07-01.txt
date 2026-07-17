@@ -1,0 +1,202 @@
+## NOW News, from 2026-06-17 to 2026-07-01:
+
+### Is The Market Ignoring The Real Growth Story In Salesforce Stock? (source: Trefis)
+It’s no secret that Salesforce (CRM) stock has been a tough holding. With shares down 41% over the last year, the market’s verdict seems clear: the era of hyper-growth is over, and with it, the premium valuation. The conversation is almost entirely about the top line.
+Link: https://www.trefis.com/articles/605160/is-the-market-ignoring-the-real-growth-story-in-salesforce-stock/2026-06-30
+
+### Adobe vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026? (source: Motley Fool)
+Adobe boasts a 30% net margin, while ServiceNow posts 20.9% revenue growth and fresh AI acquisitions, yet risk and valuation set them further apart.
+Link: https://www.fool.com/coverage/better-buy/2026/06/30/adobe-vs-servicenow-which-technology-stock-is-a-better-buy-in-2026/
+
+### This Week In Cloud AI - AI-Powered Attacks Highlight Gaps In Cloud Security Strategies (source: Simply Wall St.)
+Recent research by Skyhawk Security highlights a significant security concern within cloud AI environments, demonstrating how their AI Autonomous Attack Simulation was able to take control of a company's AWS organization in mere seconds. The simulation revealed a critical cloud security blind spot where a chain of legitimate configurations can be exploited to gain full organizational control, challenging traditional security measures. Despite the target company adhering to best practices in...
+Link: https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-ai-powered-123805790.html
+
+### ServiceNow's Q2 2026 Earnings: What to Expect (source: Barchart)
+ServiceNow is scheduled to announce its second-quarter results soon, with analysts anticipating a single-digit earnings decline.
+Link: https://www.barchart.com/story/news/3052357/servicenow-s-q2-2026-earnings-what-to-expect
+
+### ServiceNow, Accenture unveil AI-driven cyber risk management offering (source: Verdict)
+The AI-enabled security and migration services aim to help organisations reduce cyber risk and modernise legacy systems.
+Link: https://www.verdict.co.uk/servicenow-accenture-cyber-risk-management/
+
+### Microsoft (MSFT) AI Story Gains Momentum with Deutsche Bank Call and CIO Survey (source: Insider Monkey)
+Microsoft Corporation (NASDAQ:MSFT) is one of the 14 AI Stocks Making Moves on Wall Street: Nvidia, Micron, and More. On June 26, Deutsche Bank reiterated the stock as “Buy,” noting that the stock is underappreciated. We are planting our flag and affirming that current AI businesses across the cloud providers we cover are indeed value […]
+Link: https://finance.yahoo.com/technology/ai/articles/microsoft-msft-ai-story-gains-102539656.html
+
+### ServiceNow Rises on AI Bundle Momentum (source: GuruFocus.com)
+BTIG checks point to stronger bundle traction.
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-rises-ai-bundle-momentum-192600656.html
+
+### ServiceNow (NOW) Launches AI Cybersecurity Push With Accenture And Expands IBM Partnership (source: Simply Wall St.)
+ServiceNow (NYSE:NOW) and Accenture have launched a new AI powered cybersecurity services offering and migration tool, targeting enterprise clients looking to tighten cyber controls and shift workloads to the ServiceNow platform. ServiceNow has expanded its multi year AI partnership with IBM to help integrate legacy enterprise systems, with joint AI driven solutions scheduled for release in late 2026. Both moves focus on high impact use cases for large companies, including cyber risk...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-launches-ai-cybersecurity-190622645.html
+
+### ServiceNow, Accenture Expand AI Cyber Push (source: GuruFocus.com)
+The companies launched new AI-powered cybersecurity services for enterprise customers.
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-accenture-expand-ai-cyber-175120072.html
+
+### ServiceNow’s New IBM Partnership: A Real Catalyst, or Just Software-Selloff Noise? (source: 24/7 Wall St.)
+Earlier this month, ServiceNow (NYSE:NOW) and IBM (NYSE:IBM) announced an expanded multi-year collaboration to make legacy enterprise systems “AI-ready,” integrating watsonx.data, Red Hat Ansible, Instana, HashiCorp Terraform and Vault, and IBM Bob into the ServiceNow AI Platform, with joint solutions expected in the second half of 2026. The pitch is serious. The market reaction, less so. ServiceNow ... ServiceNow’s New IBM Partnership: A Real Catalyst, or Just Software-Selloff Noise?
+Link: https://247wallst.com/investing/2026/06/29/servicenows-new-ibm-partnership-a-real-catalyst-or-just-software-selloff-noise/
+
+### NOW, WDAY, ADBE, CRM: Software Stocks On The Rebound As OpenAI Threat Weakens (source: Stocktwits)
+ServiceNow rose nearly 10% on Friday and was one of the top gainers in the S&P 500.
+Link: https://stocktwits.com/news-articles/markets/equity/now-wday-adbe-crm-software-stocks-on-the-rebound-as-open-ai-threat-weakens/cZ1BvdzR7W6
+
+### ServiceNow (NOW) and IBM Announce Expanded Collaboration (source: Insider Monkey)
+ServiceNow, Inc. (NYSE:NOW) is one of the best trending AI stocks to watch in 2026. ServiceNow, Inc. (NYSE:NOW) and IBM announced on June 11 an expanded collaboration to address two of the most significant barriers blocking enterprise AI at scale. These include the AI-ready data problem and the legacy application layer. Management stated that the […]
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-ibm-announce-expanded-190750312.html
+
+### ServiceNow (NOW) Stock Trades Up, Here Is Why (source: StockStory)
+Shares of enterprise workflow automation company ServiceNow (NYSE:NOW) jumped 8.5% in the afternoon session after investors bought the dip, as the market decided that the recent deep sell-off in software was overdone.
+Link: https://finance.yahoo.com/markets/stocks/articles/servicenow-now-stock-trades-why-224025914.html
+
+### Why ServiceNow Stock Gained 9.9%on Friday (source: Motley Fool)
+ServiceNow jumped nearly 10% on Friday while the broader market fell. Here's why.
+Link: https://www.fool.com/investing/2026/06/26/why-servicenow-stock-gained-99on-friday/
+
+### The Market Rotation Is On. ServiceNow, Workday, and AppLovin Rise as Software Tops Chips. (source: Barrons.com)
+ServiceNow, Workday, and AppLovin are software stocks trading near the top of the S&P 500. Is the AI narrative around software changing?
+Link: https://www.barrons.com/articles/servicenow-applovin-software-chips-on-semiconductor-4496e4be?siteid=yhoof2&yptr=yahoo
+
+### Microsoft and Amazon Lead Tech Spending Survey (source: GuruFocus.com)
+CIOs expect stronger software and cloud spending.
+Link: https://finance.yahoo.com/technology/articles/microsoft-amazon-lead-tech-spending-175004951.html
+
+### Palantir Joins Software Stock Rally Amid Semiconductor, Tech Sell-Off (source: Investor's Business Daily)
+Palantir stock rose Friday amid a software rebound. Palantir would snap a seven-session losing streak if it closes up.
+Link: https://www.investors.com/news/technology/palantir-stock-rises-software-sector-rallies-semiconductor-sell-off/?src=A00220&yptr=yahoo
+
+### The AI Selloff Is Getting Brutal: 10 Tech Giants Already Deep in Bear Market Territory (source: 24/7 Wall St.)
+The AI boom promised to create a new generation of market winners. Instead, it has also exposed just how quickly expectations can outrun reality. After years of paying premium valuations for anything tied to artificial intelligence, investors are now demanding stronger earnings, disciplined spending, and proof that massive AI investments will generate real returns. The ... The AI Selloff Is Getting Brutal: 10 Tech Giants Already Deep in Bear Market Territory
+Link: https://247wallst.com/investing/2026/06/26/the-ai-selloff-is-getting-brutal-10-tech-giants-already-deep-in-bear-market-territory/
+
+### Jefferies says these 4 software stocks screen well in IT exec survey (source: Investing.com)
+Investing.com -- Microsoft, Amazon Web Services, Palo Alto Networks and ServiceNow emerged as the strongest performers in a Jefferies survey of 40 IT executives, it was revealed on Friday.
+Link: https://finance.yahoo.com/markets/stocks/articles/jefferies-says-4-software-stocks-145219806.html
+
+### UiPath Broadens Enterprise Automation Ambitions With Maestro Case (source: Zacks)
+PATH's Maestro Case launch expands its reach into complex enterprise workflows, deepening its push beyond traditional automation.
+Link: https://finance.yahoo.com/technology/articles/uipath-broadens-enterprise-automation-ambitions-135400076.html
+
+### Human-led Management of Autonomous Digital Workers: Pax8 Global Sr Director Renee McCloden, Halo CCO Tim Barton-Wines, Live from Pax8 Beyond 2026 (source: Exec Edge)
+Watch Video Highlights Below, or Click HERE: Tech Edge hosted a fireside chat on June 8 at Pax8 Beyond 2026 in Salt Lake City with Renee McCloden, Global Senior Director of Vendor Strategy and Programs at Pax8, and Tim Barton-Wines, Chief Commercial Officer at Halo Solutions. The in-person interview was joined by Editor-at-Large Jarrett Banks and […] The post Human-led Management of Autonomous Digital Workers: Pax8 Global Sr Director Renee McCloden, Halo CCO Tim Barton-Wines, Live from Pax8 Beyo
+Link: https://tech.yahoo.com/ai/deals/articles/human-led-management-autonomous-digital-133929084.html
+
+### Latest News In Cloud AI - Quantum-Classical Chemistry Collaboration Leverages AWS in Singapore (source: Simply Wall St.)
+A recent collaboration between Classiq and Hatch in Singapore has advanced the field of cloud-based quantum-classical computational chemistry by executing a proof-of-concept project through Amazon Web Services (AWS) and Braket. The project, developed as part of Hatch’s Dimension X innovation challenge, demonstrated a hybrid workflow for estimating molecular binding energy, which plays a crucial role in understanding molecular interactions with protein targets. Utilizing Classiq’s quantum...
+Link: https://finance.yahoo.com/technology/ai/articles/latest-news-cloud-ai-quantum-123817771.html
+
+### Oppenheimer Reaffirms Bullish Outlook on ServiceNow (NOW) Amid AI Growth and Cognizant Partnership (source: Insider Monkey)
+ServiceNow Inc. (NYSE:NOW) ranks among the best set-it-and-forget-it stocks to buy right now. Following a discussion with ServiceNow Inc. (NYSE:NOW) management, Oppenheimer reiterated its Outperform rating and $130 price target for ServiceNow on June 10. The conversation left the firm slightly optimistic about ServiceNow’s second-half 2026 prospects and the likelihood of business reacceleration in the […]
+Link: https://finance.yahoo.com/markets/stocks/articles/oppenheimer-reaffirms-bullish-outlook-servicenow-111106946.html
+
+### 1 Large-Cap Stock with Impressive Fundamentals and 2 We Question (source: StockStory)
+Large-cap stocks have the power to shape entire industries thanks to their size and widespread influence. With such vast footprints, however, finding new areas for growth is much harder than for smaller, more agile players.
+Link: https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-impressive-100025378.html
+
+### Now Corporation (PSE:NOW) Approves Board Changes, New Risk Chief, And Office Move (source: Simply Wall St.)
+Now Corporation (PSE:NOW) approved board-level leadership changes at a recent meeting. Directors confirmed new committee appointments and elected a new Chief Risk Officer. The board also approved the relocation of the company’s principal office. PSE:NOW is trading at ₱0.59, with the stock up 49.4% over the past year, down 15.7% year to date, and down 6.3% over the past 30 days. These mixed returns provide context for shareholders assessing how Now Corporation is organizing itself at the...
+Link: https://finance.yahoo.com/markets/stocks/articles/now-corporation-pse-now-approves-020658942.html
+
+### ServiceNow: An Excellent Business Trading at a Discount (source: Motley Fool)
+ServiceNow is doing everything right, and its stock price should begin to reflect that fact.
+Link: https://www.fool.com/investing/2026/06/25/servicenow-excellent-business-trading-at-discount/
+
+### Can AI Infrastructure Demand Fuel CDW's Growth in 2026? (source: Zacks)
+CDW is riding the rising AI infrastructure demand as customers move from testing to deployment, fueling sales growth and expanding opportunities in services.
+Link: https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-demand-fuel-cdws-135100570.html
+
+### Salesforce vs. ServiceNow: What Do Their Revenue Trends Tell Investors? (source: Motley Fool)
+Salesforce maintains a larger revenue base, while ServiceNow posts steadier gains each quarter. Explore how their financial paths have diverged.
+Link: https://www.fool.com/coverage/charts/2026/06/25/salesforce-vs-servicenow-what-do-their-revenue-trends-tell-investors/
+
+### TD SYNNEX (SNX) Tops Q2 Earnings and Revenue Estimates (source: Zacks)
+TD SYNNEX (SNX) delivered earnings and revenue surprises of +19.12% and +16.23%, respectively, for the quarter ended May 2026. Do the numbers hold clues to what lies ahead for the stock?
+Link: https://finance.yahoo.com/markets/stocks/articles/td-synnex-snx-tops-q2-121502714.html
+
+### PubMatic and Freshworks Shares Are Soaring, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/pubmatic-freshworks-shares-soaring-know-023225338.html
+
+### GoDaddy, HubSpot, and Upstart Shares Skyrocket, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/godaddy-hubspot-upstart-shares-skyrocket-022425350.html
+
+### Sprout Social, Intuit, and PagerDuty Shares Skyrocket, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/sprout-social-intuit-pagerduty-shares-020825543.html
+
+### Commerce and Q2 Holdings Shares Skyrocket, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/commerce-q2-holdings-shares-skyrocket-015225060.html
+
+### Braze and Paylocity Shares Skyrocket, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/braze-paylocity-shares-skyrocket-know-012025366.html
+
+### Alarm.com and ZoomInfo Stocks Trade Up, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/alarm-com-zoominfo-stocks-trade-011225992.html
+
+### DocuSign (DOCU) Stock Trades Up, Here Is Why (source: StockStory)
+Shares of electronic signature company DocuSign (NASDAQ:DOCU) jumped 3.3% in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/docusign-docu-stock-trades-why-010425444.html
+
+### Varonis Systems, Appian, and Wix Stocks Trade Up, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/varonis-systems-appian-wix-stocks-005625316.html
+
+### GitLab, Commvault, and Flywire Stocks Trade Up, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the 10-year Treasury yield dropped below 4.5%, providing valuation relief amid a broader tech pullback.
+Link: https://finance.yahoo.com/markets/stocks/articles/gitlab-commvault-flywire-stocks-trade-004825751.html
+
+### ServiceNow (NOW) Dips More Than Broader Market: What You Should Know (source: Zacks)
+ServiceNow (NOW) closed at $93.8 in the latest trading session, marking a -2.23% move from the prior day.
+Link: https://finance.yahoo.com/markets/stocks/articles/servicenow-now-dips-more-broader-214503034.html
+
+### Atlassian's Service Collection Momentum Builds: More Growth Ahead? (source: Zacks)
+TEAM's Service Collection tops $1B in ARR as AI adoption, enterprise demand and non-IT deployments support its role as a growth driver.
+Link: https://finance.yahoo.com/markets/stocks/articles/atlassians-collection-momentum-builds-more-132500282.html
+
+### ServiceNow, Inc. (NOW) Is a Trending Stock: Facts to Know Before Betting on It (source: Zacks)
+Recently, Zacks.com users have been paying close attention to ServiceNow (NOW). This makes it worthwhile to examine what the stock has in store.
+Link: https://finance.yahoo.com/markets/stocks/articles/servicenow-inc-now-trending-stock-130002897.html
+
+### AI Concerns Hurt ServiceNow (NOW) Despite Strong Earnings (source: Insider Monkey)
+Burke Wealth Management, an investment management company, released its “Focused Growth Strategy” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -10.6% in Q1 2026, significantly lagging the S&P 500’s -4.3% returns. The letter noted the quarter as the worst for equities since 2022, with strong corporate earnings being […]
+Link: https://finance.yahoo.com/markets/stocks/articles/ai-concerns-hurt-servicenow-now-125200186.html
+
+### Unlocking an AI Boom in Small Business: Pax8 VP of AI Adoption Chance Weaver, Live from Pax8 Beyond 2026 (source: Exec Edge)
+Watch Video Highlights Below, or Click HERE: Tech Edge hosted a fireside chat on June 9 at Pax8 Beyond 2026 in Salt Lake City with Chance Weaver, Vice President of AI Adoption at Pax8. The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed how managed service providers can help small businesses adopt AI […] The post Unlocking an AI Boom in Small Business: Pax8 VP of AI Adoption Chance Weaver, Live from Pax8 Beyond 2026 appeared first on ExecEdge.
+Link: https://tech.yahoo.com/ai/articles/unlocking-ai-boom-small-business-120021762.html
+
+### ServiceNow (NOW) Expands AI Governance And Public Sector Reach With New Partnerships (source: Simply Wall St.)
+Over the past several days, ServiceNow (NYSE:NOW) has announced multiple partnerships focused on AI governance, public sector modernization, and secure workflows. Inspira Enterprise will use ServiceNow's AI Control Tower for AI governance, while ID.me and Servos integrations target state health and human services systems. Nametag's deeper integration is aimed at improving identity assurance within ServiceNow's service desk and IT workflows. ServiceNow enters this news cycle with its shares...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-expands-ai-governance-221249158.html
+
+### Raymond James sees ServiceNow pricing power driving high-margin growth (source: Investing.com)
+Investing.com -- Raymond James analyst Adam Tindle published an industry brief Tuesday flagging early evidence that ServiceNow Inc (NYSE:NOW) is implementing price increases that could exceed the company's own guidance, arguing the dynamic could simultaneously accelerate near-term revenue and deliver durable, high-margin growth that the broader market has yet to fully appreciate.
+Link: https://finance.yahoo.com/markets/stocks/articles/raymond-james-sees-servicenow-pricing-201847087.html
+
+### Wall Street expects SaaS giant to gain 52%, despite AI threat (source: TheStreet)
+The stock market has not been kind to enterprise software names over the past year. Valued at a market cap of $98 billion, ServiceNow stock is down 60% from all-time highs. However, the pullback offers you an opportunity to buy the dip, as per Wall Street. 33 of 37 analysts covering the ...
+Link: https://www.thestreet.com/investing/stocks/now-servicenow-wall-street-expects-saas-giant-to-gain-52-despite-ai-threat
+
+### Aria Systems, ServiceNow (NOW) Launch World’s First Agentic BSS for Communication Service Providers (source: Insider Monkey)
+ServiceNow Inc. (NYSE:NOW) is one of the most promising long-term stocks to buy according to analysts. On June 18, Aria Systems and ServiceNow partnered to launch the world’s first agentic Business Support System/BSS designed for communication services providers/CSPs. By combining ServiceNow’s CRM and workflow automation with Aria’s real-time billing and monetization technologies, the platform provides […]
+Link: https://finance.yahoo.com/technology/ai/articles/aria-systems-servicenow-now-launch-191922073.html
+
+### Cognizant (CTSH) Integrates ServiceNow (NOW) AI Agents With Neuro AI Multi-Agent Accelerator (source: Insider Monkey)
+Cognizant Technology Solutions Corporation (NASDAQ:CTSH) is one of the most promising stocks with highest upside potential. On June 18, Cognizant announced that ServiceNow (NOW) AI Agents are now interoperable with the Cognizant Neuro AI Multi-Agent Accelerator, enabling enterprises to unify and orchestrate AI agents across disparate platforms. This integration allows ServiceNow’s specialized agents to function […]
+Link: https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-integrates-servicenow-now-185458015.html
+
+### Jim Cramer on Paychex: “I’m Not Going to Fight the Tide” (source: Insider Monkey)
+Paychex, Inc. (NASDAQ:PAYX) was among the stocks Jim Cramer discussed as he said that the Iran peace negotiations could trigger an oil glut, cool inflation, and pull interest rates down. Cramer highlighted the AI worries around the stock, as he said: Paychex reports in the morning and their quarters have been poorly received of late, […]
+Link: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-paychex-m-not-143137561.html
+
+### CTSH Grows Through Strong Partnerships: Buy, Sell or Hold the Stock? (source: Zacks)
+Cognizant deepens AI partnerships and sees strong bookings growth, but macro uncertainty and soft demand cloud its near-term outlook.
+Link: https://finance.yahoo.com/technology/ai/articles/ctsh-grows-strong-partnerships-buy-142500654.html
+

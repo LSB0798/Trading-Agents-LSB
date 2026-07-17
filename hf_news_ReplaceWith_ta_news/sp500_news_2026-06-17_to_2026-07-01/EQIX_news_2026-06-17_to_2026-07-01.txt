@@ -1,0 +1,42 @@
+## EQIX News, from 2026-06-17 to 2026-07-01:
+
+### Equinix (EQIX) Stock Dips While Market Gains: Key Facts (source: Zacks)
+The latest trading day saw Equinix (EQIX) settling at $1, representing a -3.94% change from its previous close.
+Link: https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-stock-dips-while-221502505.html
+
+### Cisco (CSCO) Expands AI And Quantum Networking Ties With Equinix Rafay And Rotterdam (source: Simply Wall St.)
+Cisco Systems is taking a larger role in enterprise AI infrastructure through its involvement in the Equinix NVIDIA Secure AI Factory expansion. The company has become a Cisco Solutions Plus partner with Rafay Systems to integrate Kubernetes orchestration and governance into complex environments. Cisco is a founding participant in the Quantum Communication Fieldlab Rotterdam, focused on real world deployment of quantum secure networking. Cisco Systems (NasdaqGS:CSCO) is tying its core...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-csco-expands-ai-quantum-170623615.html
+
+### Multiple Factors Lifted Equinix (EQIX) in Q1 (source: Insider Monkey)
+Meridian Funds, managed by ArrowMark Partners, released its first-quarter 2026 investor letter for “Meridian Hedged Equity Fund”. A copy of the letter can be downloaded here. The Fund invests in high-quality growth companies and mitigates risk by writing call options. Following the late-February strike on Iran, oil prices surged, leading to a risk-off sentiment, boosting […]
+Link: https://finance.yahoo.com/markets/stocks/articles/multiple-factors-lifted-equinix-eqix-131456194.html
+
+### Here’s Why Cisco (CSCO) is Among the 15 Best AI Stocks That Will Make You Rich in 10 Years (source: Insider Monkey)
+Cisco Systems, Inc. (NASDAQ:CSCO) is one of the 15 Best AI Stocks That Will Make You Rich in 10 Years. On June 25, 2026, KeyBanc raised its price target on Cisco Systems, Inc. (NASDAQ:CSCO) to $130 from $125 and kept an Overweight rating. KeyBanc’s chief investment officer survey for the first half of 2026 showed […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-among-15-193230478.html
+
+### AI Data Center Boom Could Drive Fuel Cell Market to $30 Billion by 2030 (source: Oilprice.com)
+Rystad Energy expects fuel-cell market revenues to surge from $2.8 billion in 2025 to $30 billion by 2030.
+Link: https://finance.yahoo.com/energy/articles/ai-data-center-boom-could-150000082.html
+
+### How Cisco’s Secure AI Factory and Quantum Networking Bets Could Reshape the Cisco Systems (CSCO) Narrative (source: Simply Wall St.)
+In June 2026, Equinix announced an expanded collaboration with Cisco and NVIDIA to bring the Cisco Secure AI Factory into Equinix’s global data centers, while Cisco also joined Eurofiber, QBird and others as a founding partner of the Quantum Communication Fieldlab Rotterdam to advance quantum-secure networking in real-world infrastructure. Together, these initiatives highlight Cisco’s push to embed its networking and security technology at the heart of emerging AI and quantum-secure...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-secure-ai-factory-quantum-151046091.html
+
+### Why Cisco (CSCO) Is Turning AI Infrastructure Into a Hybrid Data Center Security Opportunity (source: Insider Monkey)
+Cisco Systems, Inc. (NASDAQ:CSCO) is one of Kevin O’Leary’s top stock picks for 2026 through the O’Shares U.S. Quality Dividend ETF. The stock made up 4.41% of the ETF as of June 17, 2026. On June 16, 2026, Equinix said it had expanded a collaboration with Cisco and NVIDIA to help enterprises deploy Cisco Secure […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-turning-ai-075218669.html
+
+### Cisco (CSCO) Pushes Further Into Quantum Security And Enterprise AI (source: Simply Wall St.)
+Cisco Systems (NasdaqGS:CSCO) is a founding partner in the new Quantum Communication Fieldlab Rotterdam, focused on quantum secure networking. The initiative is intended to test and validate quantum resistant communication infrastructure in real world conditions. Cisco also launched the Secure AI Factory with Equinix and NVIDIA, aimed at simplifying enterprise scale AI deployment. The Secure AI Factory centers on pre integrated infrastructure that combines networking, compute, and colocation...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-csco-pushes-further-quantum-021030455.html
+
+### Equinix Is Now Becoming a Key Stop in the AI Supply Chain. How to Play EQIX Stock Here. (source: Barchart)
+Equinix combines AI exposure, solid execution, and analyst support, but investors must weigh those strengths against a rich valuation.
+Link: https://www.barchart.com/story/news/2544143/equinix-is-now-becoming-a-key-stop-in-the-ai-supply-chain-how-to-play-eqix-stock-here
+
+### Equinix Strengthens AI Infrastructure With Cisco & NVIDIA Partnerships (source: Zacks)
+EQIX expands partnerships with Cisco and NVIDIA to speed enterprise AI adoption with standardized AI factory blueprints.
+Link: https://finance.yahoo.com/technology/ai/articles/equinix-strengthens-ai-infrastructure-cisco-173500405.html
+

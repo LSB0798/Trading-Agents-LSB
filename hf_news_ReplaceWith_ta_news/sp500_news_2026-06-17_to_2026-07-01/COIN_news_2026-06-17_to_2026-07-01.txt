@@ -1,0 +1,202 @@
+## COIN News, from 2026-06-17 to 2026-07-01:
+
+### AMD stock jumps, Circle plummets on stablecoin competition (source: Yahoo Finance Video)
+Market Domination Host Josh Lipton tracks several of the day's top trending stock tickers, including Advanced Micro Devices (AMD) shares getting a lift after Wells Fargo analysts boosted their price target on the chipmaker's stock, while Circle Internet Group (CRCL) plummets on reported stablecoin competition from other firms.
+Link: https://finance.yahoo.com/video/amd-stock-jumps-circle-plummets-on-stablecoin-competition-192026614.html
+
+### Circle stock tumbles as a rival stablecoin enters market (source: TheStreet)
+There is a new stablecoin in town, and an old player's stock is facing the heat. A stablecoin is an integral part of the DeFi infrastructure. It is a cryptocurrency designed to hold a steady value by pegging to an asset like the dollar, typically backed by reserves such as cash and ...
+Link: https://www.thestreet.com/crypto/markets/circle-stock-tumbles-as-a-rival-stablecoin-enters-market
+
+### Coinbase (COIN) Stock Trades Down, Here Is Why (source: StockStory)
+Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) fell 4.8% in the afternoon session after a broad sell-off in the cryptocurrency market was led by Bitcoin falling below the key $60,000 level.
+Link: https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-stock-trades-down-213101582.html
+
+### Coinbase Global vs. Robinhood Markets: Which Financial Stock Is a Better Buy in 2026? (source: Motley Fool)
+Coinbase and Robinhood give investors two different ways to bet on the future of digital finance: crypto infrastructure or a broader retail trading platform. The comparison turns on growth, valuation, and which model can better withstand shifting markets and regulation.
+Link: https://www.fool.com/coverage/better-buy/2026/06/30/coinbase-global-vs-robinhood-markets-which-financial-stock-is-a-better-buy-in-2026/
+
+### American Express (AXP) Joins Open USD And Adds Apple Pay Rewards Redemptions (source: Simply Wall St.)
+American Express joined more than 140 companies to back Open USD, a new stablecoin initiative aimed at fee free digital on and off ramps. The Open USD effort includes major payments and crypto platforms such as Stripe, Coinbase, Mastercard, and Visa. American Express also introduced direct Membership Rewards redemptions through Apple Pay for online and in app purchases. Both announcements highlight how American Express is pushing deeper into digital payments and everyday rewards usage. For...
+Link: https://finance.yahoo.com/markets/stocks/articles/american-express-axp-joins-open-210829548.html
+
+### BlackRock, Google Join Banks and Crypto Firms in Backing New Stablecoin (source: The Wall Street Journal)
+A consortium backed by companies including BlackRock, Google and Coinbase said Tuesday that it is launching a stablecoin. Called Open USD, the new dollar-backed stablecoin is slated to be offered later this year on the Coinbase-affiliated blockchain Base, as well as on Solana and other networks.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/blackrock-google-join-banks-and-crypto-firms-in-backing-new-stablecoin-czjc2S3yJVxmofXLQpzP?siteid=yhoof2&yptr=yahoo
+
+### Coinbase (COIN) Faces Questions After Base Outage Halts Its Blockchain Network (source: Simply Wall St.)
+Coinbase Global's Base layer-2 blockchain experienced a significant outage, causing a consensus halt and interrupting transactions. The disruption exposed concerns around Base's reliance on a single sequencer and broader questions about network centralization and resilience. Coinbase implemented an upgrade and restored the network, aiming to address technical vulnerabilities and maintain onchain service reliability. For investors tracking NasdaqGS:COIN, the Base outage arrives against a...
+Link: https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-faces-questions-outage-200646083.html
+
+### Visa And Mastercard Launch New Stablecoin (source: CryptoProwl)
+A consortium led by credit card giants Visa (NYSE: $V) and Mastercard (NYSE: $MA) have launched a new global stable...
+Link: https://www.cryptoprowl.com/releases/visa-and-mastercard-launch-new-stablecoin-6034
+
+### Aptos, Visa and BlackRock among 140 firms launching new stablecoin (source: TheStreet)
+Aptos Labs has joined more than 140 companies, including Visa, Mastercard, Coinbase, and BlackRock, in backing the launch of Open USD, a new stablecoin designed to solve persistent cost and access problems in global payments. Open Standard, the company behind the new stablecoin, unveiled Open USD ...
+Link: https://www.thestreet.com/crypto/markets/aptos-visa-and-blackrock-among-140-firms-launching-new-stablecoin
+
+### Circle Stock Sinks After Visa, Others Announce Rival Stablecoin Network (source: Barrons.com)
+USDC, which Circle and Coinbase co-founded, has reigned as the largest U.S.-based stablecoin. Partners in a new rival include payments companies and tech firms like IBM.
+Link: https://www.barrons.com/articles/circle-stock-price-stablecoin-network-visa-d0be710d?siteid=yhoof2&yptr=yahoo
+
+### Dozens of Major Companies Become Open USD Launch Partners (source: Bankless)
+Some of the biggest names in finance and beyond are joining forces to back the Open USD stablecoin.
+Link: https://www.bankless.com/read/news/dozens-of-major-companies-become-open-usd-launch-partners
+
+### Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin (source: decrypt)
+The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase—a key backer of Circle’s USDC.
+Link: https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin
+
+### Coinbase Strategist: Bitcoin Has Survived “6 of These Cycles” in 15 Years and “Over 40 Countries” Hold Bitcoin (source: 24/7 Wall St.)
+Coinbase (NASDAQ:COIN) Head of Institutional Strategy John D’Agostino used a recent CNBC Squawk Box appearance to push back on the wave of skepticism that has followed a brutal stretch for crypto prices. His core argument is that Bitcoin has already survived six major boom-and-bust cycles, making today’s downturn look more like history repeating than a ... Coinbase Strategist: Bitcoin Has Survived “6 of These Cycles” in 15 Years and “Over 40 Countries” Hold Bitcoin
+Link: https://247wallst.com/investing/2026/06/30/coinbase-strategist-bitcoin-has-survived-6-of-these-cycles-in-15-years-and-over-40-countries-hold-bitcoin/
+
+### Here's Why Wall Street And Big Tech Are Uniting Behind A Stablecoin To Rival Circle And Tether (source: Stocktwits)
+OUSD launch comes as US lawmakers advance the CLARITY Act, with supporters arguing that clearer crypto rules will spur institutional adoption.
+Link: https://stocktwits.com/news-articles/markets/cryptocurrency/wallstreet-big-tech-stablecoin-rival-circle-tether/cZ1QN3GR70B
+
+### Circle Stock Falls 15% as New Rival Stablecoin Targets USDC’s Enterprise Users (source: BeInCrypto)
+Circle stock fell as Open USD launched with 140 backers including Visa and Coinbase, challenging USDC's lead in payments.
+Link: https://beincrypto.com/open-usd-stablecoin-circle-usdc/
+
+### Consortium including Visa, Mastercard jointly launch new global stablecoin (source: Reuters)
+A consortium including Visa, Mastercard and Coinbase on Tuesday launched a new joint stablecoin in a bid to broaden the ‌adoption of the digital tokens.  The venture, called Open Standard, brings together more ‌than 140 businesses for the stablecoin network and will issue a new U.S.-dollar pegged stablecoin called Open ​USD, which is expected to go live later this year.  It is aimed at accelerating the usage of the digital tokens worldwide by addressing hurdles that businesses face in scaling stablecoin adoption, Open Standard said.
+Link: https://finance.yahoo.com/markets/crypto/articles/consortium-including-visa-mastercard-jointly-152345284.html
+
+### Crypto Firms Are Biggest Political Spenders In U.S. Midterm Elections (source: CryptoProwl)
+Cryptocurrency firms have emerged as the biggest political spenders of the U.S. Midterm elections that are schedule...
+Link: https://www.cryptoprowl.com/releases/crypto-firms-are-biggest-political-spenders-in-us-midterm-elections-6029
+
+### Circle Internet stock falls on new stablecoin venture report (source: Investing.com)
+Investing.com -- Circle Internet shares fell 5% Tuesday morning after Bloomberg reported that Visa, Stripe and more than 100 other financial firms are joining forces to launch a new stablecoin venture.
+Link: https://finance.yahoo.com/markets/crypto/articles/circle-internet-stock-falls-stablecoin-140523135.html
+
+### Crypto firms emerge as biggest corporate political spenders in 2026 U.S. midterms (source: Investing.com)
+Investing.com -- Cryptocurrency companies have poured $189 million into influencing the 2026 U.S. midterm elections, already surpassing the $170 million they spent during the 2024 election cycle, according to a report released by consumer advocacy group Public Citizen.
+Link: https://www.yahoo.com/news/politics/articles/crypto-firms-emerge-biggest-corporate-140130083.html
+
+### Cathie Wood’s ARK Buys More Coinbase, Circle And Bullish Shares – While Cutting Alibaba, Baidu (source: Stocktwits)
+ARK funded part of the shift by trimming exposure to Chinese technology by selling positions in Alibaba and Baidu.
+Link: https://stocktwits.com/news-articles/markets/equity/ark-buys-coinbase-circle-bullish-cathie-wood-clarity-act/cZ1Qig6R7iA
+
+### Why U.S. AI Restrictions Could Give China an Unexpected Advantage Following the Android Playbook (source: 24/7 Wall St.)
+CNBC’s Deirdre Bosa explained a counterintuitive thesis on the AI cold war in a recent CNBC segment. Paradoxically, she argued that U.S. efforts to wall off access to the most advanced American AI models could unintentionally accelerate China’s rise in AI. The concern is that policies designed to protect America’s lead may instead encourage developers ... Why U.S. AI Restrictions Could Give China an Unexpected Advantage Following the Android Playbook
+Link: https://247wallst.com/investing/2026/06/29/why-u-s-ai-restrictions-could-give-china-an-unexpected-advantage-following-the-android-playbook/
+
+### Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People (source: Benzinga)
+Coinbase Global Inc. Chief Executive Brian Armstrong says tokenized stocks could fundamentally reshape global investing, pointing to a key metric to support his view. Tokenized Stocks Aim to Unlock Global Equity Access “There’s actually about four billion people in the...
+Link: https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-003040354.html
+
+### Coinbase Global, Inc. (COIN) Surpasses Market Returns: Some Facts Worth Knowing (source: Zacks)
+Coinbase Global, Inc. (COIN) closed the most recent trading day at $151.65, moving +1.74% from the previous trading session.
+Link: https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-surpasses-214506380.html
+
+### Tesla’s 10% Weight in ARKK Sets Up a Make-or-Break Year for the Innovation ETF (source: 24/7 Wall St.)
+The ARK Innovation ETF (NYSEARCA:ARKK) has barely moved this year, gaining about 2% year to date through late June and sitting at roughly $78 per share. That stasis hides a violent tug of war inside the portfolio: AMD has more than doubled, up 144% YTD, while Coinbase has shed 34% and Tesla (NASDAQ:TSLA), ARKK’s largest ... Tesla’s 10% Weight in ARKK Sets Up a Make-or-Break Year for the Innovation ETF
+Link: https://247wallst.com/investing/2026/06/29/teslas-10-weight-in-arkk-sets-up-a-make-or-break-year-for-the-innovation-etf/
+
+### Kalshi And Polymarket Could Become Takeover Targets, Says Bernstein (source: CryptoProwl)
+Prediction markets Kalshi and Polymarket could become takeover targets amid a wave of industry consolidation, say a...
+Link: https://www.cryptoprowl.com/releases/kalshi-and-polymarket-could-become-takeover-targets-says-bernstein-6021
+
+### Coinbase Global, Inc. (COIN) is Attracting Investor Attention: Here is What You Should Know (source: Zacks)
+Zacks.com users have recently been watching Coinbase Global (COIN) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-attracting-130007461.html
+
+### Bitcoin Holds Below $60,000 as Cryptos Slide (source: Barrons.com)
+Strategy, which used to be known as MicroStrategy, will disclose Monday morning its latest crypto transactions.
+Link: https://www.barrons.com/articles/bitcoin-price-crypto-xrp-strategy-93548b4f?siteid=yhoof2&yptr=yahoo
+
+### 2 Large-Cap Stocks with Competitive Advantages and 1 Facing Headwinds (source: StockStory)
+Large-cap stocks are known for their staying power and ability to weather market storms better than smaller competitors. However, their sheer size makes it more challenging to maintain high growth rates as they’ve already captured significant portions of their markets.
+Link: https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-competitive-121815428.html
+
+### Morning Minute: Bitcoin Headed for Rare Back-to-Back Quarterly Loss (source: decrypt)
+Another $1.79B in ETF outflows last week certainly isn't helping—but if history repeats, there is reason for hope.
+Link: https://decrypt.co/372283/morning-minute-bitcoin-headed-for-rare-back-to-back-quarterly-loss
+
+### As Stablecoins Keep Growing, These 2 Stocks Benefit (source: MarketBeat)
+Stablecoins are continuing to grow in importance both in and outside of the crypto space, and two companies in particular stand out for their important role.
+Link: https://www.marketbeat.com/articles/as-stablecoins-keep-growing-these-2-stocks-benefit/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Bitcoin Has Had a Terrible 2026. What Can Make the Second Half of the Year Better? (source: Investopedia)
+The price of the world's largest cryptocurrency has been in slow decline through the first half of 2026,
+Link: https://www.investopedia.com/what-to-expect-from-bitcoin-crypto-in-the-second-half-2026-11990861
+
+### Coinbase CEO Armstrong Comments on Betting Promotion Concerns in the Base App (source: BeInCrypto)
+Coinbase CEO says platforms shouldn't aggressively promote betting to vulnerable users, backing disclosures and democratic oversight.
+Link: https://beincrypto.com/coinbase-ceo-zcash-founder-risky-bets/
+
+### Cathie Wood buys $11.5 million of battered tech stock (source: TheStreet)
+Cathie Wood, chief of Ark Investment Management, likes to double down on her favorite tech stocks when the prices are falling, hoping for a bargain. That’s what Wood just did, adding shares of Coinbase after weeks of tumbling. In 2025, Wood's flagship Ark Innovation ETF gained 35.49%, far outpacing ...
+Link: https://www.thestreet.com/investing/stocks/cathie-wood-buys-11-5-million-of-battered-tech-stock
+
+### Cathie Wood's Ark Invest Resumes Buying Crypto Stocks After A Week-Long Pause (source: Stocktwits)
+: Ark simultaneously rebalanced its portfolio, adding names such as Palantir, SpaceX, and Cerebras while exiting positions including Alibaba and Roku.
+Link: https://stocktwits.com/news-articles/markets/equity/ark-invest-cathiewood-crypto-stocks-buy-weekly-pause/cZ13bnXR7WZ
+
+### Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze (source: BeInCrypto)
+Armstrong cut Coinbase AI spending in half as token usage surges and called Bitcoin's bear market a cool breeze.
+Link: https://beincrypto.com/coinbase-ceo-ai-costs-bitcoin-market/
+
+### Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more (source: Yahoo Finance Video)
+Scott Melker reviews the week crypto just had, including bitcoin (BTC-USD) prices plummeting, Bitmine (BMNR) joining the Russell 1000 (^RUI), and more. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Link: https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html
+
+### Would You Let an AI Agent Trade Crypto For You? Here's What to Know About Coinbase's New AI Agent Tool. (source: Motley Fool)
+Automating your investing process won't save you from poorly defined goals or bad decisions.
+Link: https://www.fool.com/investing/2026/06/27/would-you-let-an-ai-agent-trade-crypto-for-you-her/
+
+### Does No One Want Bitcoin Anymore? Crypto In 'Desperate' Need For New Narrative, Says Commentator As Smart Money Sits 'On The Sidelines' (source: Benzinga)
+Cryptocurrency analyst Ali Martinez spotlighted a prolonged lull in institutional buying pressure for Bitcoin as the apex cryptocurrency hit a 20-month low on Wednesday. Institutional Demand Dries Up Martinez pointed to the 46-day negative streak in the Coinbase Premium Index,...
+Link: https://finance.yahoo.com/markets/crypto/articles/does-no-one-want-bitcoin-223101529.html
+
+### Clarity Act Timeline Comes Under Threat. Cathie Wood Makes Crypto Buys. (source: Investor's Business Daily)
+The Senate faces a scheduling crunch to pass the Clarity Act market structure bill. Bitcoin falls below $60K. ARK buys these crypto stocks.
+Link: https://www.investors.com/news/clarity-act-timeline-strain-housing-save-act-trump-senate-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo
+
+### Another crypto firm cuts staff in major AI push (source: TheStreet)
+Following the footsteps of major cryptocurrency companies like Block (NYSE: XYZ), Ethereum Foundation, Coinbase Global (Nasdaq: COIN), and MARA Holdings (Nasdaq: MARA), another firm has decided to fire staff. Launched in 2011, BitGo Holdings (NYSE: BTGO) is a crypto ...
+Link: https://www.thestreet.com/crypto/markets/another-crypto-firm-cuts-staff-in-major-ai-push
+
+### Saylor's Strategy shuts down rumors of being under investigation (source: Yahoo Finance Video)
+Scott Melker discusses rumors surrounding Saylor's Strategy, the brutal crypto week that took place, Kraken, bitcoin, and other big crypto headlines. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Link: https://finance.yahoo.com/video/saylors-strategy-shuts-down-rumors-165533824.html
+
+### Does the Clarity Act have a human trafficking blind spot? (source: CoinDesk)
+CoinDesk's The Policy Protocol hosts Rebecca Rettig and Renato Mariotti open with two hot topics: Coinbase's SEC-registered AI agentic trading launch and tribal gaming operators' letter to Senators Thune and Schumer demanding that the CLARITY Act include a prohibition on prediction markets. Then Katie Boller Gosewisch, Executive Director of the Alliance to End Human Trafficking, joins to challenge CLARITY's Section 604, arguing that shielding DeFi developers from money-transmitter liability creates a "duty of care" gap that traffickers can exploit. Plus, Rebecca and Renato close by naming Meta as their Person of the Week for its reported move into points-based prediction markets.
+Link: http://videos.coindesk.com/previews/lGRvYtXc
+
+### Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought (source: Motley Fool)
+Ark Invest bought three stocks that fell at least 5% on Thursday.
+Link: https://www.fool.com/investing/2026/06/26/cathie-wood-goes-bargain-hunting-3-stocks-she-just/
+
+### The AI Selloff Is Getting Brutal: 10 Tech Giants Already Deep in Bear Market Territory (source: 24/7 Wall St.)
+The AI boom promised to create a new generation of market winners. Instead, it has also exposed just how quickly expectations can outrun reality. After years of paying premium valuations for anything tied to artificial intelligence, investors are now demanding stronger earnings, disciplined spending, and proof that massive AI investments will generate real returns. The ... The AI Selloff Is Getting Brutal: 10 Tech Giants Already Deep in Bear Market Territory
+Link: https://247wallst.com/investing/2026/06/26/the-ai-selloff-is-getting-brutal-10-tech-giants-already-deep-in-bear-market-territory/
+
+### Coinbase Global’s Base Blockchain Experiences Outage (source: CryptoProwl)
+Coinbase Global’s (NASDAQ: $COIN) Ethereum (CRYPTO: $ETH) layer-2 network Base suffered a disruption on June ...
+Link: https://www.cryptoprowl.com/releases/coinbase-globals-base-blockchain-experiences-outage-6003
+
+### Coinbase (COIN) Secures MiCA License And Opens Luxembourg Hub For 27 EU States (source: Simply Wall St.)
+Coinbase Global (NasdaqGS:COIN) has set up a new EU crypto hub in Luxembourg after receiving a MiCA license. The license grants Coinbase access to offer regulated services across all 27 EU member states. The move comes as other global crypto platforms reassess their EU plans in response to the MiCA framework. For investors tracking Coinbase Global, the timing of this regulatory milestone comes after a sharp pullback in the stock. NasdaqGS:COIN closed at $142.52, with the share price down...
+Link: https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-secures-mica-license-130808152.html
+
+### Is MSTR Stock's 40% Bitcoin Discount A Generational Buy Or An Optical Illusion? (source: Trefis)
+Strategy’s (MSTR) collapse to $85, marking a severe 76% slide over the past year, reflects a sharp narrative repricing. The market’s premier corporate Bitcoin proxy faced institutional derisking after management demonstrated a willingness to utilize core treasury assets for liquidity, shifting Wall Street perception from an untouchable cold-storage vault into an actively managed corporate balance sheet.
+Link: https://www.trefis.com/articles/604725/is-mstr-stocks-40-bitcoin-discount-a-generational-buy-or-an-optical-illusion/2026-06-26
+
+### 3 Stocks Building the Future of Agentic AI Payments (source: MarketBeat)
+Coinbase, Circle, and PayPal are building the payment infrastructure that could enable AI agents to transact autonomously
+Link: https://www.marketbeat.com/articles/3-stocks-building-the-future-of-agentic-ai-payments/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Is Coinbase Cooked? Single Invalid Block Froze Base for Two Hours (source: 99bitcoins)
+Coinbase’s Base blockchain went dark for nearly two hours on Thursday after a single invalid block triggered a consensus failure that froze the entire network, and the incident has reignited a blunt question about whether the most-used Ethereum Layer 2 is actually ready for the 24/7 global finance role its ...
+Link: https://99bitcoins.com/news/altcoins/coinbase-base-outage-sequencer-failure-downtime/
+
+### Scoop: JD Vance raises $4.2 million in Silicon Valley (source: Axios)
+Vice President JD Vance headlined an RNC fundraiser on Thursday night in Palo Alto, California, at the residence of influential investor and All-In Podcast host Chamath Palihapitiya , raking in $4.2 million for the Republican Party, a source familiar with the dinner tells Axios.
+Link: https://www.axios.com/2026/06/26/scoop-jc-vance-raises-42-million-in-silicon-valley#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI
+

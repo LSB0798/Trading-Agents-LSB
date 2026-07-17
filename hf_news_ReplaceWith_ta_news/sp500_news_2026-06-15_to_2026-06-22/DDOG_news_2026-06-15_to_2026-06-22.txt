@@ -1,0 +1,1 @@
+Error fetching news for DDOG: 'NoneType' object has no attribute 'get'

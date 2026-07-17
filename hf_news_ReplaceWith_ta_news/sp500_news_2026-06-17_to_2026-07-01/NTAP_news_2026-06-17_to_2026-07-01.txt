@@ -1,0 +1,50 @@
+## NTAP News, from 2026-06-17 to 2026-07-01:
+
+### Western Digital vs. NetApp: Which Data Center Stock is the Smarter Bet? (source: Zacks)
+WDC's AI-driven HDD roadmap, rising cloud demand and strong estimate revisions highlight why it may offer more upside than NTAP.
+Link: https://finance.yahoo.com/markets/stocks/articles/western-digital-vs-netapp-data-133000292.html
+
+### Why SanDisk Stock's Flat Production Is Its Most Bullish Signal (source: Trefis)
+The company's revenue exploded, but the physical volume it shipped barely budged, revealing a pricing power the market may still be underestimating.
+Link: https://www.trefis.com/articles/604311/why-sandisk-stocks-flat-production-is-its-most-bullish-signal/2026-06-24
+
+### Seagate Stock's Unfilled Orders Were The Real Tell (source: Trefis)
+Even before its explosive growth, the company was already so swamped by demand it was warning investors it couldn't keep up.
+Link: https://www.trefis.com/articles/604307/seagate-stocks-unfilled-orders-were-the-real-tell/2026-06-24
+
+### The Quiet Contract Shift Before Western Digital Stock's Loud Re-Rating (source: Trefis)
+Before the data storage giant's stock price multiplied, the company was openly describing a fundamental change in how its biggest customers were buying.
+Link: https://www.trefis.com/articles/604305/the-quiet-contract-shift-before-western-digital-stocks-loud-re-rating/2026-06-24
+
+### Is NetApp’s New StorageGRID 12.1 And Keystone Alliance Altering The Investment Case For NTAP? (source: Simply Wall St.)
+Earlier this week, NetApp released StorageGRID 12.1 to help customers run AI and other modern workloads at massive scale using a new federated global namespace, alongside performance, efficiency, and security enhancements for object data across distributed environments. CGI Inc. also announced it will use NetApp Keystone to power its block storage solutions, tightening the companies’ global alliance around subscription-based, AI-ready data infrastructure delivered across hybrid cloud...
+Link: https://finance.yahoo.com/markets/stocks/articles/netapp-storagegrid-12-1-keystone-101333894.html
+
+### NetApp (NTAP) Stock After 48% Year-To-Date Rally Is There Still Upside? (source: Simply Wall St.)
+If you are wondering whether NetApp stock is still attractively priced after its recent run, this article focuses squarely on what the current market price might be implying about value. NetApp closed at US$157.82, with the share price down 2.1% over the last week, up 13.2% over the last month, up 48.2% year to date, and up 51.6% over the past year. These moves have come alongside ongoing attention on NetApp's role in data storage and cloud-related infrastructure, as investors weigh how the...
+Link: https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-stock-48-date-221320518.html
+
+### NetApp (NTAP) Launches StorageGRID 12.1 And Expands CGI Hybrid Cloud Partnership (source: Simply Wall St.)
+NetApp (NasdaqGS:NTAP) has released StorageGRID 12.1, introducing features aimed at AI and modern data workloads. The update brings federated global namespaces and higher throughput to support large scale, distributed AI operations. NetApp also expanded its global alliance with CGI to deliver intelligent data infrastructure across hybrid cloud environments. NetApp operates at the intersection of data storage, AI and cloud infrastructure, where enterprises are reworking how they handle...
+Link: https://finance.yahoo.com/technology/articles/netapp-ntap-launches-storagegrid-12-171429480.html
+
+### TDC or NTAP: Which Is the Better Value Stock Right Now? (source: Zacks)
+TDC vs. NTAP: Which Stock Is the Better Value Option?
+Link: https://finance.yahoo.com/markets/stocks/articles/tdc-ntap-better-value-stock-154004489.html
+
+### How Is NetApp Capitalizing on Rising All-Flash Adoption? (source: Zacks)
+NTAP's all-flash growth and AI-driven customer wins are accelerating as enterprises modernize infrastructure and expand data-intensive workloads.
+Link: https://finance.yahoo.com/technology/articles/netapp-capitalizing-rising-flash-adoption-142200291.html
+
+### Investors Heavily Search NetApp, Inc. (NTAP): Here is What You Need to Know (source: Zacks)
+NetApp (NTAP) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+Link: https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-netapp-inc-130002039.html
+
+### The Quiet Acceleration In SanDisk Stock Before The Roar (source: Trefis)
+Before the memory chip maker posted a forty-five hundred-percent gain, its financial statements were already showing a subtle but powerful shift that most of the market seemed to miss.
+Link: https://www.trefis.com/articles/603352/the-quiet-acceleration-in-sandisk-stock-before-the-roar/2026-06-17
+
+### How Western Digital Became An AI Landlord (source: Trefis)
+A once-cyclical hardware maker just posted video-game numbers, but the story behind its thousand-percent run is all about the rent.
+Link: https://www.trefis.com/articles/603339/how-western-digital-became-an-ai-landlord/2026-06-17
+

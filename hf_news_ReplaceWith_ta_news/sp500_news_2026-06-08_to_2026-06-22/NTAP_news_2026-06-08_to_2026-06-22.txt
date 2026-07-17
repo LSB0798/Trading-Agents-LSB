@@ -1,0 +1,62 @@
+## NTAP News, from 2026-06-08 to 2026-06-22:
+
+### How Is NetApp Capitalizing on Rising All-Flash Adoption? (source: Zacks)
+NTAP's all-flash growth and AI-driven customer wins are accelerating as enterprises modernize infrastructure and expand data-intensive workloads.
+Link: https://finance.yahoo.com/technology/articles/netapp-capitalizing-rising-flash-adoption-142200291.html
+
+### Investors Heavily Search NetApp, Inc. (NTAP): Here is What You Need to Know (source: Zacks)
+NetApp (NTAP) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+Link: https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-netapp-inc-130002039.html
+
+### The Quiet Acceleration In SanDisk Stock Before The Roar (source: Trefis)
+Before the memory chip maker posted a forty-five hundred-percent gain, its financial statements were already showing a subtle but powerful shift that most of the market seemed to miss.
+Link: https://www.trefis.com/articles/603352/the-quiet-acceleration-in-sandisk-stock-before-the-roar/2026-06-17
+
+### How Western Digital Became An AI Landlord (source: Trefis)
+A once-cyclical hardware maker just posted video-game numbers, but the story behind its thousand-percent run is all about the rent.
+Link: https://www.trefis.com/articles/603339/how-western-digital-became-an-ai-landlord/2026-06-17
+
+### Western Digital Stock's Thousand-Percent Question (source: Trefis)
+The data storage giant is on a historic run fueled by an AI super-story, but the market is now pricing in something close to perfection.
+Link: https://www.trefis.com/articles/603107/western-digital-stocks-thousand-percent-question/2026-06-16
+
+### Can Seagate's Mozaic HAMR Platform Strengthen Its Competitive Edge? (source: Zacks)
+STX is accelerating Mozaic HAMR adoption with higher-capacity drives and AI-driven storage demand supporting its long-term growth strategy.
+Link: https://finance.yahoo.com/technology/articles/seagates-mozaic-hamr-platform-strengthen-131400262.html
+
+### Seagate's Strengthening Free Cash Flow: Can Growth Continue? (source: Zacks)
+STX's free cash flow surges to a record high as AI-driven demand boosts growth, but sustaining momentum hinges on continued data center strength.
+Link: https://finance.yahoo.com/markets/stocks/articles/seagates-strengthening-free-cash-flow-145900432.html
+
+### Is Western Digital's Free Cash Flow Supporting Long-Term Growth? (source: Zacks)
+WDC's soaring free cash flow, bigger dividend and new $4B buyback plan highlight a capital strategy built for growth and shareholder returns.
+Link: https://finance.yahoo.com/markets/stocks/articles/western-digitals-free-cash-flow-135100439.html
+
+### Is NetApp Stock Outperforming the Dow? (source: Barchart)
+Although NetApp has outperformed the broader Dow Jones Industrial Average over the past year, Wall Street analysts remain cautiously optimistic about the stock's outlook.
+Link: https://www.barchart.com/story/news/2438567/is-netapp-stock-outperforming-the-dow
+
+### We Think NetApp's (NASDAQ:NTAP) Healthy Earnings Might Be Conservative (source: Simply Wall St.)
+Investors signalled that they were pleased with NetApp, Inc.'s ( NASDAQ:NTAP ) most recent earnings report. Looking...
+Link: https://finance.yahoo.com/markets/stocks/articles/think-netapps-nasdaq-ntap-healthy-101200063.html
+
+### Western Digital Stock Skyrockets 185% YTD: Is More Growth on the Horizon? (source: Zacks)
+WDC has surged 185% YTD as AI-driven storage demand, pricing gains and a streamlined HDD-focused business fuel growth prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-skyrockets-185-155600065.html
+
+### The Multi-Year Backlog Seagate Stock Skeptics Are Ignoring (source: Trefis)
+After a stock like Seagate (STX) runs up over 500% over the last 12 months, it’s natural to assume you’ve missed the party. The story of surging AI demand is well known, and the fear of buying a cyclical hardware company at the top of its game is a powerful one. But buried in management’s commentary is a single, forward-looking metric that suggests the market may be misjudging the durability of this cycle.
+Link: https://www.trefis.com/articles/602493/the-multi-year-backlog-seagate-stock-skeptics-are-ignoring/2026-06-11
+
+### Cisco AI Security Push And Quantum Plans Test Investor Expectations (source: Simply Wall St.)
+Cisco Systems (NasdaqGS:CSCO) has launched Cloud Control, an AI focused platform that unifies management and security across its networking and security products. The company also introduced Live Protect, a real time runtime security offering aimed at protecting applications and workloads as they operate. Cisco expanded its quantum safe security initiatives, outlining a roadmap to bring quantum resistant protections across its core portfolio. New collaborations with NetApp focus on secure AI...
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-ai-security-push-quantum-121654036.html
+
+### Seagate Stock's High-Density Gamble (source: Trefis)
+The company is telling a story of explosive AI-driven growth, but its strategy for meeting it is what has Wall Street truly captivated.
+Link: https://www.trefis.com/articles/602296/seagate-stocks-high-density-gamble/2026-06-10
+
+### Cisco Is Up 61% in 2026. It’s One of 3 Dividend Stocks Quietly Riding the AI Boom. (source: Barchart)
+These three companies surged in 2026, proving that some of the market's strongest dividend stocks are growth names quietly riding the AI and data infrastructure boom.
+Link: https://www.barchart.com/story/news/2399784/cisco-is-up-61-in-2026-its-one-of-3-dividend-stocks-quietly-riding-the-ai-boom
+

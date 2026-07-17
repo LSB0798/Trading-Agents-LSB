@@ -1,0 +1,126 @@
+## IBM News, from 2026-06-15 to 2026-06-22:
+
+### The Next Hot Quantum Stock Is an AI Data-Center Play, Too (source: Barrons.com)
+IQM CEO Jan Goetz details the Finnish startup’s plans for quantum dominance ahead of its public listing.
+Link: https://www.barrons.com/articles/iqm-quantum-computing-ai-data-center-e9f90740?siteid=yhoof2&yptr=yahoo
+
+### IBM (IBM) Stock After Recent Pullback Is The Current Valuation Attractive? (source: Simply Wall St.)
+If you are wondering whether International Business Machines stock is offering fair value or a potential mispricing right now, the recent share performance gives a useful starting point for that question. The stock last closed at US$249.10, with returns that include a decline of 9.4% over the past week, a 12.0% gain over the past month, and longer term moves such as a decline of 14.5% year to date and a decline of 9.8% over one year, alongside gains of 109.2% over three years and 118.1% over...
+Link: https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-recent-pullback-230928064.html
+
+### Amazon's Quantum Bet Nears Reality (source: GuruFocus.com)
+AI chief says commercially useful quantum computers could arrive within seven years.
+Link: https://finance.yahoo.com/technology/ai/articles/amazons-quantum-bet-nears-reality-181107077.html
+
+### Better Quantum Computing Stock to Buy: IonQ vs. Rigetti (source: Motley Fool)
+IonQ and Rigetti are two of the most popular pure-play stocks on the market.
+Link: https://www.fool.com/investing/2026/06/19/better-quantum-computing-stock-to-buy-ionq-rigetti/
+
+### PLTR Stock: The Math Hidden In Its Price (source: Trefis)
+Palantir Technologies (PLTR) stock trades at $130.63 per share, a market cap of $312.7B, and 137.1x trailing P/E. That is a meaningful premium. The question is not whether the stock is "cheap" or "expensive" in the abstract. It is what the market is implicitly assuming about the business in order to justify paying this price.
+Link: https://www.trefis.com/articles/603578/pltr-stock-the-math-hidden-in-its-price-3/2026-06-18
+
+### Stocks Rally on Middle East Peace, Apple-Intel Deal: Stock Market Today (source: Kiplinger)
+Investors, traders and speculators set aside their worries about interest rates to celebrate peace in the Middle East and AAPL-INTC again.
+Link: https://www.kiplinger.com/investing/stocks/stocks-rally-on-middle-east-peace-apple-intel-deal-stock-market-today
+
+### Tim Cook Says Chip Wars Will Take a Big Bite of Apple (source: Moby)
+The memory tax is coming at Apple at a time when it's already battered with existing tariff drama.
+Link: https://app.moby.co/home/news/news-tim-cook-says-chip-wars-will-take-a-big-bite-of-apple?utm_source=yahoo_finance&utm_medium=rss
+
+### Stocks Supported as Geopolitical Risks Recede (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.99%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.16%. September E-mini S&P futures (ESU26 ) are up +0.99%, and September E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2539862/stocks-supported-as-geopolitical-risks-recede
+
+### The Number That Puts Oracle Stock To The Test (source: Trefis)
+For an investor in Oracle (ORCL), the headlines are dizzying. The company is signing AI infrastructure contracts by the tens of billions and has built a backlog of future business that seems to defy gravity. Yet the stock has been under pressure, down 12.2% over the past year, suggesting the market sees more to the story.
+Link: https://www.trefis.com/articles/603587/the-number-that-puts-oracle-stock-to-the-test/2026-06-18
+
+### Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June (source: Insider Monkey)
+ServiceNow (NYSE:NOW) is one of the 8 Best Generative AI Software Stocks to Buy in June 2026. Based on 50 analyst ratings compiled by CNN, 90% assigned a Buy rating to ServiceNow, while 8% assigned a Hold rating. The stock has an average price target of $135, a 29.62% upside from the current price of […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-servicenow-now-best-generative-150320993.html
+
+### Dow Jumps 200 Points After Fed-Related Sell-Off – Index On Track To Post Best Week In A Month (source: Stocktwits)
+U.S. stocks rose in early Thursday trading, rebounding from the previous session’s Fed-driven selloff as falling oil prices and optimism surrounding the Iran peace deal boosted investor sentiment.
+Link: https://stocktwits.com/news-articles/markets/equity/dow-jumps-after-fed-selloff-iran-deal-crude-lift-sentiment/cZKk4bRR77W
+
+### Oracle Is Burning Billions: Is IBM Stock The Smarter Cloud Play? (source: Trefis)
+Oracle’s (ORCL) stock is up by over 120% since the beginning of 2023. That is great for Oracle. But wait a minute, IBM’s (IBM) stock is up a comparatively lower 91% during the same period. Hard to believe, but Oracle’s stock appreciation is well ahead of IBM’s stock. This is despite the stark contrast in how both companies generate cash. Over the trailing twelve months, IBM consistently generated massive free cash flow, pulling in a highly robust $12.2 billion. Oracle, over its most recently rep
+Link: https://www.trefis.com/articles/603511/oracle-is-burning-billions-is-ibm-stock-the-smarter-cloud-play/2026-06-18
+
+### How Could Federal Backing Advance D-Wave's Quantum Efforts? (source: Zacks)
+QBTS signs a $100M LOI under the CHIPS and Science Act, signaling federal backing that could accelerate its quantum computing R&D and qubit roadmap.
+Link: https://finance.yahoo.com/technology/ai/articles/could-federal-backing-advance-d-122800728.html
+
+### Is ServiceNow (NOW) Quietly Becoming the Core Orchestrator of Enterprise AI Governance? (source: Simply Wall St.)
+In recent weeks, partners including IBM, Cognizant, Wipro, NICE, Phenom, HPE and Digimarc have announced expanded collaborations and integrations with ServiceNow’s AI Platform to modernize legacy systems, tighten AI governance, and embed agentic AI across IT, HR and customer service workflows. These moves highlight ServiceNow’s role as an orchestration layer for enterprise AI, where trusted data, governance and cross‑platform workflows become as important as the underlying models...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-core-021137992.html
+
+### Nasdaq, US stocks slide as Fed forecasts possible rate hike (source: Yahoo Finance Video)
+US stocks (^DJI, ^IXIC, ^GSPC) ended Wednesday's session in negative territory after Federal Reserve officials unanimously voted to hold interest rates at their June FOMC meeting today, while also forecasting at least one possible rate hike ahead. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the trading day's market reactions to the Fed's big decision. This was Kevin Warsh's first FOMC meeting he presided over as the new chairman of the Fed.
+Link: https://finance.yahoo.com/video/nasdaq-us-stocks-slide-as-fed-forecasts-possible-rate-hike-201525166.html
+
+### PLTR Stock: What Does Its Valuation Imply? (source: Trefis)
+This is a hyper-growth chapter for Palantir, defined by demand it cannot meet. Its Artificial Intelligence Platform, AIP, is positioned as one of the few reliable ways for institutions to deploy AI without operational chaos.
+Link: https://www.trefis.com/articles/603349/pltr-stock-what-does-its-valuation-imply-3/2026-06-17
+
+### Oracle Stock's High Stakes Gamble (source: Trefis)
+If you hold Oracle (ORCL) stock, you’ve felt the turbulence. Despite a recent bounce, the shares are down over the last 12 months and sit well below their peak, a sign the market is wrestling with a profound shift in the company’s story. The options market is pricing in elevated uncertainty, with implied volatility in the 67th percentile of its annual range. This isn't about a legacy business in decline; it's about the significant risks of a company going all-in on a new one.
+Link: https://www.trefis.com/articles/603343/oracle-stocks-high-stakes-gamble/2026-06-17
+
+### Europe frets about U.S. AI as tech world flocks to France for G7, VivaTech (source: Reuters)
+Europe's quest for technological sovereignty will dominate discussions at the G7 in France and the VivaTech conference in Paris this week, as policymakers and technology executives fret about American AI, ‌with alternatives remaining scarce.  The gatherings come days after the United States tightened restrictions on Anthropic's most advanced AI models for ‌foreign nationals, underscoring Europe's vulnerability that political whims could derail its race to build domestic AI champions.  "Tech sovereignty will be top of mind this week at VivaTech," Ana Paula ​Assis, senior vice president at IBM, told Reuters.
+Link: https://finance.yahoo.com/technology/ai/articles/europe-frets-u-ai-tech-050236680.html
+
+### Buy, Hold, or Sell: IBM Just Shed 16% Is It a Clear Buy at $268? (source: 24/7 Wall St.)
+International Business Machines (NYSE:IBM) looks attractively valued at $268.71, with the setup sharpening on any retest of $260. The stock has pulled back meaningfully from its January peak near $314.84 while the broader market grinds higher, opening a gap between price and fundamentals that has not been this wide in years. Big Blue runs four ... Buy, Hold, or Sell: IBM Just Shed 16% Is It a Clear Buy at $268?
+Link: https://247wallst.com/investing/2026/06/16/buy-hold-or-sell-ibm-just-shed-16-is-it-a-clear-buy-at-268/
+
+### IBM (IBM) Stock Could Be 22.4% Below Fair Value as AI Narrative Builds (source: Simply Wall St.)
+International Business Machines (IBM) stock has attracted attention after recent trading, with the shares last closing at US$268.71. Investors are reviewing how the company’s mix of software, consulting, infrastructure and financing shapes the current valuation. See our latest analysis for International Business Machines. Recent trading has been choppy, with International Business Machines posting a 22.53% 1 month share price return, while the share price is down 7.82% year to date. The 5...
+Link: https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-could-22-141252890.html
+
+### IBM (IBM) Launches Big Replicate With Cirata To Tackle AI Data Bottlenecks (source: Simply Wall St.)
+IBM (NYSE:IBM) has formalized an OEM partnership with Cirata PLC to target petabyte-scale AI data orchestration. The company is launching the next generation of IBM Big Replicate, embedding Cirata Symphony technology for continuous data movement and AI-ready formats. The announcement introduces new capabilities aimed at operational continuity and governance for large enterprise AI workflows. For investors tracking IBM, this update sits at the intersection of data infrastructure and...
+Link: https://finance.yahoo.com/technology/ai/articles/ibm-ibm-launches-big-replicate-131546614.html
+
+### Can D-Wave Hold Its Own Against 2 Fast-Growing Rivals? (source: MarketBeat)
+With mounting threats from both smaller and larger rivals (and even from companies outside of the industry), D-Wave Quantum faces a challenging landscape.
+Link: https://www.marketbeat.com/articles/can-d-wave-hold-its-own-against-2-fast-growing-rivals/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### IBM’s $17 million DOJ settlement makes the case for civility (source: Fortune)
+The IBM settlement isn't just a legal story—it's a governance warning. The same pressure points the DOJ targeted are where workers feel the least civility.
+Link: https://finance.yahoo.com/healthcare/articles/ibm-17-million-doj-settlement-110000662.html
+
+### Apptio boosts tool for tracking cloud spend in latest FinOps expansion (source: CFO Dive)
+Rising global IT spending, expected to reach $6.15 trillion in 2026, is intensifying pressure on enterprises to manage cloud costs in real time, the IBM company said.
+Link: https://www.cfodive.com/news/apptio-boosts-tool-tracking-cloud-spend-finops-expansion/822997/
+
+### IBM (IBM) Stock Sinks As Market Gains: Here's Why (source: Zacks)
+In the latest trading session, IBM (IBM) closed at $268.71, marking a -1.3% move from the previous day.
+Link: https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-sinks-market-214504603.html
+
+### Dell Stock And The Best Kind Of Problem (source: Trefis)
+Management just raised the roof on its forecasts, but they also admitted customers are panic-buying. So what exactly are you paying for.
+Link: https://www.trefis.com/articles/602909/dell-stock-and-the-best-kind-of-problem/2026-06-15
+
+### Is QUBT the Best Quantum Stock to Buy in June With 80% Price Upside? (source: Zacks)
+QUBT surges 34.7% in three months as investors warm to its quantum-photonics strategy, with analysts seeing nearly 80% upside.
+Link: https://finance.yahoo.com/markets/stocks/articles/qubt-best-quantum-stock-buy-190000687.html
+
+### Cognizant’s CEO Just Compared This AI Launch to the iPhone Moment. You Should Buy This Rare Undervalued AI Stock. (source: Barchart)
+The launch of Cognizant Intelligence Spine is being touted as a game-changer. CTSH stock offers great value if that happens.
+Link: https://www.barchart.com/story/news/2477563/cognizants-ceo-just-compared-this-ai-launch-to-the-iphone-moment-you-should-buy-this-rare-undervalued-ai-stock
+
+### Can IBM's Extended ServiceNow Deal Accelerate Enterprise AI Adoption? (source: Zacks)
+International Business Machines deepens its ServiceNow partnership to help enterprises tackle fragmented data and legacy technology barriers to large-scale AI adoption.
+Link: https://finance.yahoo.com/sectors/technology/articles/ibms-extended-servicenow-deal-accelerate-144800228.html
+
+### What Is The Market Really Expecting From PLTR Stock? (source: Trefis)
+At $127.99, Palantir Technologies (PLTR) is being priced to deliver 33.3% revenue growth annually for the next 7 years simply to defend today's 134.3x multiple. That sits below the 67.7% the business is currently growing at, which is the unusual part. The multiple has already priced in a slowdown that has not yet appeared.
+Link: https://www.trefis.com/articles/602908/what-is-the-market-really-expecting-from-pltr-stock-4/2026-06-15
+
+### Top Banks Rush to Fill Chief AI Roles as Talent Jumps to Rivals (source: Bloomberg)
+(Bloomberg) -- Banks from Sydney to London are racing to fill the senior role of chief AI officer, a job that barely existed a year ago. Those in the position, however, say it might not be around for long.Most Read from BloombergIran’s Deputy Foreign Minister Confirms Deal Reached With USUS and Iran Agree to Halt War, Restart Middle East Oil ShipmentsIran Signals No Deal Will Be Signed by Trump’s Sunday TimelineWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOIran Pushes Differing
+Link: https://finance.yahoo.com/sectors/technology/articles/top-banks-rush-fill-chief-023654701.html
+

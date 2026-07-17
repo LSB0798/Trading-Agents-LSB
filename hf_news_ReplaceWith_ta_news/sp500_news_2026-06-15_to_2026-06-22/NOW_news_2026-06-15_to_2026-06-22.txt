@@ -1,0 +1,102 @@
+## NOW News, from 2026-06-15 to 2026-06-22:
+
+### Is ServiceNow the Biggest AI Winner Nobody Is Talking About? (source: Motley Fool)
+Artificial intelligence was supposed to be negative for ServiceNow. Instead, it may be creating a new opportunity for the company.
+Link: https://www.fool.com/investing/2026/06/21/is-servicenow-the-biggest-ai-winner-nobody-is-talk/
+
+### Wipro Limited (WIT) Gains Due to Share Buyback Program and ServiceNow Partnership (source: Insider Monkey)
+Wipro Limited (NYSE:WIT) is one of the Best Undervalued Stocks to Buy Under $5. Wipro Limited (NYSE:WIT) has gained more than 16% over the past 30 days, mainly driven by the INR 15,000 crore share buyback program and the expansion of the company’s partnership with ServiceNow. ​Recently, on May 29, Reuters reported that the stock […]
+Link: https://finance.yahoo.com/markets/stocks/articles/wipro-limited-wit-gains-due-185359971.html
+
+### Here’s Why ServiceNow Inc (NOW) is a Buy and High Growth Large Cap Stock to Invest In (source: Insider Monkey)
+ServiceNow Inc. (NYSE:NOW) is one of the high-growth large-cap stocks to invest in now. On June 15, Benchmark reiterated its Buy rating on ServiceNow Inc. (NYSE:NOW) and raised the price target to $130 from $125, implying significant upside potential. The price target hike and bullish stance underscore the research firm’s confidence in the company’s operating […]
+Link: https://finance.yahoo.com/markets/stocks/articles/why-servicenow-inc-now-buy-185041730.html
+
+### Cloud AI Update - Exploring AI's Future Infrastructure Challenges And Solutions (source: Simply Wall St.)
+Yotta 2026 has announced its preliminary agenda for a major event focusing on the integration of AI, energy, and digital infrastructure. Scheduled for September 28-30 in Las Vegas, the event aims to address the challenges and opportunities of scaling AI infrastructure, including financing, powering, and constructing facilities to support AI's growing demands. The agenda highlights the convergence of compute, power, networks, and capital into single platforms, featuring insights from industry...
+Link: https://finance.yahoo.com/technology/ai/articles/cloud-ai-exploring-ais-future-123801395.html
+
+### UiPath's Agentic AI Adoption Continues to Gain Momentum (source: Zacks)
+PATH is seeing agentic AI move from pilot projects to production deployments, strengthening demand for its automation platform.
+Link: https://finance.yahoo.com/technology/ai/articles/uipaths-agentic-ai-adoption-continues-163000191.html
+
+### Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June (source: Insider Monkey)
+ServiceNow (NYSE:NOW) is one of the 8 Best Generative AI Software Stocks to Buy in June 2026. Based on 50 analyst ratings compiled by CNN, 90% assigned a Buy rating to ServiceNow, while 8% assigned a Hold rating. The stock has an average price target of $135, a 29.62% upside from the current price of […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-servicenow-now-best-generative-150320993.html
+
+### Can AI Control Tower Become ServiceNow's Next Growth Engine? (source: Zacks)
+NOW's AI Control Tower is gaining momentum as organizations seek governance tools to manage expanding AI deployments.
+Link: https://finance.yahoo.com/technology/ai/articles/ai-control-tower-become-servicenows-140400045.html
+
+### Exclusive: Gradial raises $65M for agentic marketing (source: Axios Media)
+Gradial, a Seattle-based startup that deploys AI agents to automate enterprise marketing workflows, has raised $65 million in Series C funding, CEO Doug Tallmadge exclusively tells Axios.
+Link: https://www.axios.com/2026/06/18/gradial-ai-agents-marketing#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media
+
+### ServiceNow (NOW) Expands Agentic AI With Wipro Digimarc And HPE Partnerships (source: Simply Wall St.)
+ServiceNow (NYSE:NOW) has expanded its agentic AI workflow ecosystem through new partnerships with Wipro, Digimarc, and HPE. Wipro is deploying agentic AI workflows on the ServiceNow platform to help move customers from pilots to broad enterprise rollout. Digimarc is integrating provenance and cryptographic verification into ServiceNow AI agents and Action Fabric to support trustworthy AI outputs. HPE is working with ServiceNow to offer unified agentic AIOps and AI-driven service delivery...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-expands-agentic-ai-031541496.html
+
+### Is ServiceNow (NOW) Quietly Becoming the Core Orchestrator of Enterprise AI Governance? (source: Simply Wall St.)
+In recent weeks, partners including IBM, Cognizant, Wipro, NICE, Phenom, HPE and Digimarc have announced expanded collaborations and integrations with ServiceNow’s AI Platform to modernize legacy systems, tighten AI governance, and embed agentic AI across IT, HR and customer service workflows. These moves highlight ServiceNow’s role as an orchestration layer for enterprise AI, where trusted data, governance and cross‑platform workflows become as important as the underlying models...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-core-021137992.html
+
+### The Contracted Revenue Datadog Stock Bears Are Ignoring (source: Trefis)
+Beyond the impressive sales figures, one number in Datadog's filings offers a clearer view of its future growth and a surprising answer to the biggest risk.
+Link: https://www.trefis.com/articles/603358/the-contracted-revenue-datadog-stock-bears-are-ignoring/2026-06-17
+
+### Snubbing Nvidia for Adobe Costs Florida Stock-Picker $50 Billion (source: Bloomberg)
+(Bloomberg) -- It was 180 degrees off the hot trade on Wall Street. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingIran’s Deputy Foreign Minister Confirms Deal Reached With USNetanyahu Pays a Political Price for Trump’s Iran DealApple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027Snub Nvidia Corp., the soaring king of artificial intelligence chips. Embrace Adobe Inc., a sinking casualty of
+Link: https://finance.yahoo.com/markets/stocks/articles/wrong-way-ai-trade-costs-131500352.html
+
+### Nasdaq Futures Climb as Chip Stocks Rebound Ahead of First Fed Decision Under Warsh (source: Barchart)
+June Nasdaq 100 E-Mini futures (NQM26) are up +0.54% this morning, signaling a rebound from yesterday’s selloff, while investors await the first Federal Reserve rate decision under Kevin Warsh.
+Link: https://www.barchart.com/story/news/2510564/s-p-futures-gain-ahead-of-first-fed-decision-under-warsh
+
+### Stocks Indexes Finish Mostly Lower as Chipmakers Retreat (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.57%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.89%. June E-mini S&P futures (ESM26 ) fell -0.60%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2502375/stocks-indexes-finish-mostly-lower-as-chipmakers-retreat
+
+### ServiceNow (NOW): A Wipro Partnership to Close the Gap Between AI Pilots and Full Enterprise Deployment (source: Insider Monkey)
+ServiceNow, Inc. (NYSE:NOW) is one of the best tech stocks to invest in on the dip. On May 28, ServiceNow, Inc. (NYSE:NOW) expanded its partnership with Wipro to deploy agentic AI workflows at scale across core enterprise functions. The move deepens a collaboration that the two companies first established in 2024. For context, ServiceNow has […]
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-wipro-partnership-close-190001095.html
+
+### ServiceNow Inc (NOW) Teams Up With Cognizant on AI Governance (source: Insider Monkey)
+ServiceNow Inc (NYSE:NOW) is one of billionaire Ken Fisher’s top high growth stock picks. ServiceNow shares have gained more than 16% over the past month, and analysts see more upside in the stock. On June 4, ServiceNow Inc (NYSE:NOW) and Cognizant announced a partnership focused on enhancing AI governance for enterprise customers. In this arrangement, […]
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-inc-now-teams-cognizant-185848584.html
+
+### The Dell Story Is No Longer Just About PCs. Here’s Why the Stock Still Looks Undervalued. (source: Barchart)
+The market may still be mispricing Dell's AI opportunity.
+Link: https://www.barchart.com/story/news/2500778/the-dell-story-is-no-longer-just-about-pcs-heres-why-the-stock-still-looks-undervalued
+
+### ServiceNow (NOW) Slid Amid Growing Adoption of AI-Native Solutions (source: Insider Monkey)
+Columbia Threadneedle Investments, an investment management company, released its first-quarter 2026 investor letter for the “Columbia Global Technology Growth Fund”. A copy of the letter is available to download here. In Q1 2026, the Fund’s institutional Class shares fell –6.05%, outperforming the S&P Global 1200 Information Technology Index, which declined –6.57%. Positive performance was mainly due […]
+Link: https://finance.yahoo.com/news/servicenow-now-slid-amid-growing-154022220.html
+
+### Broader Market Weakens as Energy and Software Stocks Fall (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.83%. June E-mini S&P futures (ESM26 ) are down -0.20%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2496862/broader-market-weakens-as-energy-and-software-stocks-fall
+
+### This Week In Cloud AI - Enhancing Security Through Zero Trust Visibility Collaboration (source: Simply Wall St.)
+Gigamon has announced a collaboration with Zscaler to enhance deep observability within Zero Trust environments by integrating Zscaler Private Access with Gigamon's Application Metadata Intelligence. This development aims to improve visibility into application activity in hybrid cloud setups, aiding security teams in addressing the challenges of managing complex security infrastructures. The partnership offers organizations the ability to strengthen threat detection capabilities through...
+Link: https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-enhancing-security-123824804.html
+
+### Why ServiceNow (NOW) Stock Is Up Today (source: StockStory)
+Shares of enterprise workflow automation company ServiceNow (NYSE:NOW) jumped 4.6% in the afternoon session after yields fell as the Trump administration announced a new peace deal that would lead to the reopening of the Strait of Hormuz.
+Link: https://finance.yahoo.com/markets/stocks/articles/why-servicenow-now-stock-today-030007539.html
+
+### ServiceNow (NOW) Beats Stock Market Upswing: What Investors Need to Know (source: Zacks)
+ServiceNow (NOW) concluded the recent trading session at $104.15, signifying a +1.96% move from its prior day's close.
+Link: https://finance.yahoo.com/markets/stocks/articles/servicenow-now-beats-stock-market-214503550.html
+
+### 1 Software Stock with Exciting Potential and 2 Facing Headwinds (source: StockStory)
+From commerce to culture, software is digitizing every aspect of our lives. In the past, the undeniable tailwinds fueling SaaS companies led to lofty valuation multiples that made it easier to raise capital. But this was a double-edged sword as the high prices exposed them to big drawdowns, and unfortunately, the industry has tumbled by 9.8% over the last six months. This performance is a noticeable divergence from the S&P 500’s 8.4% return.
+Link: https://finance.yahoo.com/markets/stocks/articles/1-software-stock-exciting-potential-190807626.html
+
+### ServiceNow vs. Salesforce: Which Cloud Software Stock Has an Edge Now? (source: Zacks)
+CRM gains an edge over NOW as strong Agentforce momentum, rising earnings estimates and a lower valuation support its investment case.
+Link: https://finance.yahoo.com/markets/stocks/articles/servicenow-vs-salesforce-cloud-software-150000491.html
+
+### Can IBM's Extended ServiceNow Deal Accelerate Enterprise AI Adoption? (source: Zacks)
+International Business Machines deepens its ServiceNow partnership to help enterprises tackle fragmented data and legacy technology barriers to large-scale AI adoption.
+Link: https://finance.yahoo.com/sectors/technology/articles/ibms-extended-servicenow-deal-accelerate-144800228.html
+

@@ -1,0 +1,202 @@
+## SMCI News, from 2026-06-17 to 2026-07-01:
+
+### The AI Revolution Needs Electricity More Than Intelligence (source: Oilprice.com)
+The AI boom is becoming an energy race, and companies with power, land, and grid access may be the biggest winners.
+Link: https://finance.yahoo.com/energy/articles/ai-revolution-needs-electricity-more-000000186.html
+
+### How Nvidia Became a Chip Stock Loser—and Why It Might Stay That Way (source: Barrons.com)
+Nvidia  stock rose Tuesday at the end of an underwhelming first half of the year.  The chip maker is looking to its next-generation hardware to spark a rally but gains might be muted for a while yet.  The major issue for Nvidia is that the huge spending on AI chips is now being spread out among a wider range of semiconductor companies.
+Link: https://www.barrons.com/articles/nvidia-stock-price-ai-chips-d7be8825?siteid=yhoof2&yptr=yahoo
+
+### AMD, Sandisk, AeroVironment, Air Products, Strategy, and More Stocks That Explain Today’s Market (source: Barrons.com)
+Shares of the memory supplier have been on a torrid pace over the past 12 months but technical signals were beginning to appear that the stock might be overbought.  Advanced Micro Devices  advanced 7.7% to $580.91.
+Link: https://www.barrons.com/articles/stock-movers-a05e009e?siteid=yhoof2&yptr=yahoo
+
+### Stocks to Watch: Strategy, Super Micro, Nike (source: The Wall Street Journal)
+↘️ Strategy (MSTR): Shares of Michael Saylor’s bitcoin-hoarding company closed down 6.2% Tuesday, erasing some of their 13% jump on Monday. The Monday move came after Strategy abandoned its “never sell bitcoin” mantra in a bid to shore up confidence in the company.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/stocks-to-watch-strategy-super-micro-constellation-brands-n5mWXpGWDuIhKWqZgnDL?siteid=yhoof2&yptr=yahoo
+
+### Super Micro’s Problems Are a ‘Slam Dunk’ for Dell Stock (source: Barrons.com)
+Taiwanese investigators raided the AI server maker’s offices as part of a probe into alleged smuggling of Nvidia chips to China.
+Link: https://www.barrons.com/articles/super-micro-smci-stock-raid-dell-c35f0183?siteid=yhoof2&yptr=yahoo
+
+### Sector Update: Tech Stocks Rise Late Afternoon (source: MT Newswires)
+Tech stocks advanced late Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF
+Link: https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194823514.html
+
+### Super Micro Drops 8% as Taiwan Raids Expand (source: GuruFocus.com)
+Taiwan authorities widened a probe into alleged Nvidia chip smuggling through Super Micro servers.
+Link: https://finance.yahoo.com/technology/ai/articles/super-micro-drops-8-taiwan-162411163.html
+
+### Top Midday Stories: Air Products Ends Louisiana Clean Energy Project; Patrick Industries, LCI to Merge in All-Stock Deal (source: MT Newswires)
+All three major US stock indexes were up in late-morning trading Tuesday, as investors look to end Q
+Link: https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-air-products-153558249.html
+
+### Super Micro, Dell Gain 4% a Day After Super Micro’s Taiwan-Probe Plunge (source: 24/7 Wall St.)
+Super Micro Computer (NASDAQ:SMCI) stock is up 4% to $29.25 in mid-morning trading on Tuesday, clawing back part of yesterday’s 8% drop tied to a Taiwan probe of alleged NVIDIA (NASDAQ:NVDA) AI chip smuggling. Dell Technologies (NYSE:DELL) stock is also higher, up 4% to $430.93. Hewlett Packard Enterprise (NYSE:HPE) stock is the laggard of the ... Super Micro, Dell Gain 4% a Day After Super Micro’s Taiwan-Probe Plunge
+Link: https://247wallst.com/investing/2026/06/30/super-micro-dell-gain-4-a-day-after-super-micros-taiwan-probe-plunge/
+
+### Update: Market Chatter: Super Micro Computer Raided in Taiwan Nvidia Chip Smuggling Investigation (source: MT Newswires)
+(Updates with the company's response in the fourth paragraph.) Super Micro Computer (SMCI) is coo
+Link: https://finance.yahoo.com/technology/ai/articles/market-chatter-super-micro-computer-131027089.html
+
+### Exchange-Traded Funds Mixed, Equity Futures Lower Pre-Bell Ahead of Key Economic Reports (source: MT Newswires)
+The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up marginally, and the active
+Link: https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-equity-130043691.html
+
+### Super Micro Falls on Taiwan Probe (source: GuruFocus.com)
+Authorities reportedly searched offices tied to an investigation into Nvidia chip exports.
+Link: https://finance.yahoo.com/technology/ai/articles/super-micro-falls-taiwan-probe-123804304.html
+
+### Taiwan raids Super Micro in Nvidia AI chip smuggling probe (source: Quartz)
+The number of people under investigation has grown from 3 to 9 as Taiwanese prosecutors search 12 sites tied to alleged Nvidia chip diversions to China
+Link: https://qz.com/taiwan-raids-super-micro-nvidia-ai-chip-smuggling-probe-063026
+
+### Super Micro Stock Plunges After Taiwan Raids Offices in Nvidia Chip Probe (source: GuruFocus.com)
+Super Micro Tumbles on Report of Taiwan Searches Tied to Nvidia Chips
+Link: https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-plunges-taiwan-121731732.html
+
+### Stocks Rise Pre-Bell as Markets Head for Strong Second-Quarter Finish (source: MT Newswires)
+The benchmark US stock measures rose before the bell Tuesday as markets head toward a strong finish
+Link: https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-markets-115947535.html
+
+### Taiwan Steps Up Probe Into AI Hardware Smuggling (source: The Wall Street Journal)
+Taiwanese authorities escalated a probe into the unauthorized diversion of advanced artificial-intelligence servers made by Super Micro Computer, as part of efforts to crack down on the alleged smuggling of Nvidia chips to China.
+Link: https://www.wsj.com/tech/taiwan-steps-up-probe-into-ai-hardware-smuggling-2baa6e40?siteid=yhoof2&yptr=yahoo
+
+### Why U.S. AI Restrictions Could Give China an Unexpected Advantage Following the Android Playbook (source: 24/7 Wall St.)
+CNBC’s Deirdre Bosa explained a counterintuitive thesis on the AI cold war in a recent CNBC segment. Paradoxically, she argued that U.S. efforts to wall off access to the most advanced American AI models could unintentionally accelerate China’s rise in AI. The concern is that policies designed to protect America’s lead may instead encourage developers ... Why U.S. AI Restrictions Could Give China an Unexpected Advantage Following the Android Playbook
+Link: https://247wallst.com/investing/2026/06/29/why-u-s-ai-restrictions-could-give-china-an-unexpected-advantage-following-the-android-playbook/
+
+### S&P 500, Nasdaq End Higher To Record Best Quarter Since 2020, While Alphabet Debut Drives Dow — VZ, CMCSA, RKLB, SMCI, BATL, GOOGL In Focus (source: Stocktwits)
+Google parent, Alphabet, made its debut in the Dow Jones Industrial Average.
+Link: https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-to-record-best-quarter-since-2020-alphabet-debut-dow/cZ19VC2R7LN
+
+### Super Micro Computer (SMCI) Stock Dips While Market Gains: Key Facts (source: Zacks)
+In the latest trading session, Super Micro Computer (SMCI) closed at $28.13, marking a -8.16% move from the previous day.
+Link: https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-214504155.html
+
+### Supermicro (SMCI) Faces Taiwan Raids In Nvidia Chip Smuggling Probe (source: Simply Wall St.)
+Taiwanese authorities have raided Super Micro Computer (NasdaqGS:SMCI) offices and affiliated sites as part of an investigation into alleged smuggling of Nvidia AI chips to China. The action is tied to concerns around illegal exports of advanced AI server hardware subject to U.S. export controls. The probe forms part of a broader enforcement effort to limit diversions of high end AI components into restricted markets. Super Micro Computer is a major supplier of AI focused servers and data...
+Link: https://finance.yahoo.com/technology/ai/articles/supermicro-smci-faces-taiwan-raids-210731719.html
+
+### Super Micro Plunges 8% as Taiwan Raids Its Offices in NVIDIA AI Chip Smuggling Probe (source: 24/7 Wall St.)
+Super Micro Computer (NASDAQ:SMCI) stock is down 8% to $28.15 in Monday afternoon trading after Taiwan authorities raided the company’s offices on the island as part of a widening investigation into alleged smuggling of NVIDIA (NASDAQ:NVDA) AI chips into China. The raid marks a significant escalation in Taiwan’s enforcement of chip export controls. The move ... Super Micro Plunges 8% as Taiwan Raids Its Offices in NVIDIA AI Chip Smuggling Probe
+Link: https://247wallst.com/investing/2026/06/29/super-micro-plunges-7-as-taiwan-raids-its-offices-in-nvidia-ai-chip-smuggling-probe/
+
+### SMCI Stock Slides 7% — Taiwan Authorities Raid Super Micro Offices In AI Chip Export Probe, Says Report (source: Stocktwits)
+Taiwanese authorities reportedly expanded an investigation into the alleged illegal export of Super Micro servers linked to Nvidia AI chips destined for China.
+Link: https://stocktwits.com/news-articles/markets/equity/smci-stock-taiwan-raids-super-micro-offices-ai-chip-export-probe/cZ19jVKR7LS
+
+### Taiwan raids Super Micro offices in expanding chip exports probe, shares fall (source: Investing.com)
+Investing.com -- Taiwanese government authorities raided offices of Super Micro Computer Inc. on Monday as part of an investigation into alleged smuggling of Nvidia Corp. chips to China using the company’s servers, according to a report by Bloomberg.
+Link: https://finance.yahoo.com/technology/ai/articles/taiwan-raids-super-micro-offices-183920479.html
+
+### Taiwan Raid Hits Super Micro Office, Slamming SMCI Shares (source: BeInCrypto)
+Taiwan authorities raided Super Micro’s local office Monday in an expanded chip smuggling probe. What we know so far.
+Link: https://beincrypto.com/taiwan-raid-super-micro-office-smci-shares/
+
+### Super Micro Office Raided as Taiwan Expands Chip Smuggling Probe (source: Bloomberg)
+(Bloomberg) -- Super Micro Computer Inc.’s offices in Taiwan were raided by government authorities on Monday, widening an investigation into the alleged smuggling of Nvidia Corp. chips into China using the company’s servers, according to a person familiar with the situation. Most Read from BloombergTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsSupreme Court Leaves Trump’s Fed, Citizenship Gambits for LastUS and Iran Agree to Halt Attacking Each Other Ahead of TalksPrabowo Risks
+Link: https://finance.yahoo.com/technology/ai/articles/super-micro-office-raided-taiwan-175946955.html
+
+### Odine Partners with Supermicro (SMCI) to Accelerate AI Infrastructure Development in Türkiye (source: Insider Monkey)
+Super Micro Computer Inc. (NASDAQ:SMCI) is one of the high growth NASDAQ stocks to buy now. On June 24, Odine entered into a partnership with Supermicro to accelerate the development of AI infrastructure in Türkiye. By using Supermicro’s global expertise in NVIDIA-validated, GPU-based high-performance systems and AI factory solutions, Odine will spearhead the deployment and […]
+Link: https://finance.yahoo.com/technology/ai/articles/odine-partners-supermicro-smci-accelerate-060845617.html
+
+### Stock Price Prediction: Super Micro Computer Set for 10% Climb After Repricing (source: 24/7 Wall St.)
+Super Micro Computer (NASDAQ:SMCI) has whipsawed investors over the past year, with the stock down 32.03% over twelve months even as AI server demand has exploded. After a brutal repricing, our model now sees value emerging at current levels. Our 24/7 Wall St. price target for Super Micro is $34.92, implying roughly 10.22% upside from ... Stock Price Prediction: Super Micro Computer Set for 10% Climb After Repricing
+Link: https://247wallst.com/investing/2026/06/26/stock-price-prediction-super-micro-computer-set-for-10-climb-after-repricing/
+
+### Super Micro Computer, Inc. (SMCI) is Attracting Investor Attention: Here is What You Should Know (source: Zacks)
+Super Micro (SMCI) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+Link: https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-130002643.html
+
+### Nvidia CEO sends serious wake up call to all Americans (source: TheStreet)
+In March 2026, federal prosecutors charged the co-founder of Supermicro with masterminding a $2.5 billion scheme to smuggle Nvidia-equipped servers to China through front companies, forged documents, and dummy servers staged to fool auditors. Jensen Huang had been watching this unfold for months. ...
+Link: https://www.thestreet.com/latest-news/nvidia-ceo-sends-serious-wake-up-call-to-all-americans
+
+### Supermicro Stock Jumps on Wall Street Upgrade. The Real Test Is Still Ahead. (source: Barchart)
+SMCI stock surged after a bullish analyst upgrade, but investors are now focused on whether earnings can justify growing expectations around AI infrastructure demand.
+Link: https://www.barchart.com/story/news/2648509/supermicro-stock-jumps-on-wall-street-upgrade-the-real-test-is-still-ahead
+
+### GF Securities Upgrades Super Micro Computer (SMCI) Stock to Buy (source: Insider Monkey)
+Super Micro Computer, Inc. (NASDAQ:SMCI) is one of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years. On June 22, GF Securities upgraded the company’s stock to “Buy” with a price objective of $48. As per the analyst Evan Lee, while the upcoming ~15% dilution has impacted the company’s stock […]
+Link: https://finance.yahoo.com/markets/stocks/articles/gf-securities-upgrades-super-micro-081927644.html
+
+### Super Micro Computer (SMCI) Is Up 5.8% After New Edge AI And Sovereign Infrastructure Push (source: Simply Wall St.)
+In late June 2026, StorMagic and Odine each announced collaborations with Super Micro Computer to bundle its compact edge servers with virtualization software and to deploy its NVIDIA-based GPU infrastructure for AI factories in Türkiye, while Supermicro itself expanded its Intel-powered AI edge portfolio for industrial and office environments. Together, these moves highlight Supermicro’s effort to extend its AI infrastructure franchise beyond hyperscale data centers into distributed edge,...
+Link: https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-5-080932278.html
+
+### Micron, Alphabet, Builders FirstSource, Sunrun, Wendy’s, and More Stocks That Explain Today’s Market (source: Barrons.com)
+FEATURE  Stocks were mixed on Wednesday after artificial-intelligence names pulled back. The late slide in AI shares came as stocks in many other sectors were rising.  Micron Technology fell 0.4%. The memory-chip maker was scheduled to report fiscal third-quarter earnings after the closing bell, which could help investors determine whether the AI boom has legs.
+Link: https://www.barrons.com/articles/stock-movers-361233bf?siteid=yhoof2&yptr=yahoo
+
+### Which AI Server Stock Has Dominated in 2026: Super Micro, Dell, or Hewlett Packard Enterprise? (source: 24/7 Wall St.)
+There’s a clear, undeniable winner this year among three major AI server stocks. Dell Technologies (NYSE:DELL) stock has dominated 2026, with Hewlett Packard Enterprise (NYSE:HPE) a strong second and Super Micro Computer (NASDAQ:SMCI) a distant third. The gap between the three is striking, given that all three are riding the same AI infrastructure wave. As ... Which AI Server Stock Has Dominated in 2026: Super Micro, Dell, or Hewlett Packard Enterprise?
+Link: https://247wallst.com/investing/2026/06/24/which-ai-server-stock-has-dominated-in-2026-super-micro-dell-or-hewlett-packard-enterprise/
+
+### Super Micro's AI Growth Story Gets a Major Boost From New Deal (source: GuruFocus.com)
+AI Deal Fuels Super Micro Rally After Bullish Analyst Upgrade
+Link: https://finance.yahoo.com/technology/ai/articles/super-micros-ai-growth-story-174550856.html
+
+### Nano Nuclear’s AI Data Center Deal Puts the Stock Back in Focus (source: MarketBeat)
+NNE stock is consolidating near its 50-day SMA as Nano Nuclear builds a nuclear value chain spanning microreactors, HALEU fuel, and data center power supply.
+Link: https://www.marketbeat.com/articles/nano-nuclears-ai-data-center-deal-puts-the-stock-back-in-focus/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Can SMCI Overcome Rising Inventory and Cash Flow Pressures? (source: Zacks)
+Super Micro Computer faces rising inventory, weaker cash flow and longer cash cycles as AI demand grows. Can new platform ramps offset mounting pressure?
+Link: https://finance.yahoo.com/markets/stocks/articles/smci-overcome-rising-inventory-cash-132500773.html
+
+### Frozen Assets: How Super Micro Puts AI Heat on Ice (source: MarketBeat)
+Super Micro is capitalizing on advanced liquid-cooling blueprints alongside NVIDIA to revolutionize accelerated data center efficiency for global hyperscalers.
+Link: https://www.marketbeat.com/articles/frozen-assets-how-super-micro-puts-ai-heat-on-ice/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### SMCI Stock Edges Higher After Tech Selloff – What Is Supermicro’s Latest Pact With Turkish IT Firm About? (source: Stocktwits)
+Supermicro and Odine have formed a partnership to deploy and manage AI infrastructure operations in Türkiye.
+Link: https://stocktwits.com/news-articles/markets/equity/smci-stock-edges-higher-after-tech-selloff-what-is-supermicro-s-latest-pact-with-turkish-it-firm-about/cZKyEjfR7Oy
+
+### Super Micro Computer Is Trading at Its Best Valuation in 18 Months. Should You Buy the Dip? (source: Motley Fool)
+The AI server specialist looks dirt cheap again.
+Link: https://www.fool.com/investing/2026/06/23/super-micro-computer-is-trading-at-its-best-valuat/
+
+### Super Micro Computer (SMCI) Suffers a Larger Drop Than the General Market: Key Insights (source: Zacks)
+The latest trading day saw Super Micro Computer (SMCI) settling at $33.32, representing a -6.03% change from its previous close.
+Link: https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-suffers-214506467.html
+
+### SMCI Stock Soars 15% on NVIDIA AI Tailwind: Buy, Sell, or Hold? (source: Zacks)
+SMCI surged after unveiling an AI data center blueprint with NVIDIA, but cash flow and debt concerns may temper enthusiasm for new buyers.
+Link: https://finance.yahoo.com/markets/stocks/articles/smci-stock-soars-15-nvidia-190000419.html
+
+### Forget Super Micro Computer: 1 Unstoppable AI Hardware Powerhouse to Buy Hand Over Fist After the Pullback (source: 24/7 Wall St.)
+Super Micro Computer (NASDAQ:SMCI) is back in the headlines after announcing a $7 billion equity and debt raise meant to fund a flood of AI server orders, and the retail crowd is treating it like a comeback story. But here’s what you should actually be watching. The SMCI Trade Is a Dilution Trap Strip away ... Forget Super Micro Computer: 1 Unstoppable AI Hardware Powerhouse to Buy Hand Over Fist After the Pullback
+Link: https://247wallst.com/investing/2026/06/23/forget-super-micro-computer-1-unstoppable-ai-hardware-powerhouse-to-buy-hand-over-fist-after-the-pullback/
+
+### Down Nearly 50% From Its High, Is Super Micro Computer Stock a Bargain Buy? (source: Motley Fool)
+The company's growth has been impressive, but it's trading at a fairly low earnings multiple.
+Link: https://www.fool.com/investing/2026/06/23/down-nearly-50-from-its-high-is-super-micro-comput/
+
+### Super Micro Computer (SMCI) Stock After Volatile AI Server Rally Is It Still Attractive (source: Simply Wall St.)
+If you are wondering whether Super Micro Computer stock still offers value after a volatile run, this article breaks down what the current price may be implying about the business. The stock last closed at US$35.46, with returns of 14.9% over the past week, a small decline of 0.3% over the past month, 14.5% year to date, a decline of 13.3% over the past year, a gain of 63.8% over three years, and a very large increase over five years. Recent coverage has focused on how Super Micro Computer...
+Link: https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-161556693.html
+
+### Rise of the Managed Intelligence Provider: Pax8 CPO Libby McIlhany, COO Craig Donovan, Live from Pax8 Beyond 2026 (source: Exec Edge)
+Watch Video Highlights Below, or Click HERE: Tech Edge hosted a fireside chat on June 9 at Pax8 Beyond 2026 in Salt Lake City with Libby McIlhany, Chief Product Officer and Craig Donovan, Chief Operating Officer, at Pax8. The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed how AI is transforming the managed services industry, the company’s […] The post Rise of the Managed Intelligence Provider: Pax8 CPO Libby McIlhany, COO Craig Donovan, Live from Pax8 Beyond
+Link: https://tech.yahoo.com/ai/deals/articles/rise-managed-intelligence-provider-pax8-152702205.html
+
+### GRRR Stock Surges On $2.5B AI Compute Deal Win – Retail Sees Potential Turning Point For Gorilla (source: Stocktwits)
+As part of the contract, Gorilla will deploy additional compute at the NeutraDC Batam data center in Indonesia.
+Link: https://stocktwits.com/news-articles/markets/equity/grrr-stock-surges-on-2-5-b-ai-compute-deal-win-retail-sees-potential-turning-point-for-gorilla/cZKw3qGR7aS
+
+### Super Micro-Backed AI Firm Bags $7.8 Billion Deals With Nvidia Chips in Demand (source: Barrons.com)
+Argentum AI, which is backed by Super Micro Computer, has agreed deals to deploy 47,000 Nvidia GB300 chips.
+Link: https://www.barrons.com/articles/super-micro-ai-argentum-nvidia-chips-895c7460?siteid=yhoof2&yptr=yahoo
+
+### This Tiny AI Memory Stock Is Taking on Samsung, Google, and Nvidia (source: Barchart)
+Netlist stock surged after widening its patent dispute with Samsung and adding several major AI and server companies to a new ITC complaint.
+Link: https://www.barchart.com/story/news/2600115/this-tiny-ai-memory-stock-is-taking-on-samsung-google-and-nvidia
+
+### Stock Futures Down as Tech Sell-Off Weighs on Sentiment (source: MT Newswires)
+US equity futures were tracking in the red on Tuesday amid a broader tech sell-off despite signs of
+Link: https://finance.yahoo.com/markets/stocks/articles/stock-futures-down-tech-sell-112406958.html
+

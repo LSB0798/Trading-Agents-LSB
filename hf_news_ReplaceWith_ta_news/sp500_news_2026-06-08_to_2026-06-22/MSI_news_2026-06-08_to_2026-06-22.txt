@@ -1,0 +1,30 @@
+## MSI News, from 2026-06-08 to 2026-06-22:
+
+### Can Motorola's Global Assist Expansion Boost AI-Based Public Safety? (source: Zacks)
+MSI's Assist expands globally, bringing AI tools for faster emergency response, field support and digital investigations to Europe after U.S. deployment.
+Link: https://finance.yahoo.com/technology/ai/articles/motorolas-global-assist-expansion-boost-152300272.html
+
+### Can Viavi's New TETRA Testing Upgrade Strengthen Its Growth Story? (source: Zacks)
+VIAV's new TETRA testing upgrade for the CX300 aims to speed deployments, cut costs, and reinforce its position in mission-critical radio testing.
+Link: https://finance.yahoo.com/technology/articles/viavis-tetra-testing-upgrade-strengthen-132200893.html
+
+### Stock Market Today, June 12: EchoStar Falls as SpaceX-Linked Rally Meets DISH DBS Payment Risk (source: Motley Fool)
+EchoStar’s SpaceX-linked upside remains a draw, but investors are now focused on whether AT&T spectrum proceeds arrive in time to ease the DISH DBS payment pressure.
+Link: https://www.fool.com/coverage/stock-market-today/2026/06/12/stock-market-today-june-12-echostar-falls-as-spacex-linked-rally-meets-dish-dbs-payment-risk/
+
+### Safety & Security Services Stocks Q1 Teardown: Motorola Solutions (NYSE:MSI) Vs The Rest (source: StockStory)
+The end of the earnings season is always a good time to take a step back and see who shined (and who didn’t). Let’s take a look at how safety & security services stocks fared in Q1, starting with Motorola Solutions (NYSE:MSI).
+Link: https://finance.yahoo.com/markets/stocks/articles/safety-security-services-stocks-q1-192137294.html
+
+### AST SpaceMobile (ASTS) Up 21.6% Since Last Earnings Report: Can It Continue? (source: Zacks)
+AST SpaceMobile (ASTS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.
+Link: https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-21-6-153004799.html
+
+### Axon Enterprise Weighs Motorola Counter Drone Deal For Public Safety Future (source: Simply Wall St.)
+Motorola Solutions recently agreed to acquire counter-drone specialist D-Fend Solutions, expanding its presence in drone security and public safety technology. This move places Motorola Solutions in more direct competition with Axon Enterprise (NasdaqGS:AXON) in areas such as integrated drone responses and airspace protection tools for law enforcement and critical infrastructure. Axon Enterprise is best known for its conducted energy devices and body cameras, but the company also invests in...
+Link: https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-weighs-motorola-counter-151203591.html
+
+### How Motorola’s New AI SafetyCam Platform At Motorola Solutions (MSI) Has Changed Its Investment Story (source: Simply Wall St.)
+In early June 2026, Motorola Solutions introduced SafetyCam, an AI-powered wearable that combines video security, two-way communications, a panic button and conversational Assist AI to support safety and productivity for retail and other front-line teams. This launch highlights how Motorola Solutions is extending its mission-critical software and services ecosystem from public safety into enterprise environments, turning real-time operational data into actionable intelligence. Next, we’ll...
+Link: https://finance.yahoo.com/markets/stocks/articles/motorola-ai-safetycam-platform-motorola-070941627.html
+

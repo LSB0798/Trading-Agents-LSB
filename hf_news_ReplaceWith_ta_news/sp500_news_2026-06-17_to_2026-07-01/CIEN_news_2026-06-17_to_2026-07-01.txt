@@ -1,0 +1,102 @@
+## CIEN News, from 2026-06-17 to 2026-07-01:
+
+### Where Arista Networks Stock Is Most Exposed (source: Trefis)
+The company's incredible AI-driven growth is undeniable, but it rests on a surprisingly narrow foundation that every investor should understand.
+Link: https://www.trefis.com/articles/605159/where-arista-networks-stock-is-most-exposed/2026-06-30
+
+### HLIT Stock Lags Industry in the Past Year: An Opportunity to Buy? (source: Zacks)
+Harmonic's broadband shift is pressuring near-term results, but DOCSIS 4.0 adoption and recurring revenues point to long-term growth.
+Link: https://finance.yahoo.com/markets/stocks/articles/hlit-stock-lags-industry-past-124200891.html
+
+### The AI Boom Has a Second Act—And It's Playing Out in Optics (source: MarketBeat)
+Lucas Downey of TradeSmith outlines three optical networking stocks—Amphenol, Corning, and Ciena—capitalizing on the multi-year AI data center build-out as analysts play catch-up.
+Link: https://www.marketbeat.com/articles/the-ai-boom-has-a-second-actand-its-playing-out-in-optics/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Nvidia’s Massive Telecom Project Could Be the Next Big Catalyst for Ciena Stock (source: Barchart)
+Ciena stock already has AI-driven momentum, and a new multi-billion-dollar telecom networking project reportedly backed by Nvidia could create another powerful growth catalyst.
+Link: https://www.barchart.com/story/news/3037878/nvidias-massive-telecom-project-could-be-the-next-big-catalyst-for-ciena-stock
+
+### These 7 Stocks Will Solve AI’s Most Important Bottleneck (source: 24/7 Wall St.)
+Artificial intelligence has no shortage of obstacles. The industry is scrambling to secure enough electricity to power new data centers, enough land to build them, and enough high-bandwidth memory (HBM) to keep next-generation chips fed with data. Yet another constraint is emerging that could prove just as important: moving information between those chips fast enough ... These 7 Stocks Will Solve AI’s Most Important Bottleneck
+Link: https://247wallst.com/investing/2026/06/29/these-7-stocks-will-solve-ais-most-important-bottleneck/
+
+### Is Ciena (CIEN) Quietly Turning AI-Driven 5G Automation Into a Durable Competitive Edge? (source: Simply Wall St.)
+Earlier this week, Telefónica Deutschland announced it had completed a proof of concept with Ciena’s Blue Planet unit using AI agents to speed up the design and fulfillment of complex 5G network slicing services within its existing orchestration systems. The project showed that embedding AI directly into operations support workflows can compress highly specialized design tasks from weeks to minutes, pointing to practical efficiency gains for next-generation network services. We’ll now...
+Link: https://finance.yahoo.com/technology/ai/articles/ciena-cien-quietly-turning-ai-150701701.html
+
+### Ciena (CIEN) And Telefónica Put AI Agents To Work In 5G Service Design (source: Simply Wall St.)
+Ciena (NYSE:CIEN) and Telefónica Deutschland completed a proof of concept integrating AI agents with 5G network slicing for service design automation. The collaboration embeds AI driven automation into Telefónica’s multi domain service orchestration platform to speed up complex 5G service design. The proof of concept streamlines tasks that previously required specialized manual work, aiming to execute them in minutes. Ciena is best known for its optical networking and software platforms...
+Link: https://finance.yahoo.com/technology/ai/articles/ciena-cien-telef-nica-put-140608097.html
+
+### Ciena (CIEN) Stock Sees Fair Value Lift As Analysts Rework AI Networking Views (source: Simply Wall St.)
+The consensus fair value estimate for Ciena has moved from US$452.12 to US$565.71, signaling a meaningful reset in where analysts see the stock’s potential. Much of that shift tracks with recent research debates over how fully AI networking and optical demand are reflected in the share price, and how to balance execution upside against supply chain and valuation concerns. As you read on, you will see how these changing targets fit into the evolving Ciena story and what to watch next in the...
+Link: https://finance.yahoo.com/markets/stocks/articles/ciena-cien-stock-sees-fair-101151902.html
+
+### Tradr to Launch Leveraged ETFs on CIEN, QNT, RMBS, TSEM & TTMI (source: Stocktwits)
+Tradr ETFs, a provider of ETFs designed for sophisticated investors and professional traders, announced that it expects to launch five single stock leveraged ETFs on Wednesday, July 1.  For detailed information on Tradr ETFs and the significant risks involved with leveraged ETFs, please visit www.tradretfs.com.
+Link: https://stocktwits.com/news-articles/business/others/tradr-to-launch-leveraged-et-fs-on-cien-qnt-rmbs-tsem-and-ttmi/cZ1cvoSR7WR
+
+### Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech (source: GuruFocus.com)
+OpenAI IPO Delay Report Sparks Sharp Selloff in AI and Memory Stocks
+Link: https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-150833279.html
+
+### ADTN Rides on Network Solutions Momentum: Will Growth Continue? (source: Zacks)
+ADTRAN's optical networking, broadband access and AI connectivity demand boost revenues, but can these growth drivers keep the momentum going?
+Link: https://finance.yahoo.com/technology/articles/adtn-rides-network-solutions-momentum-135700212.html
+
+### What Arista Networks Stock's Balance Sheet Revealed Before the AI Boom (source: Trefis)
+Long before the stock took off, the company's orders for future parts and its backlog of unbooked sales were telling a powerful story about the coming AI demand.
+Link: https://www.trefis.com/articles/604519/what-arista-networks-stocks-balance-sheet-revealed-before-the-ai-boom/2026-06-25
+
+### Why Ciena’s (CIEN) Optical Networking Mix Makes Its AI Bandwidth Thesis Harder to Ignore (source: Insider Monkey)
+Ciena Corporation (NYSE:CIEN) is one of the Best Fiber Optics Stocks to Buy for the AI Data Center Boom. On June 4, 2026, Ciena reported fiscal second-quarter revenue of $1.57 billion, up 40% year over year, and raised its fiscal 2026 revenue outlook to $6.3 billion, plus or minus $100 million, implying 32% growth at […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-ciena-cien-optical-networking-185327510.html
+
+### Why Cisco’s (CSCO) Acacia Orders Give It a Clearer Role in the 800G AI Optics Cycle (source: Insider Monkey)
+Cisco Systems, Inc. (NASDAQ:CSCO) is one of the Best Fiber Optics Stocks to Buy for the AI Data Center Boom. On June 8, 2026, Bank of America raised its price target on Cisco to $150 from $135 and reiterated a Buy rating, extending a bullish view that had sharpened after the firm’s late-May optics note. […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-acacia-orders-185307381.html
+
+### Knowles Rides on Solid Demand for Voice-Enabled Devices: Worth Buying? (source: Zacks)
+KN is riding the demand for voice-enabled devices, edge AI and IoT, as its audio tech, acquisitions and efficiency efforts support long-term growth.
+Link: https://finance.yahoo.com/technology/articles/knowles-rides-solid-demand-voice-155400051.html
+
+### Nvidia's Network Ambitions Could Lift Telecom (source: GuruFocus.com)
+Massive telecom project could reshape AI infrastructure.
+Link: https://finance.yahoo.com/technology/articles/nvidias-network-ambitions-could-lift-190347166.html
+
+### Corning Rides on Strong Operating Margin Growth: Will it Sustain? (source: Zacks)
+GLW's operating margin has climbed since its Springboard plan launch, powered by strong Optical Communications growth.
+Link: https://finance.yahoo.com/markets/stocks/articles/corning-rides-strong-operating-margin-134900957.html
+
+### Ciena vs. Arista Networks: Which AI Networking Stock is the Better Buy? (source: Zacks)
+CIEN and ANET are capitalizing on booming AI networking demand, but differences in growth outlook, estimates and valuation may sway investors.
+Link: https://finance.yahoo.com/technology/ai/articles/ciena-vs-arista-networks-ai-121300355.html
+
+### Is Ciena Stock Outperforming the S&P 500? (source: Barchart)
+Ciena has rallied the S&P 500 Index over the past year, and analysts remain somewhat bullish about the stock’s growth prospects.
+Link: https://www.barchart.com/story/news/2602036/is-ciena-stock-outperforming-the-s-p-500
+
+### Ciena (CIEN) Sets A New Bar For Quantum Safe 800GbE Across The Atlantic (source: Simply Wall St.)
+Ciena (NYSE:CIEN) and Colt Technology Services completed a transatlantic trial of quantum-safe data transmission at 800GbE. The trial used Ciena’s WaveLogic 6 Extreme encryption for live data across the Atlantic. The companies report this as the fastest and most secure quantum-protected transmission achieved on this route to date. Ciena focuses on high-capacity optical networking and related software, with customers that rely on secure traffic across long-haul routes. This trial with Colt...
+Link: https://finance.yahoo.com/markets/stocks/articles/ciena-cien-sets-bar-quantum-110619697.html
+
+### Bet on These 4 Top-Performing Liquid Stocks to Maximize Returns (source: Zacks)
+ALHC, AGX, AGYS and CIEN make the cut as the top liquid stocks, each boasting strong liquidity, growth attributes and operational efficiency.
+Link: https://finance.yahoo.com/markets/stocks/articles/bet-4-top-performing-liquid-122800755.html
+
+### Here is Why Ciena (CIEN) is One of the Best US Stocks to Buy and Hold for the Next 5 Years (source: Insider Monkey)
+​Ciena Corporation (NYSE:CIEN) is one of the best US stocks to buy and hold for the next 5 years. On June 11, Ciena successfully closed a $2.875 billion private offering of 0.00% convertible senior notes due in 2031. This strategic move is designed to optimize the company’s capital structure, significantly reduce interest expenses, and provide […]
+Link: https://finance.yahoo.com/markets/stocks/articles/why-ciena-cien-one-best-102311008.html
+
+### Ciena Corporation (CIEN) and Colt Technology Services Complete Quantum-safe Data Transmission (source: Insider Monkey)
+Ciena Corporation (NYSE:CIEN) is among the Best Photonics Stocks. On June 10, Ciena Corporation (NYSE:CIEN) and Colt Technology Services reported they completed a transatlantic trial transmitting safe quantum data at 800GbE across 6,900km between New York and London. It marked one of the fastest demonstrations of its kind. The companies stated that the test used Ciena’s […]
+Link: https://finance.yahoo.com/technology/articles/ciena-corporation-cien-colt-technology-071129116.html
+
+### Zacks.com featured highlights include Sterling Infrastructure, Dell and Ciena (source: Zacks)
+Sterling Infrastructure, Dell and Ciena made a momentum screen as markets rallied on a U.S.-Iran peace deal and falling oil prices.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-sterling-072200536.html
+
+### Arista’s Very Good, Very Bad Year (source: Trefis)
+The networking company is drowning in the best demand its CEO has ever seen, and that’s precisely the problem.
+Link: https://www.trefis.com/articles/603097/aristas-very-good-very-bad-year/2026-06-16
+

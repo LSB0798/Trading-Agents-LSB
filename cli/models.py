@@ -8,3 +8,6 @@ class AnalystType(str, Enum):
     SOCIAL = "social"
     NEWS = "news"
     FUNDAMENTALS = "fundamentals"
+    GNEWS = "gnews"
+    ALPHA_NEWS = "alpha_news"
+    FINNHUB_NEWS = "finnhub_news"

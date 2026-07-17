@@ -1,0 +1,202 @@
+## AVGO News, from 2026-06-17 to 2026-07-01:
+
+### S&P 500, Nasdaq Rode AI Boom to First-Half Records (source: The Wall Street Journal)
+The S&P 500 and Nasdaq composite turned in 24 and 20 record closes, respectively, in the year's first half, lifted by the artificial-intelligence boom that has fueled sizable gains in the chip makers supplying the build-out.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/s-p-500-nasdaq-rode-ai-boom-to-first-half-records-XyiMfoIDbQ6yRIN66Bcs?siteid=yhoof2&yptr=yahoo
+
+### Marvell Stock And The High-Stakes Forecast Behind The AI Story (source: Trefis)
+The company's growth outlook is impressive, but a huge piece of its future depends on the flawless execution of one specific, high-concentration bet.
+Link: https://www.trefis.com/articles/604949/marvell-stock-and-the-high-stakes-forecast-behind-the-ai-story/2026-06-30
+
+### Broadcom’s Stock Has Slumped Over 20% From Its Highs. These Experts Say They Would Buy the Dip (source: Investopedia)
+These analysts say Broadcom's pullback has created an opportunity for investors to snap up shares at a discount.
+Link: https://www.investopedia.com/broadcom-stock-has-slumped-over-20-percent-from-its-highs-these-experts-say-they-would-buy-the-dip-avgo-12009555
+
+### One Thing I’m Watching: The Great Tech Divergence (source: The Wall Street Journal)
+This year's second quarter was a blockbuster period for tech stocks.  The PHLX Semiconductor Index—which houses chip stocks like Nvidia and Broadcom—climbed 88% through Tuesday in its best quarter in history.  Once darlings of the industry, some of the biggest names in technology have fallen out of favor with investors as they fret about these companies' big artificial-intelligence spending commitments.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/one-thing-i-m-watching-the-great-tech-divergence-cEcX6briJxLUOBfDs1zj?siteid=yhoof2&yptr=yahoo
+
+### Meet the Artificial Intelligence (AI) Inference Stock That Could Deliver the Biggest Gains Over the Next 3 Years (Hint: It's not Nvidia or Broadcom) (source: Motley Fool)
+Qualcomm is forecasting impressive growth in its data center business over the next three years, driven by the growing traction in AI chips.
+Link: https://www.fool.com/investing/2026/06/30/meet-the-artificial-intelligence-ai-inference-stoc/
+
+### Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds (source: GuruFocus.com)
+Chip Stocks Explode Higher: Nvidia, AMD, Intel Extend AI-Fueled Rally
+Link: https://finance.yahoo.com/technology/ai/articles/nvidia-amd-intel-lead-ai-193407390.html
+
+### Broadcom Just Cratered 16% in a Month. Is It Time to Sell, or Buy More? (source: 24/7 Wall St.)
+Broadcom‘s (NASDAQ:AVGO) stock is having a rare moment of calm after a brutal stretch. Shares are up 1% to $377.31 in midday trading, a small rebound that does little to undo the damage. AVGO stock is down 16% over the past month, raising the obvious question for holders and watchers. The sharp drop comes after ... Broadcom Just Cratered 16% in a Month. Is It Time to Sell, or Buy More?
+Link: https://247wallst.com/investing/2026/06/30/broadcom-just-cratered-16-in-a-month-is-it-time-to-sell-or-buy-more/
+
+### Better Custom ASIC Stock: Marvell vs. Broadcom (source: Motley Fool)
+Marvell Technology and Broadcom are poised for solid growth in the future, driven by strong demand for custom AI processors.
+Link: https://www.fool.com/investing/2026/06/30/better-custom-asic-stock-marvell-vs-broadcom/
+
+### After China, OpenAI Chips Away at Nvidia: So Why is NVDA Stock Up? (source: BeInCrypto)
+China did it first. Now OpenAI is cutting its Nvidia use, yet Nvidia stock still rose. Here is why it keeps climbing.
+Link: https://beincrypto.com/openai-nvidia-chips-stock-impact/
+
+### What Astera Labs Stock Was Telling You About Its AI Fabric Ambitions (source: Trefis)
+The chipmaker's stock surged when its new product line took off, but management had been mapping out that exact trajectory for months.
+Link: https://www.trefis.com/articles/605157/what-astera-labs-stock-was-telling-you-about-its-ai-fabric-ambitions/2026-06-30
+
+### Intel, AMD Jump 7% as Chip Stocks Catch a Risk-On Bid (source: 24/7 Wall St.)
+Chip stocks are catching a strong risk-on bid at midday Tuesday, with mega-cap semiconductors leading the broader tape higher. Intel (NASDAQ:INTC) stock is up 7% to $140.56, while Advanced Micro Devices (NASDAQ:AMD) stock is up 7% to $577.13. The leveraged sector proxy is moving even harder. Direxion Daily Semiconductor Bull 3X Shares (NYSEARCA:SOXL) shares are ... Intel, AMD Jump 7% as Chip Stocks Catch a Risk-On Bid
+Link: https://247wallst.com/investing/2026/06/30/intel-amd-jump-7-as-chip-stocks-catch-a-risk-on-bid/
+
+### Qualcomm Is the Most Underrated AI Chipmaker to Buy (source: Motley Fool)
+The company is aggressively entering the AI chip space and signing lucrative deals with tech giants.
+Link: https://www.fool.com/investing/2026/06/30/qualcomm-is-the-most-underrated-ai-chipmaker-to/
+
+### Marvell Stock's Price Tag Is A Matter Of Time (source: Trefis)
+The chipmaker looks expensive on today's numbers, but the real question is what you are paying for the earnings of tomorrow.
+Link: https://www.trefis.com/articles/605164/marvell-stocks-price-tag-is-a-matter-of-time/2026-06-30
+
+### Could This New Chip Be a Game Changer for Broadcom Stock? (source: Motley Fool)
+Broadcom recently unveiled a new inference-focused chip designed to meet OpenAI's needs, and the early results are promising.
+Link: https://www.fool.com/investing/2026/06/30/could-this-new-chip-be-a-game-changer-for-broadcom/
+
+### Chip stocks hit record 19.7% of S&P 500, quadrupling since 2020 (source: Investing.com)
+Nvidia sits at the center of this story as the single largest driver of the sector’s index weight expansion over the past few years amid the AI boom. However, the broadening of the semiconductor trade to include Broadcom, TSCM, ASML, AMD, and more recently memory stocks like Micron and SanDisk has pushed the index higher and higher.
+Link: https://finance.yahoo.com/markets/stocks/articles/chip-stocks-hit-record-19-124240551.html
+
+### Semiconductor stocks climb to record 19.7% of the S&P 500 as AI rally reshapes the index (source: InvestorsHub)
+Chipmakers reach unprecedented share of the benchmarkSemiconductor companies now account for a record 19. 7% of the S&P 500, almost four times their weighting of around 5% in June 2020, according to Citadel Securities strategist Scott Rubner.
+Link: https://investorshub.advfn.com/market-news/article/31198/semiconductor-stocks-climb-to-record-19-7-of-the-sp-500-as-ai-rally-reshapes-the-index
+
+### Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings (source: Bloomberg)
+(Bloomberg) -- Chip stocks are heading for their best quarter ever, extending an extraordinary start to the year driven by insatiable demand for artificial intelligence equipment. But after recent jitters sent the stocks tumbling, investors are wondering how much further the rally can go. Most Read from BloombergYen Hits Four-Decade Low in Historic Slide That’s Rattled JapanTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsWhatsApp Opens Username Reservations to 3 Billion UsersUS St
+Link: https://finance.yahoo.com/markets/stocks/articles/chip-stocks-best-quarter-ever-090051148.html
+
+### AVGO Stock Heads For Worst Month In 7 Years: Co-Founder’s Quarterly Stake Sales Top $720M (source: Stocktwits)
+Broadcom shares are up 8% year to date, sharply below the 104% gain in the chip benchmark iShares Semiconductor ETF (SOXX).
+Link: https://stocktwits.com/news-articles/markets/equity/avgo-stock-heads-for-worst-month-in-7-years-co-founder-s-quarterly-stake-sales-top-720-m/cZ1QdqrR7iP
+
+### What Broadcom (AVGO)'s Jalapeño AI Accelerator Partnership With OpenAI Means For Shareholders (source: Simply Wall St.)
+In June 2026, OpenAI and Broadcom announced Jalapeño, OpenAI’s first custom large language model inference accelerator, co-developed with Broadcom and Celestica and already running GPT‑5.3‑Codex‑Spark workloads at production target frequency and power. By tightly co-designing Jalapeño around real-world LLM needs and pairing it with Broadcom’s Tomahawk networking and system integration, the partners are effectively building an AI compute stack that could reshape how hyperscalers source and...
+Link: https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-jalape-o-ai-031432233.html
+
+### This Under-the-Radar Semiconductor Stock Is Beating Nvidia and Broadcom in 2026 (source: Motley Fool)
+AI computing places considerable demands on data centers. This company is helping to address the problem -- and investors are taking note.
+Link: https://www.fool.com/investing/2026/06/29/this-under-the-radar-semiconductor-stock-is-beatin/
+
+### The Margin Squeeze Threatening Intel Stock (source: Trefis)
+If you hold Intel (INTC) stock, you’ve had a strong year. The shares have posted a 478% gain over the last 12 months, and the narrative has shifted in the company’s favor. Management now sees “clear signs that the CPU is reinserting itself as the indispensable foundation of the AI era.” The market has bought into this comeback story, with the stock trading near 91% of its 52-week high.
+Link: https://www.trefis.com/articles/604939/the-margin-squeeze-threatening-intel-stock/2026-06-29
+
+### What Was AMD Stock Really Saying Before Its AI Breakout? (source: Trefis)
+Before its stock soared, a tidal wave of demand had the company blowing past its targets and scrambling to keep up with its own success.
+Link: https://www.trefis.com/articles/604948/what-was-amd-stock-really-saying-before-its-ai-breakout/2026-06-29
+
+### The Real Price Of Intel Stock Is Three Years Away (source: Trefis)
+At a glance, Intel (INTC) stock looks expensive. Trading around $128.32, the shares command a multiple of about 118x this year’s expected earnings. For many investors, that’s where the analysis stops. A triple-digit price-to-earnings ratio is often a dealbreaker, suggesting a price tag that has far outrun the business fundamentals.
+Link: https://www.trefis.com/articles/604956/the-real-price-of-intel-stock-is-three-years-away/2026-06-29
+
+### Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap? (source: 24/7 Wall St.)
+Intel (NASDAQ:INTC) stock is trading at $130.60 midday Monday, up 2% on the session. The move follows a major price-target hike from Cantor Fitzgerald, which raised its target on the shares to $150 from $90 while keeping its rating at Neutral. That nuance matters. A supersized target without a rating change signals strong conviction in ... Wall Street Just Supersized Its Price Target on Intel. Is the Stock Still Too Cheap?
+Link: https://247wallst.com/investing/2026/06/29/wall-street-just-supersized-its-price-target-on-intel-is-the-stock-still-too-cheap-2/
+
+### This CIO Says the AI Bubble Pops the Moment Good News Stops Moving Stocks (source: 24/7 Wall St.)
+David Bahnsen, Chief Investment Officer at The Bahnsen Group, appeared on CNBC’s Squawk Box this morning with a specific warning. His tell is more clinical. “I think a bubble gets ready to pop is when you start seeing companies have the good news everyone’s been talking about and cheerleading and then the stocks don’t respond,” ... This CIO Says the AI Bubble Pops the Moment Good News Stops Moving Stocks
+Link: https://247wallst.com/investing/2026/06/29/this-cio-says-the-ai-bubble-pops-the-moment-good-news-stops-moving-stocks/
+
+### V&E Appoints Michael Jay as New IP Litigation Partner in LA (source: CorpGov.com)
+By Karen Roman Vinson & Elkins said Michael Jay is the firm’s latest Los Angeles-based partner in its Intellectual Property & Technology Litigation practice, having previously served in the Patent Litigation Group at DLA Piper. Mr. Jay is a first-chair trial lawyer with more than 20 years of experience in patent and trade secret disputes […] The post V&E Appoints Michael Jay as New IP Litigation Partner in LA appeared first on CorpGov.
+Link: https://finance.yahoo.com/technology/articles/v-e-appoints-michael-jay-161305810.html
+
+### Can ADI's Strong Cash Flow and Inventory Strategy Drive Future Growth? (source: Zacks)
+Analog Devices' strong cash flow, low capital needs and strategic inventory build support growth while keeping its balance sheet and cash conversion resilient.
+Link: https://finance.yahoo.com/markets/stocks/articles/adis-strong-cash-flow-inventory-152300659.html
+
+### OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold (source: 24/7 Wall St.)
+Three things happened to OpenAI last week. The company went from being a model lab to something closer to a vertically integrated empire that wants to design its own silicon, own a chunk of the world’s memory supply, and cure the common cold. John Coogan, the co-host of TBPN walked through all of it, and ... OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold
+Link: https://247wallst.com/investing/2026/06/29/openais-wild-week-a-custom-chip-40-of-the-worlds-dram-and-a-500-million-bet-to-kill-the-common-cold/
+
+### JPMorgan Stands by Sky-High Broadcom Target as Shares Slide (source: MarketBeat)
+Broadcom shares are feeling the heat after its latest earnings report, but one of Wall Street's top banks sees the stock moving $100 above past highs.
+Link: https://www.marketbeat.com/articles/jpmorgan-stands-by-sky-high-broadcom-target-as-shares-slide/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands (source: Yahoo Finance)
+Big things are expected of Micron and Nvidia.
+Link: https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html
+
+### Why Chinese AI Models Should Worry Nvidia, Micron Stock Investors (source: Trefis)
+Chinese models are quietly challenging the $600B+ AI infrastructure supercycle. Markets have glossed over it, but they probably shouldn't.
+Link: https://www.trefis.com/articles/605024/why-chinese-ai-models-should-worry-nvidia-micron-stock-investors/2026-06-29
+
+### JPMorgan Pushes Back on Broadcom (AVGO) Delay Fears and Says the TPU v9 Program Is Firmly on Schedule (source: Insider Monkey)
+Broadcom Inc. (NASDAQ:AVGO) is one of the best growth stocks to buy according to billionaire Dan Loeb. On June 17, JPMorgan analyst Harlan Sur reiterated an Overweight rating and a $580 price target on Broadcom Inc. (NASDAQ:AVGO). Sur used the opportunity to push back against growing market fears that Broadcom’s AI chip project with Google […]
+Link: https://finance.yahoo.com/technology/ai/articles/jpmorgan-pushes-back-broadcom-avgo-115846269.html
+
+### Latest News In AI Chips - WNSTN Joins Google Marketplace Elevating Financial AI Compliance (source: Simply Wall St.)
+WNSTN.ai has expanded its presence in the AI chips sector by joining Google Cloud Marketplace with an enterprise API designed to enhance compliance while accelerating AI adoption in financial institutions. This integration allows brokerages and regulated firms to efficiently deploy AI-driven personalization and insights within their platforms, facilitating rapid and compliant innovation. The new API supports interoperability and scalability, enabling secure orchestration of AI experiences...
+Link: https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-wnstn-113738370.html
+
+### New leader board: Citi refreshes AI compute semiconductor picks (source: Investing.com)
+Investing.com -- Citi analysts have updated the firm’s AI compute semiconductor stock rankings following the latest quarterly earnings updates, telling investors in a note that AI compute demand remains undersupplied.
+Link: https://finance.yahoo.com/technology/ai/articles/leader-board-citi-refreshes-ai-113314260.html
+
+### Broadcom (AVGO) Raises Tender-Offer Cap to $3 Billion, Accepts $2.9 Billion in Notes (source: Insider Monkey)
+Broadcom Inc. (NASDAQ:AVGO) is one of the best fast growth stocks to buy according to hedge funds. On June 17, Broadcom Inc. (NASDAQ:AVGO) announced the expiration and results of its cash tender offers to buy back six series of its own outstanding senior notes. The company also raised the total buyback cap from the originally […]
+Link: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-raises-tender-offer-102443246.html
+
+### Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now? (source: Insider Monkey)
+Broadcom Inc. (NASDAQ:AVGO) is one of the High Growth Semiconductor Stocks to Buy Now. On June 24, Reuters reported that OpenAI, in partnership with Broadcom Inc. (NASDAQ:AVGO), released its first custom AI chip, called the Jalapeño. This marks an important milestone for both companies. ​The report noted that this chip has been designed specifically for […]
+Link: https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-best-high-growth-095843511.html
+
+### Broadcom Inc. (AVGO) is Avoiding Acquisitions in Favor of AI Organic Development (source: Insider Monkey)
+Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Semiconductor Stocks to Buy According to Billionaires. since Chief Executive Officer Hock Tan stated that accelerating artificial intelligence growth is a stronger driver of returns. Tan said at the Bloomberg Tech conference that “artificial intelligence revenue is surging” and that “what can I buy that would […]
+Link: https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-avoiding-acquisitions-184431264.html
+
+### The Billionaire Who Sold Nvidia Too Early Just Bought 196,000 Shares of Broadcom -- Here's the Thesis Behind the Rotation (source: Motley Fool)
+Stanley Druckenmiller bought a fresh position in Broadcom in the first quarter of 2026.
+Link: https://www.fool.com/investing/2026/06/28/the-billionaire-who-sold-nvidia-too-early-just-bou/
+
+### Cerebras Stock's Volatility Comes as AI Stock Momentum Is Slowing. Should Investors Be Worried? (source: Motley Fool)
+Investors are right to scrutinize Cerebras and some AI companies right now.
+Link: https://www.fool.com/investing/2026/06/28/cerebras-stock-volatility-ai-stock-momentum/
+
+### The Best High-Yield Income Investments for 2026, Ranked (source: Barrons.com)
+When it comes to income, investors essentially have two choices: stocks or bonds.  While the S&P 500 yields just 1%, there are plenty of pockets of the stock market where investors can snag 3%-plus dividend yields, including utilities, REITs, pipelines, and one of the most hated sectors, cable and telecom.  “Yields are very attractive,” says Russ Brownback,  BlackRock’s  deputy chief investment officer for global fixed income and co-manager of the undefinedBlackRock Strategic Income Opportunities fund.
+Link: https://www.barrons.com/articles/best-income-investments-b30f79d9?siteid=yhoof2&yptr=yahoo
+
+### Nancy Pelosi Has Added These 9 Stocks To Her Portfolio Since 2025, Including Three Magnificent Seven Names (source: Benzinga)
+Congresswoman and former Speaker of the House Nancy Pelosi (D-Calif.) is one of the most followed members of Congress when it comes to her disclosed stock and options trades. Here’s a look at the trades disclosed by Pelosi since the...
+Link: https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-added-9-stocks-153109696.html
+
+### This Tiny AI Stock Is Up By 680% in a Year. Is It A Buy? (source: Motley Fool)
+The small company is winning big orders from hyperscalers.
+Link: https://www.fool.com/investing/2026/06/28/ai-stock-up-680-year-buy-aehr-test-system/
+
+### 5 AI Hardware Stocks Create a New ‘MANIA’ Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs. (source: Barchart)
+Micron, AMD, Intel, Broadcom, and Nvidia are the new pop stars of the stock market.
+Link: https://www.barchart.com/story/news/3023086/5-ai-hardware-stocks-create-a-new-mania-trade-that-replaces-the-magnificent-7-hedge-your-bets-on-the-hot-tickers-with-these-2-leveraged-etfs
+
+### Will Amazon, Taiwan Semiconductor, SpaceX, or Broadcom Be the Next $3 Trillion Company? (source: Motley Fool)
+This cohort is linked by one common theme.
+Link: https://www.fool.com/investing/2026/06/28/will-amazon-taiwan-semiconductor-spacex-or-broadco/
+
+### Broadcom (AVGO) And OpenAI Launch Jalapeño AI Chip In Nine Months (source: Simply Wall St.)
+OpenAI and Broadcom have launched Jalapeño, a custom AI inference chip tailored for large language model workloads. The chip is the first product in a planned multi generation AI compute platform aimed at accelerating AI deployment. Jalapeño reached tape out in about nine months, highlighting rapid hardware and software co development between the two companies. For investors tracking Broadcom, ticker NasdaqGS:AVGO, Jalapeño adds a new layer to the company’s role in AI infrastructure. The...
+Link: https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-openai-launch-jalape-041540441.html
+
+### The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse (source: Motley Fool)
+Broadcom's stock looks like a great buy right now.
+Link: https://www.fool.com/investing/2026/06/27/the-market-is-panicking-but-you-should-keep-buying/
+
+### Is Broadcom (AVGO) One of the Best Trending AI Stocks to Watch in 2026? (source: Insider Monkey)
+Broadcom Inc. (NASDAQ:AVGO) is one of the best trending AI stocks to watch in 2026. Reuters reported on June 18 that Architect Labs announced that it has raised $24 million in seed funding to build a company that ​will employ AI to speed and ease the design ‌of custom chips. It further stated that Broadcom […]
+Link: https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-one-best-trending-190821150.html
+
+### Is Broadcom (AVGO) One of the Best Future Stocks to Buy and Hold for 10 Years? (source: Insider Monkey)
+Broadcom Inc. (NASDAQ:AVGO) is one of the best future stocks to buy and hold for 10 years. On June 18, Broadcom announced the results of its cash tender offers for various series of outstanding senior notes, while simultaneously increasing the aggregate purchase price capacity to $3.0 billion. This expanded budget allows the company to purchase […]
+Link: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-best-future-161542137.html
+
+### Broadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock. (source: Barchart)
+As Broadcom takes another major step in the AI race with OpenAI's first custom AI chip, here's how investors should approach AVGO stock.
+Link: https://www.barchart.com/story/news/3014218/broadcom-and-openai-just-unveiled-the-new-jalapeno-ai-chip-what-that-means-for-avgo-stock
+
+### Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers (source: 24/7 Wall St.)
+If you own VanEck Semiconductor ETF (NASDAQ:SMH) for AI exposure, you are betting on the same handful of chip designers everyone else holds. SMH is the default vehicle for the trade: a concentrated basket led by NVIDIA, Taiwan Semiconductor, and Broadcom that has produced the headline gains of the AI cycle. The case for owning ... Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers
+Link: https://247wallst.com/investing/2026/06/27/forget-the-ai-chipmakers-for-0-47-this-fund-owns-the-companies-building-the-data-centers/
+

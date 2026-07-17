@@ -1,0 +1,1 @@
+Error fetching news for CBOE: 'NoneType' object has no attribute 'get'

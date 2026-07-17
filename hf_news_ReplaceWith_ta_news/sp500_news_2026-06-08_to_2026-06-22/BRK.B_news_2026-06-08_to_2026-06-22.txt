@@ -1,0 +1,6 @@
+## BRK.B News, from 2026-06-08 to 2026-06-22:
+
+### The Liquidity Vacuum: Why Friday’s Stock Market Selloff Was a Technical Glitch (source: Barchart)
+Friday’s market drop wasn't just about macro fears; it was a technical liquidity vacuum. Massive capital outflows for the Alphabet offering, combined with T+1/T+2 settlement cycles, left brokerages with empty trading accounts and unable to provide the usual support.
+Link: https://www.barchart.com/story/news/2364732/the-liquidity-vacuum-why-fridays-stock-market-selloff-was-a-technical-glitch
+

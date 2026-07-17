@@ -1,0 +1,46 @@
+## LUV News, from 2026-06-17 to 2026-07-01:
+
+### Amazon Web Services Invests $1 Billion in New AI Unit to Embed Engineers With Customers (source: MT Newswires)
+Amazon.com's (AMZN) cloud-computing unit is investing $1 billion in a new unit focused on helping cu
+Link: https://finance.yahoo.com/technology/ai/articles/amazon-services-invests-1-billion-192646387.html
+
+### Amazon Commits $1B To Launch AI Engineering Division For Enterprise Clients (source: Stocktwits)
+Amazon Web Services (AWS) is investing $1 billion in a new unit that places AI engineers inside client companies to speed up artificial intelligence deployment from months to days.
+Link: https://stocktwits.com/news-articles/markets/equity/amazon-commits-1-b-to-launch-ai-engineering-division-for-enterprise-clients/cZ1QpZhR70Z
+
+### AAL, UAL, ALK, JBLU And Other Airline Stocks Are Flying Higher Today — Crude Prices Fall To Multi-Week Lows (source: Stocktwits)
+US airline stocks gain between 3% and 7% as falling crude prices eased concerns over rising operating costs for carriers.
+Link: https://stocktwits.com/news-articles/markets/equity/aal-ual-alk-jblu-airline-stocks-flying-higher-crude-prices-fall-to-multi-week-lows/cZKyl39R7f6
+
+### US Airlines Seen Setting Q3 Profit Guidance Above Consensus, UBS Says (source: MT Newswires)
+US airlines are expected to issue above-consensus earnings guidance for the third quarter, while sec
+Link: https://finance.yahoo.com/markets/stocks/articles/us-airlines-seen-setting-q3-193829297.html
+
+### Berkshire Just Broke Warren Buffett’s Most Famous Rule and Poured $2.65 Billion Into This Airline (source: 24/7 Wall St.)
+Berkshire Hathaway, now under CEO Greg Abel, disclosed in its Q1 2026 13F filing the acquisition of almost 40 million shares of Delta Air Lines (NYSE:DAL), a position valued at approximately $2.65 billion. The disclosure landed alongside full exits from Amazon (NASDAQ:AMZN), UnitedHealth (NYSE:UNH), and Domino’s Pizza (NASDAQ:DPZ), which makes the airline buy the loudest signal of a ... Berkshire Just Broke Warren Buffett’s Most Famous Rule and Poured $2.65 Billion Into This Airline
+Link: https://247wallst.com/investing/2026/06/22/berkshire-just-broke-warren-buffetts-most-famous-rule-and-poured-2-65-billion-into-this-airline/
+
+### Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.08%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.48%. September E-mini S&P futures (ESU26 ) rose +1.15%, and September E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2545263/stocks-sharply-higher-as-us-iran-peace-deal-eases-inflation-risks
+
+### Southwest Airlines (LUV) Is Moving Its Entire Operation To AWS By 2028 (source: Simply Wall St.)
+Southwest Airlines (NYSE:LUV) announced a partnership with Amazon Web Services to shift fully to a cloud-based, AI-driven operation by 2028. The collaboration is set to cover core operational systems, customer-facing platforms, and data infrastructure across the airline. The company plans to use AWS tools to support AI models for scheduling, customer interaction, and internal decision support. Southwest Airlines operates as a major U.S. low-cost carrier, and the move toward an AI-driven...
+Link: https://finance.yahoo.com/technology/ai/articles/southwest-airlines-luv-moving-entire-190705343.html
+
+### Stocks Supported as Geopolitical Risks Recede (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.99%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.16%. September E-mini S&P futures (ESU26 ) are up +0.99%, and September E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2539862/stocks-supported-as-geopolitical-risks-recede
+
+### Stocks Rally as President Trump Signs a Preliminary Deal to End the US-Iran War (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.73%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +1.62%. June E-mini S&P futures (ESM26 ) are up +0.80%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2538897/stocks-rally-as-president-trump-signs-a-preliminary-deal-to-end-the-us-iran-war
+
+### Is Southwest Airlines Stock Outperforming the S&P 500? (source: Barchart)
+Southwest Airlines has outperformed the S&P 500 over the past year, and analysts are moderately optimistic about the stock’s prospects.
+Link: https://www.barchart.com/story/news/2537683/is-southwest-airlines-stock-outperforming-the-s-p-500
+
+### Southwest Airlines partners with AWS for cloud AI transition by 2028 (source: Quartz)
+The Dallas-based carrier will shift from a largely on-premises environment to an AI-enabled architecture on AWS, using agentic tools across operations and software development
+Link: https://qz.com/southwest-airlines-aws-cloud-ai-partnership-2028-061826
+

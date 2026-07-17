@@ -1,0 +1,202 @@
+## IBM News, from 2026-06-17 to 2026-07-01:
+
+### The GenAI Metric Accenture Stock Quietly Dropped Reveals A Much Bigger Bet (source: Trefis)
+Management stopped reporting the AI bookings number that drove the narrative last year, and what they're focused on instead has quietly reshaped the entire growth story for shareholders.
+Link: https://www.trefis.com/articles/605162/the-genai-metric-accenture-stock-quietly-dropped-reveals-a-much-bigger-bet/2026-06-30
+
+### IBM Picks Stagwell as Creative Partner (source: GuruFocus.com)
+Agencies will support global brand campaign work.
+Link: https://finance.yahoo.com/media-advertising/articles/ibm-picks-stagwell-creative-partner-202218818.html
+
+### Circle Stock Sinks After Visa, Others Announce Rival Stablecoin Network (source: Barrons.com)
+USDC, which Circle and Coinbase co-founded, has reigned as the largest U.S.-based stablecoin. Partners in a new rival include payments companies and tech firms like IBM.
+Link: https://www.barrons.com/articles/circle-stock-price-stablecoin-network-visa-d0be710d?siteid=yhoof2&yptr=yahoo
+
+### International Business Machines (IBM) Is Up 10.2% After Unveiling 0.7 nm Nanostack Chip Breakthrough (source: Simply Wall St.)
+In late June 2026, IBM unveiled the world’s first sub-1 nanometer chip technology at the 0.7 nm “nanostack” node, packing nearly 100 billion transistors onto a fingernail-sized chip and extending logic scaling into the angstrom era for AI and high-performance computing. This breakthrough, alongside IBM’s recent AI security collaborations and quantum foundry plans, signals a deeper push to supply the core infrastructure underpinning future enterprise and frontier AI workloads. We’ll now...
+Link: https://finance.yahoo.com/technology/articles/international-business-machines-ibm-10-150904014.html
+
+### Palo Alto Networks (PANW) Teams With IBM And Red Hat On AI Cyber Threats (source: Simply Wall St.)
+Palo Alto Networks (NasdaqGS:PANW) announced a collaboration with IBM and Red Hat to address AI-driven cyber threats. The partnership focuses on open-source software and critical infrastructure environments. The companies plan to integrate virtual patching with software remediation and coordinated vulnerability response. Palo Alto Networks is a large cybersecurity company with a focus on network, cloud, and security operations platforms. This new collaboration with IBM and Red Hat speaks...
+Link: https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-teams-150902050.html
+
+### America's Greatest Opportunities: This Company Was A Major Tech Supplier (source: Investor's Business Daily)
+EMC's earnings accelerated over four quarters, surging a massive 300% just before it hit a buy point, as sales jumped 38%.
+Link: https://www.investors.com/how-to-invest/stock-market-emc-memory-supplier/?src=A00220&yptr=yahoo
+
+### Accenture Stock Is Under Pressure. Its Biggest Clients Tell a Different Story. (source: Trefis)
+With shares beaten down by a cautious outlook, one number reveals a surprising resilience in the company's most important deals.
+Link: https://www.trefis.com/articles/604951/accenture-stock-is-under-pressure-its-biggest-clients-tell-a-different-story-2/2026-06-30
+
+### Quantum Computing Just Hit Commercial Viability and Trump’s $2 Billion Quantum Push Has These 3 ETFs Sitting on Top of the Trade (source: 24/7 Wall St.)
+The Commerce Department’s $2 billion in planned CHIPS R&D funding for nine quantum companies, announced in May, gave the quantum computing trade something it lacked for a decade: a federal balance sheet behind it. Three exchange-traded funds capture the trade from different angles. The Defiance Quantum ETF (NASDAQ:QTUM) is the closest thing to a pure-play. ... Quantum Computing Just Hit Commercial Viability and Trump’s $2 Billion Quantum Push Has These 3 ETFs Sitting on Top of the Trade
+Link: https://247wallst.com/investing/2026/06/30/quantum-computing-just-hit-commercial-viability-and-trumps-2-billion-quantum-push-has-these-3-etfs-sitting-on-top-of-the-trade/
+
+### International Business Machines (IBM) Unveils World’s First 0.7-Nanometer Semiconductor Tech (source: Insider Monkey)
+International Business Machines Corporation (NYSE:IBM) is one of the AI stocks on Wall Street’s radar. On June 25, IBM unveiled the world’s first sub-1 nanometer (nm) chip technology. Featuring a 0.7-nanometer architecture, the design packs nearly 100 billion transistors onto a fingernail-sized surface, offering up to 50% higher performance or 70% greater energy efficiency compared […]
+Link: https://finance.yahoo.com/technology/articles/international-business-machines-ibm-unveils-133621024.html
+
+### Michael Burry Says One ‘Timeless’ Investing Question Helped Him Spot The Dot-Com Bubble – Interestingly, It Applies To AI Today (source: Stocktwits)
+Burry revisited his early years growing up in Silicon Valley after watching an interview with venture capitalists Marc Andreessen and Ben Horowitz.
+Link: https://stocktwits.com/news-articles/markets/equity/michael-burry-timeless-investing-question-dot-com-bubble-red-flag-ai/cZ1QLoXR7i8
+
+### What to Expect From International Business Machines' Next Quarterly Earnings Report (source: Barchart)
+International Business Machines will release its second-quarter earnings next month, and analysts anticipate a single-digit bottom-line growth.
+Link: https://www.barchart.com/story/news/3050614/what-to-expect-from-international-business-machines-next-quarterly-earnings-report
+
+### International Business Machines (IBM) Takes Aim at AI Cyber Risks and Next-Generation Computing With Two Major Announcements (source: Insider Monkey)
+International Business Machines Corporation (NYSE:IBM) is one of the 14 AI Stocks Making Moves on Wall Street: Nvidia, Micron, and More. On June 26, Deloitte, IBM and Red Hat’s Lightwell announced a joint collaboration aiming to address vulnerabilities in open source software supply chains as artificial intelligence makes cyber-attacks faster and more automated. Together, the […]
+Link: https://finance.yahoo.com/technology/ai/articles/international-business-machines-ibm-takes-102717315.html
+
+### IBM (IBM) Exceeds Market Returns: Some Facts to Consider (source: Zacks)
+IBM (IBM) closed at $277.8 in the latest trading session, marking a +2.27% move from the prior day.
+Link: https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-exceeds-market-returns-214507369.html
+
+### Quantum Computing: The Next AI Investment Opportunity? (source: Zacks)
+We examine the investment case for quantum computing, which is moving from theory to reality.
+Link: https://finance.yahoo.com/technology/ai/articles/quantum-computing-next-ai-investment-204500033.html
+
+### Is Open Text Corporation (OTEX) A Good Stock To Buy Now? (source: Insider Monkey)
+Is OTEX a good stock to buy? We came across a bullish thesis on Open Text Corporation on Valueinvestorsclub.com by nha855. In this article, we will summarize the bulls’ thesis on OTEX. Open Text Corporation’s share was trading at $21.37 as of June 25th. OTEX’s trailing and forward P/E were 10.38 and 4.86 respectively according to Yahoo […]
+Link: https://finance.yahoo.com/markets/stocks/articles/open-text-corporation-otex-good-204253800.html
+
+### PLTR Stock: What Does Its Valuation Imply? (source: Trefis)
+This is a supply-constrained year for Palantir Technologies. The company's core is its Artificial Intelligence Platform, embedded in government programs like the Maven Smart System and a fast-growing commercial base.
+Link: https://www.trefis.com/articles/604945/pltr-stock-what-does-its-valuation-imply-4/2026-06-29
+
+### IBM Introduces the World’s First Sub-1 Nanometer Chip to Push Past AI Limits. What That Means for IBM Stock. (source: Barchart)
+IBM just unveiled the world's first sub-1nm chip packing 100 billion transistors, delivering up to 50% more performance, and enabling a decade of future scaling.
+Link: https://www.barchart.com/story/news/3039249/ibm-introduces-the-worlds-first-sub-1-nanometer-chip-to-push-past-ai-limits-what-that-means-for-ibm-stock
+
+### ServiceNow (NOW) Launches AI Cybersecurity Push With Accenture And Expands IBM Partnership (source: Simply Wall St.)
+ServiceNow (NYSE:NOW) and Accenture have launched a new AI powered cybersecurity services offering and migration tool, targeting enterprise clients looking to tighten cyber controls and shift workloads to the ServiceNow platform. ServiceNow has expanded its multi year AI partnership with IBM to help integrate legacy enterprise systems, with joint AI driven solutions scheduled for release in late 2026. Both moves focus on high impact use cases for large companies, including cyber risk...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-launches-ai-cybersecurity-190622645.html
+
+### Palo Alto Networks Continues Perfect Execution Amid AI Risks. Here’s What to Know Before Buying PANW Stock at a Questionable Valuation. (source: Barchart)
+As PANW enables enterprises to respond to cyber threats quickly and safely, questions remain on its high valuation.
+Link: https://www.barchart.com/story/news/3038106/palo-alto-networks-continues-perfect-execution-amid-ai-risks-heres-what-to-know-before-buying-panw-stock-at-a-questionable-valuation
+
+### ServiceNow’s New IBM Partnership: A Real Catalyst, or Just Software-Selloff Noise? (source: 24/7 Wall St.)
+Earlier this month, ServiceNow (NYSE:NOW) and IBM (NYSE:IBM) announced an expanded multi-year collaboration to make legacy enterprise systems “AI-ready,” integrating watsonx.data, Red Hat Ansible, Instana, HashiCorp Terraform and Vault, and IBM Bob into the ServiceNow AI Platform, with joint solutions expected in the second half of 2026. The pitch is serious. The market reaction, less so. ServiceNow ... ServiceNow’s New IBM Partnership: A Real Catalyst, or Just Software-Selloff Noise?
+Link: https://247wallst.com/investing/2026/06/29/servicenows-new-ibm-partnership-a-real-catalyst-or-just-software-selloff-noise/
+
+### Is International Business Machines Corporation (IBM) A Good Stock To Buy Now? (source: Insider Monkey)
+Is IBM a good stock to buy? We came across a bullish thesis on International Business Machines Corporation on r/ValueInvesting by Corpulos. In this article, we will summarize the bulls’ thesis on IBM. International Business Machines Corporation’s share was trading at $249.10 as of June 18th. IBM’s trailing and forward P/E were 22.04 and 20.12 respectively according […]
+Link: https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corporation-ibm-173010981.html
+
+### Can Strategic Partnerships Strengthen PANW's AI Security Platform? (source: Zacks)
+Palo Alto Networks is expanding its AI security platform through partnerships that enhance cyber protection and target regulated industries.
+Link: https://finance.yahoo.com/technology/ai/articles/strategic-partnerships-strengthen-panws-ai-153800286.html
+
+### Ignore the Big Tech Valuation Premium—This Under-the-Radar AI Leader Is a Cash-Rich Sanctuary for Retirees (source: 24/7 Wall St.)
+IBM (NYSE:IBM) has quietly become a cash-generating utility for corporate AI orchestration, sitting on a $255.3 billion market cap with a $12.5 billion generative AI book of business. For income investors who dismiss enterprise tech as too volatile for a retirement portfolio, the question is simple. Is the dividend safe? Dividend Snapshot Metric Value Annual ... Ignore the Big Tech Valuation Premium—This Under-the-Radar AI Leader Is a Cash-Rich Sanctuary for Retirees
+Link: https://247wallst.com/investing/2026/06/29/ignore-the-big-tech-valuation-premium-this-under-the-radar-ai-leader-is-a-cash-rich-sanctuary-for-retirees/
+
+### Quantum Cold War: Does the U.S. or China Have the Upper Hand? (source: Barrons.com)
+The U.S. has taken a page out of China’s book, abandoning free-market playbooks to secure a lead in the quantum race.
+Link: https://www.barrons.com/articles/quantum-computing-us-china-ionq-quantinuum-935e1562?siteid=yhoof2&yptr=yahoo
+
+### HP, Intel, and Xerox Are All Chasing the Same Comeback. History Says Only One Survives (source: 24/7 Wall St.)
+HP, Intel, and Xerox all built the hardware world we grew up in, but the market now prices them as if they belong to different centuries. History offers a precise template for which kind of struggling giant survives long enough to matter again, and only one of these three fits it.
+Link: https://247wallst.com/investing/2026/06/29/hp-intel-and-xerox-are-all-chasing-the-same-comeback-history-says-only-one-survives/
+
+### The Best High-Yield Income Investments for 2026, Ranked (source: Barrons.com)
+When it comes to income, investors essentially have two choices: stocks or bonds.  While the S&P 500 yields just 1%, there are plenty of pockets of the stock market where investors can snag 3%-plus dividend yields, including utilities, REITs, pipelines, and one of the most hated sectors, cable and telecom.  “Yields are very attractive,” says Russ Brownback,  BlackRock’s  deputy chief investment officer for global fixed income and co-manager of the undefinedBlackRock Strategic Income Opportunities fund.
+Link: https://www.barrons.com/articles/best-income-investments-b30f79d9?siteid=yhoof2&yptr=yahoo
+
+### International Business Machines (IBM) Is A Top Stock In Billionaire Richard Chilton’s Filings (source: Insider Monkey)
+International Business Machines Corporation (NYSE:IBM) is one of the 10 Best Stocks to Buy According to Billionaire Richard Chilton. Technology giant International Business Machines Corporation (NYSE:IBM) made a key announcement recently when it announced its 0.7-nanometer chip manufacturing technology. This technology is the most advanced chip manufacturing technology in the world. International Business Machines Corporation […]
+Link: https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-top-103304918.html
+
+### The Smartest Dividend Stocks to Buy With $5,000 Right Now (source: Motley Fool)
+These dividend stocks can multiply your money and provide good yields right now.
+Link: https://www.fool.com/investing/2026/06/28/the-smartest-dividend-stocks-to-buy-with-5000-righ/
+
+### Morgan Stanley Raises PT on International Business Machines (IBM) Stock (source: Insider Monkey)
+International Business Machines Corporation (NYSE:IBM) is one of the Best Cloud Computing Stocks to Buy According to Hedge Funds. On June 23, Morgan Stanley lifted its price objective on the company’s stock to $267 from $225, and maintained an “Equal Weight” rating on the shares. As per the analyst, Dell and HPE earnings demonstrate that the enterprise server demand […]
+Link: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-pt-international-221804976.html
+
+### ServiceNow (NOW) and IBM Announce Expanded Collaboration (source: Insider Monkey)
+ServiceNow, Inc. (NYSE:NOW) is one of the best trending AI stocks to watch in 2026. ServiceNow, Inc. (NYSE:NOW) and IBM announced on June 11 an expanded collaboration to address two of the most significant barriers blocking enterprise AI at scale. These include the AI-ready data problem and the legacy application layer. Management stated that the […]
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-ibm-announce-expanded-190750312.html
+
+### IBM (IBM) Unveils Sub 1 Nanometer Chip And Launches Anderon Quantum Foundry (source: Simply Wall St.)
+IBM announced a breakthrough sub-1 nanometer semiconductor chip using a new nanostack architecture, marking what it calls an industry first. The company also unveiled Anderon, a standalone quantum wafer foundry focused on quantum chip manufacturing in the US. These moves aim to advance AI computing hardware and support the buildout of quantum technology infrastructure. For investors watching International Business Machines (NYSE: IBM), these announcements come as the stock trades around...
+Link: https://finance.yahoo.com/technology/articles/ibm-ibm-unveils-sub-1-111344599.html
+
+### ServiceNow (NOW) Stock Trades Up, Here Is Why (source: StockStory)
+Shares of enterprise workflow automation company ServiceNow (NYSE:NOW) jumped 8.5% in the afternoon session after investors bought the dip, as the market decided that the recent deep sell-off in software was overdone.
+Link: https://finance.yahoo.com/markets/stocks/articles/servicenow-now-stock-trades-why-224025914.html
+
+### What Could Go Wrong For Accenture Stock? (source: Trefis)
+For anyone holding Accenture (ACN) stock, the past year has been a challenging year. The share price is down 58% over the past year, a clear signal that the market is pricing in challenges. The company’s response is a significant pivot, spending billions on acquisitions to find new growth. But this strategy carries its own significant risks, especially when the foundation of the business is looking less stable.
+Link: https://www.trefis.com/articles/604514/what-could-go-wrong-for-accenture-stock/2026-06-26
+
+### Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire (source: MT Newswires)
+(Updates with market moves at the end of the day.) US equity benchmarks slipped Friday as Presid
+Link: https://finance.yahoo.com/markets/stocks/articles/equity-markets-fall-trump-says-204521099.html
+
+### Sector Update: Tech Stocks Fall Late Afternoon (source: MT Newswires)
+Tech stocks declined late Friday afternoon, with the State Street Technology Select Sector SPDR ETF
+Link: https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194357745.html
+
+### Wall Street Little Changed as Trump Accuses Iran of Violating Ceasefire Agreement (source: MT Newswires)
+US benchmark equity indexes were little changed intraday as President Donald Trump claimed that Iran
+Link: https://finance.yahoo.com/markets/stocks/articles/wall-street-little-changed-trump-182331169.html
+
+### The Strain Inside Palantir Stock (source: Trefis)
+For anyone holding Palantir (PLTR) stock, the numbers can feel like a paradox. The company just posted 85% year-over-year revenue growth, yet the stock has been under pressure, falling 25% over the past 12 months. Rather than a sign that the market is blind, this indicates investors are grappling with a single, difficult question: can Palantir’s specialized, high-intensity model actually scale to meet the opportunity it has created.
+Link: https://www.trefis.com/articles/604718/the-strain-inside-palantir-stock/2026-06-26
+
+### IBM quantum foundry plan adds to long-term hardware strategy: Wedbush (source: Proactive)
+International Business Machines Corp (NYSE:IBM) unveiled new semiconductor technology featuring a sub-1 nanometer chip architecture, which Wedbush analysts see as a significant step in chip scaling as demand for artificial intelligence computing continues to grow. IBM said the sub-1 nm design...
+Link: https://www.proactiveinvestors.com/companies/news/1094595/ibm-quantum-foundry-plan-adds-to-long-term-hardware-strategy-wedbush-1094595.html
+
+### 3 Reasons to Avoid IBM and 1 Stock to Buy Instead (source: StockStory)
+Over the past six months, IBM’s shares (currently trading at $258.55) have posted a disappointing 15.3% loss, well below the S&P 500’s 6.2% gain. This may have investors wondering how to approach the situation.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ibm-1-164025761.html
+
+### Update: US Equity Indexes Mixed as Steepest Decliner Technology Eats into Consumer Discretionary Gains (source: MT Newswires)
+(Updates with index/price moves, macroeconomic data, and analyst comment from the first paragraph.)
+Link: https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-steepest-163940246.html
+
+### Update: Consumer Discretionary Helps Push US Equity Indexes Higher in Midday Trading (source: MT Newswires)
+(Updates with index/price moves, macroeconomic data, and company/political news from the first parag
+Link: https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-helps-push-us-155847170.html
+
+### Senior execs worry about AI system lock-in (source: CIO Dive)
+More than 7 in 10 leaders said switching from their primary AI provider would be challenging, according to an IBM Institute for Business Value study.
+Link: https://www.ciodive.com/news/senior-execs-worry-ai-system-lock-in/823927/
+
+### Why Is Oracle’s Stock Dropping Amid Record-Breaking AI Growth? (source: Trefis)
+The company is chasing unprecedented AI demand with a striking investment plan, creating a clear choice between future growth and present-day execution risk.
+Link: https://www.trefis.com/articles/604717/why-is-oracles-stock-dropping-amid-record-breaking-ai-growth/2026-06-26
+
+### IBM's New Chip Marks Major Step for AI Hardware, Wedbush Says (source: MT Newswires)
+IBM (IBM) introduced a new sub-1 nanometer chip that helps position the company as a long-term winne
+Link: https://finance.yahoo.com/technology/ai/articles/ibm-apos-chip-marks-major-145954402.html
+
+### Why Uncle Sam’s Multi-Billion Dollar Quantum Influx Makes One of These Tech Giants an Unconditional Buy (source: 24/7 Wall St.)
+Washington is pouring real money into quantum, and the Q1 2026 reports from IonQ (NYSE:IONQ) and IBM (NYSE:IBM) show why that matters. IonQ posted $64.67 million in revenue, up 755% year over year. IBM delivered $15.92 billion, up 9.46%. Same tailwind, two completely different financial realities. Hypergrowth on Borrowed Time vs. Cash Machine on Cruise ... Why Uncle Sam’s Multi-Billion Dollar Quantum Influx Makes One of These Tech Giants an Unconditional Buy
+Link: https://247wallst.com/investing/2026/06/26/why-uncle-sams-multi-billion-dollar-quantum-influx-makes-one-of-these-tech-giants-an-unconditional-buy/
+
+### IBM's New Chip Technology Represents 'Major Moment' For Semiconductor Industry, Wedbush Says (source: MT Newswires)
+IBM's (IBM) technology capable of producing chips smaller than one nanometer represents a "major mom
+Link: https://finance.yahoo.com/technology/articles/ibm-apos-chip-technology-represents-135532714.html
+
+### BlackBerry, IBM, and Nokia Are All Trying to Come Back. History Says Only One Survives (source: 24/7 Wall St.)
+BlackBerry, Nokia, and IBM have all surged back into the investor conversation, but three decades of fallen-titan history reveals a brutal filter that only one type of comeback ever passes.
+Link: https://247wallst.com/investing/2026/06/26/blackberry-ibm-and-nokia-are-all-trying-to-come-back-history-says-only-one-survives/
+
+### Agilysys (AGYS) Surges 5.6%: Is This an Indication of Further Gains? (source: Zacks)
+Agilysys (AGYS) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.
+Link: https://finance.yahoo.com/markets/stocks/articles/agilysys-agys-surges-5-6-094300547.html
+
+### IBM stock surged again: The reason sounds like sci-fi (source: TheStreet)
+IBM (IBM) hasn’t built a commercial computer chip of its own in nearly a decade. On Thursday, June 25, the company said its research labs had cracked something the rest of the chip industry hasn’t managed yet. The breakthrough has nothing to do with software, and everything to do with one tiny ...
+Link: https://www.thestreet.com/technology/ibm-stock-surged-again-nanostack-7-angstrom-chip
+
+### IBM Touts World's First Sub-1 Nanometer Chip Technology (source: Investor's Business Daily)
+IBM unveiled the world's first sub-1 nanometer chip, calling it a landmark moment for the semiconductor industry.
+Link: https://www.investors.com/news/technology/ibm-stock-sub-1-nanometer-chip-technology/?src=A00220&yptr=yahoo
+

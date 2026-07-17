@@ -1,0 +1,38 @@
+## FTNT News, from 2026-06-15 to 2026-06-22:
+
+### Is SASE Emerging as a Key Growth Driver for Palo Alto Networks? (source: Zacks)
+PANW is seeing SASE emerge as a major growth engine, driven by strong customer demand and expanding platform adoption.
+Link: https://finance.yahoo.com/technology/articles/sase-emerging-key-growth-driver-134900720.html
+
+### Fortinet (FTNT) Partners with NVIDIA (NVDA) to Accelerate GPU-Powered AI Security (source: Insider Monkey)
+Fortinet Inc. (NASDAQ:FTNT) is one of the 12 Best Growth Stocks Trading in Oversold Territory. On May 12, Fortinet partnered with NVIDIA (NASDAQ:NVDA) to accelerate the FortiAIGate solution, providing high-performance, GPU-accelerated security for AI workloads. This integration protects data and autonomous agents in data centers and the cloud, allowing organizations to monitor AI usage and […]
+Link: https://finance.yahoo.com/technology/ai/articles/fortinet-ftnt-partners-nvidia-nvda-134708335.html
+
+### Stocks Indexes Finish Mostly Lower as Chipmakers Retreat (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.57%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.89%. June E-mini S&P futures (ESM26 ) fell -0.60%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2502375/stocks-indexes-finish-mostly-lower-as-chipmakers-retreat
+
+### Fortinet Stock: Aim For A 28% Return With This Strategy On The Cybersecurity Firm (source: Investor's Business Daily)
+Fortinet stock is showing bullish signs. This trade aims for discounted shares or a 28% return from the cybersecurity stock.
+Link: https://www.investors.com/research/options/fortinet-stock-ftnt-cybersecurity-options-trade-investing-markets/?src=A00220&yptr=yahoo
+
+### Broader Market Weakens as Energy and Software Stocks Fall (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.83%. June E-mini S&P futures (ESM26 ) are down -0.20%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2496862/broader-market-weakens-as-energy-and-software-stocks-fall
+
+### Stocks Supported by Lower Crude Oil Prices and Bond Yields (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.18%. June E-mini S&P futures (ESM26 ) are up +0.09%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2495519/stocks-supported-by-lower-crude-oil-prices-and-bond-yields
+
+### Fortinet (FTNT) Outperforms Broader Market: What You Need to Know (source: Zacks)
+Fortinet (FTNT) reached $149.49 at the closing of the latest trading day, reflecting a +2.18% change compared to its last close.
+Link: https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-outperforms-broader-market-214505987.html
+
+### The Bull Case For Fortinet (FTNT) Could Change Following Upbeat Outlook And Valuation Tensions – Learn Why (source: Simply Wall St.)
+In recent days, Fortinet reported stronger-than-expected first-quarter fiscal 2026 results, raised its full-year revenue and billings growth forecasts, and highlighted progress in next-generation products such as new G-Series firewalls and expanded cloud-based detection services in Singapore. At the same time, analyst upgrades, institutional investor interest, and substantial insider share sales have drawn attention to the tension between Fortinet’s operational momentum and questions about...
+Link: https://finance.yahoo.com/markets/stocks/articles/bull-case-fortinet-ftnt-could-171411202.html
+
+### TD Cowen and Cantor Fitzgerald Increase Fortinet (FTNT) Price Targets on Strong Security and AI Growth Outlook (source: Insider Monkey)
+Fortinet Inc. (NASDAQ:FTNT) ranks among the best 5G stocks to buy right now. On June 8, TD Cowen boosted its price target for Fortinet Inc. (NASDAQ:FTNT) to $160 from $125, keeping a Buy rating on the company’s shares. The firm cited the company’s market position in the core network security, SASE, and security services sectors […]
+Link: https://finance.yahoo.com/markets/stocks/articles/td-cowen-cantor-fitzgerald-increase-083052954.html
+

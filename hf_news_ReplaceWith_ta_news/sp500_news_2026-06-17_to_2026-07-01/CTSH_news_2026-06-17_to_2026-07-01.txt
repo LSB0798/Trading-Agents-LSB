@@ -1,0 +1,110 @@
+## CTSH News, from 2026-06-17 to 2026-07-01:
+
+### The GenAI Metric Accenture Stock Quietly Dropped Reveals A Much Bigger Bet (source: Trefis)
+Management stopped reporting the AI bookings number that drove the narrative last year, and what they're focused on instead has quietly reshaped the entire growth story for shareholders.
+Link: https://www.trefis.com/articles/605162/the-genai-metric-accenture-stock-quietly-dropped-reveals-a-much-bigger-bet/2026-06-30
+
+### Accenture Stock Is Under Pressure. Its Biggest Clients Tell a Different Story. (source: Trefis)
+With shares beaten down by a cautious outlook, one number reveals a surprising resilience in the company's most important deals.
+Link: https://www.trefis.com/articles/604951/accenture-stock-is-under-pressure-its-biggest-clients-tell-a-different-story-2/2026-06-30
+
+### Cognizant (CTSH) Selects Oracle (ORCL) Fusion Cloud Recruiting to Scale Global Talent Acquisition (source: Insider Monkey)
+Cognizant Technology Solutions Corporation (NASDAQ:CTSH) is one of the oversold tech stocks to buy now. On June 11, Cognizant selected Oracle Fusion Cloud Recruiting, part of Oracle Fusion Cloud Human Capital Management, to advance its talent acquisition strategy. This partnership aims to streamline hiring workflows and enhance candidate experiences across more than 60 countries. The […]
+Link: https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-selects-oracle-orcl-111516553.html
+
+### How Rubrik’s Expanded Cognizant Alliance And Bedrock AgentCore Tie-Up At Rubrik (RBRK) Has Changed Its Investment Story (source: Simply Wall St.)
+In mid-June 2026, Cognizant expanded its alliance with Rubrik and Rubrik announced an upcoming Rubrik Agent Cloud integration with Amazon Bedrock AgentCore, aiming to bring real-time AI governance, rollback capabilities, and unified policy control to enterprises running autonomous agents on AWS and Cognizant platforms. Together, these moves position Rubrik as a core infrastructure provider for governing AI agents at scale, especially in heavily regulated sectors where traceability, policy...
+Link: https://finance.yahoo.com/technology/ai/articles/rubrik-expanded-cognizant-alliance-bedrock-120815263.html
+
+### Is Cognizant (CTSH) Turning Its Neuro AI Push Into a Durable Competitive Moat in Enterprise AI? (source: Simply Wall St.)
+In recent days, Cognizant Technology Solutions announced multiple AI-focused moves, including integrating ServiceNow AI Agents with its open-source Neuro AI Multi-Agent Accelerator, expanding its AI governance alliance with Rubrik, and advancing an AI skills partnership with Pearson to support workforce development programs. Together, these announcements highlight Cognizant’s push to position its Neuro AI ecosystem as an orchestration and control layer for complex, multi-agent enterprise AI...
+Link: https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-turning-neuro-ai-111249291.html
+
+### Morgan Stanley Cuts Price Target on Cognizant Technology Solutions (CTSH). Here is Why (source: Insider Monkey)
+With an annual dividend yield of 3.37%, Cognizant Technology Solutions Corporation (NASDAQ:CTSH) is included among the 12 Best NASDAQ Stocks to Buy for Dividends. Cognizant Technology Solutions Corporation (NASDAQ:CTSH) is an AI Builder and technology services provider, bridging the gap between AI investment and enterprise value. On June 23, Morgan Stanley cut its price target on […]
+Link: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-price-target-040854905.html
+
+### What Could Go Wrong For Accenture Stock? (source: Trefis)
+For anyone holding Accenture (ACN) stock, the past year has been a challenging year. The share price is down 58% over the past year, a clear signal that the market is pricing in challenges. The company’s response is a significant pivot, spending billions on acquisitions to find new growth. But this strategy carries its own significant risks, especially when the foundation of the business is looking less stable.
+Link: https://www.trefis.com/articles/604514/what-could-go-wrong-for-accenture-stock/2026-06-26
+
+### Oppenheimer Reaffirms Bullish Outlook on ServiceNow (NOW) Amid AI Growth and Cognizant Partnership (source: Insider Monkey)
+ServiceNow Inc. (NYSE:NOW) ranks among the best set-it-and-forget-it stocks to buy right now. Following a discussion with ServiceNow Inc. (NYSE:NOW) management, Oppenheimer reiterated its Outperform rating and $130 price target for ServiceNow on June 10. The conversation left the firm slightly optimistic about ServiceNow’s second-half 2026 prospects and the likelihood of business reacceleration in the […]
+Link: https://finance.yahoo.com/markets/stocks/articles/oppenheimer-reaffirms-bullish-outlook-servicenow-111106946.html
+
+### Nebius and CoreWeave fall after Nasdaq 100 listing (source: Blockspace)
+Nabius and CoreWeave surged in the lead up to their Nasdaq 100 listing, but have fallen in the to days since their inclusions.
+Link: https://blockspace.media/insight/nebius-coreweave-nasdaq-100-stock-gains-2026/
+
+### Cognizant (CTSH) Integrates ServiceNow (NOW) AI Agents With Neuro AI Multi-Agent Accelerator (source: Insider Monkey)
+Cognizant Technology Solutions Corporation (NASDAQ:CTSH) is one of the most promising stocks with highest upside potential. On June 18, Cognizant announced that ServiceNow (NOW) AI Agents are now interoperable with the Cognizant Neuro AI Multi-Agent Accelerator, enabling enterprises to unify and orchestrate AI agents across disparate platforms. This integration allows ServiceNow’s specialized agents to function […]
+Link: https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-integrates-servicenow-now-185458015.html
+
+### Cognizant Technology Stock Could Be a Great Way to Profit from AI at a Discount (source: Barchart)
+Although the potential avoidance of global calamity has bolstered AI names, CTSH stock hasn’t benefited from the momentum — but that could change.
+Link: https://www.barchart.com/story/news/2606874/cognizant-technology-stock-could-be-a-great-way-to-profit-from-ai-at-a-discount
+
+### CTSH Grows Through Strong Partnerships: Buy, Sell or Hold the Stock? (source: Zacks)
+Cognizant deepens AI partnerships and sees strong bookings growth, but macro uncertainty and soft demand cloud its near-term outlook.
+Link: https://finance.yahoo.com/technology/ai/articles/ctsh-grows-strong-partnerships-buy-142500654.html
+
+### Pzena Focused Value Strategy Added Cognizant Technology Solutions Corporation (CTSH) Ignoring Overblown AI Risk (source: Insider Monkey)
+Pzena Investment Management recently released its first-quarter 2026 commentary for “Pzena Focused Value Strategy.” A copy of the letter can be downloaded here. The equity market faced challenges in the first quarter due to the Iran conflict and the related energy price hike, compounded by continued AI-related uncertainty. Despite this volatility, energy stocks led the […]
+Link: https://finance.yahoo.com/markets/stocks/articles/pzena-focused-value-strategy-added-135527024.html
+
+### A Tale Of Two Accentures (source: Trefis)
+The consulting giant just slashed its forecast, sending shares to a new low. But behind the scenes, it's spending billions on a radical reinvention.
+Link: https://www.trefis.com/articles/603811/a-tale-of-two-accentures/2026-06-22
+
+### Nasdaq-100 Onboards 5 New Stocks in AI-Fueled Rebalancing (source: The Daily Upside)
+This morning, the Nasdaq-100 is getting its quarterly rebalance with five firms getting the boot and five taking their place.
+Link: https://www.thedailyupside.com/investments/equities/five-new-stocks-join-the-nasdaq-100-in-ai-fueled-rebalancing/
+
+### Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.08%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.48%. September E-mini S&P futures (ESU26 ) rose +1.15%, and September E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2545263/stocks-sharply-higher-as-us-iran-peace-deal-eases-inflation-risks
+
+### Stocks Supported as Geopolitical Risks Recede (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.99%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.16%. September E-mini S&P futures (ESU26 ) are up +0.99%, and September E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2539862/stocks-supported-as-geopolitical-risks-recede
+
+### Stocks Rally as President Trump Signs a Preliminary Deal to End the US-Iran War (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.73%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +1.62%. June E-mini S&P futures (ESM26 ) are up +0.80%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2538897/stocks-rally-as-president-trump-signs-a-preliminary-deal-to-end-the-us-iran-war
+
+### Is ServiceNow (NOW) Quietly Becoming the Core Orchestrator of Enterprise AI Governance? (source: Simply Wall St.)
+In recent weeks, partners including IBM, Cognizant, Wipro, NICE, Phenom, HPE and Digimarc have announced expanded collaborations and integrations with ServiceNow’s AI Platform to modernize legacy systems, tighten AI governance, and embed agentic AI across IT, HR and customer service workflows. These moves highlight ServiceNow’s role as an orchestration layer for enterprise AI, where trusted data, governance and cross‑platform workflows become as important as the underlying models...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-core-021137992.html
+
+### EPAM, Gartner, and Accenture Shares Plummet, What You Need To Know (source: StockStory)
+A number of stocks fell in the afternoon session after the Federal Reserve held its benchmark rate at 3.5%–3.75%, where it sat since the central bank cut by three-quarters of a point in late 2025, while its dot plot signaled the easing cycle might reverse.
+Link: https://finance.yahoo.com/markets/stocks/articles/epam-gartner-accenture-shares-plummet-225904786.html
+
+### Kyndryl and Everforth Shares Plummet, What You Need To Know (source: StockStory)
+A number of stocks fell in the afternoon session after the Federal Reserve held its benchmark rate at 3.5%–3.75%, where it sat since the central bank cut by three-quarters of a point in late 2025, while its dot plot signaled the easing cycle might reverse.
+Link: https://finance.yahoo.com/markets/stocks/articles/kyndryl-everforth-shares-plummet-know-225104980.html
+
+### Dear CoreWeave Stock Fans, Mark Your Calendars for June 22 (source: Barchart)
+CoreWeave stock has been included in the illustrious Nasdaq 100 club starting June 22.
+Link: https://www.barchart.com/story/news/2521254/dear-coreweave-stock-fans-mark-your-calendars-for-june-22
+
+### Wedbush Upgrades Cognizant (CTSH) to Outperform (source: Insider Monkey)
+Cognizant Technology Solutions Corporation (NASDAQ:CTSH) is one of the 10 Best Debt-Free American Stocks to Invest In. On June 8, 2026, Wedbush analyst Steven Wahrhaftig upgraded Cognizant Technology Solutions Corporation (NASDAQ:CTSH) to Outperform from Neutral with a price target of $70, up from $56 previously. On June 5, 2026, Cognizant Technology Solutions Corporation (NASDAQ:CTSH) launched […]
+Link: https://finance.yahoo.com/markets/stocks/articles/wedbush-upgrades-cognizant-ctsh-outperform-173608244.html
+
+### Berenberg downgrades Cognizant as AI risks cloud IT services outlook (source: Investing.com)
+Investing.com -- Artificial intelligence-driven disruption is increasing pressure on the IT services industry, prompting Berenberg to turn more cautious on the sector as concerns grow over AI-led pricing deflation, uncertain value capture and a lack of near-term catalysts for a valuation recovery.
+Link: https://finance.yahoo.com/technology/ai/articles/berenberg-downgrades-cognizant-ai-risks-171721767.html
+
+### Jim Cramer Says SaaS Companies Like Zscaler “Have Fallen Viciously Out of Favor on Wall Street” (source: Insider Monkey)
+Zscaler, Inc. (NASDAQ:ZS) was among Jim Cramer’s stock calls on Mad Money, as he highlighted worthy space players and reviewed several of this year’s IPOs. Cramer noted the company’s exit from the Nasdaq-100, as he commented: Then we have some real fireworks coming Thursday night. Thursday’s the last trading day before the Nasdaq rebalances, the […]
+Link: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-saas-companies-163814269.html
+
+### Is Innodata Emerging as a Key AI Data Partner to Big Tech? (source: Zacks)
+INOD's AI data momentum is accelerating as Big Tech demand lifts revenues, expands key customer ties and strengthens its role in model development.
+Link: https://finance.yahoo.com/technology/ai/articles/innodata-emerging-key-ai-data-155000095.html
+
+### Lyft upgraded, Leidos downgraded: Wall Street's top analyst calls (source: The Fly)
+Lyft upgraded, Leidos downgraded: Wall Street's top analyst calls
+Link: https://finance.yahoo.com/markets/stocks/articles/lyft-upgraded-leidos-downgraded-wall-134756673.html
+

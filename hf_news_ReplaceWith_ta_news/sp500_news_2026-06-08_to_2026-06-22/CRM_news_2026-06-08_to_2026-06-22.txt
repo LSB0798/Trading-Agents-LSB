@@ -1,0 +1,202 @@
+## CRM News, from 2026-06-08 to 2026-06-22:
+
+### Salesforce (CRM) Is Spending $3.6 Billion To Grow Agentforce And Reach More Customers (source: Simply Wall St.)
+Salesforce has agreed to acquire Fin for $3.6b to strengthen its Agentforce autonomous AI agent platform. The deal aims to extend AI agent capabilities across both large enterprises and SMB customers. Salesforce also introduced Agentic Advisor for financial advisors and an Agentic Sales Package focused on mid-market clients. Salesforce (NYSE:CRM), trading at $151.78, has seen its share price fall 40.2% year to date and 41.3% over the past year. Returns over 3 and 5 years are also lower,...
+Link: https://finance.yahoo.com/technology/ai/articles/salesforce-crm-spending-3-6-190444883.html
+
+### OpenAI, Anthropic Poach Approximately 100 Salesforce Employees This Year (source: Benzinga)
+Artificial intelligence firms OpenAI and Anthropic have been hiring from Salesforce Inc. this year at a rapid clip, with LinkedIn profiles pointing to close to 100 moves since the start of 2026. Anthropic has hired 45 Salesforce employees over the last six months, and OpenAI has added 40 more to its teams, primarily in sales and marketing and go-to-market roles, The Information reported. AI companies are targeting Salesforce employees primarily due to their "deep relationships" with Fortune 500
+Link: https://finance.yahoo.com/technology/ai/articles/openai-anthropic-poach-approximately-100-123152521.html
+
+### Needham Maintains Buy Rating on Salesforce (CRM) Stock (source: Insider Monkey)
+Salesforce, Inc. (NYSE:CRM) is one of the Stocks with Potential to Explode in 2026. On June 16, analyst Scott Berg of Needham maintained a “Buy” rating on the company’s stock, retaining the price objective of $400.00. The analyst’s rating is backed by factors related to Salesforce, Inc. (NYSE:CRM)’s recent move. The $3.6 billion acquisition of Fin is expected to […]
+Link: https://finance.yahoo.com/markets/stocks/articles/needham-maintains-buy-rating-salesforce-111910117.html
+
+### Stocks to Watch Recap: Intel, Accenture, Apple, SpaceX (source: The Wall Street Journal)
+↗️ Intel (INTC): Shares in the tech giant surged more than 10% after President Trump said Apple agreed to work with it to design and build chips in the U.S. ↘️ Accenture (ACN): Shares in the consultancy and IT-services provider tumbled 18% after it cut its guidance; other software stocks are also down.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026/card/stocks-to-watch-intel-apple-smith-wesson-CPWrDsktYLV7juQ6yYSl?siteid=yhoof2&yptr=yahoo
+
+### Oracle vs. Salesforce: Which Tech Giant Is The Better Buy? (source: 24/7 Wall St.)
+Salesforce (NYSE: CRM) and Oracle (NYSE: ORCL) both delivered fresh earnings inside a three week window, and the contrast is striking. Salesforce sells AI agents that sit on top of customer data. Oracle sells the cloud plumbing those agents increasingly run on. Both are leaning into generative AI, but the way each one funds, prices, ... Oracle vs. Salesforce: Which Tech Giant Is The Better Buy?
+Link: https://247wallst.com/investing/2026/06/18/oracle-vs-salesforce-which-tech-giant-is-the-better-buy/
+
+### The Number That Puts Oracle Stock To The Test (source: Trefis)
+For an investor in Oracle (ORCL), the headlines are dizzying. The company is signing AI infrastructure contracts by the tens of billions and has built a backlog of future business that seems to defy gravity. Yet the stock has been under pressure, down 12.2% over the past year, suggesting the market sees more to the story.
+Link: https://www.trefis.com/articles/603587/the-number-that-puts-oracle-stock-to-the-test/2026-06-18
+
+### Salesforce (CRM) Inks Definitive Agreement for Fin Acquisition (source: Insider Monkey)
+Salesforce (NYSE:CRM) is one of the 8 Best Generative AI Software Stocks to Buy in June. On June 15, Salesforce announced that it had forged a definitive agreement for the acquisition of customer agent company Fin, formerly Intercom, for approximately $3.6 billion. Salesforce said the acquisition will bring Fin’s customer agent platform to companies of […]
+Link: https://finance.yahoo.com/technology/ai/articles/salesforce-crm-inks-definitive-agreement-150313756.html
+
+### Can AI Control Tower Become ServiceNow's Next Growth Engine? (source: Zacks)
+NOW's AI Control Tower is gaining momentum as organizations seek governance tools to manage expanding AI deployments.
+Link: https://finance.yahoo.com/technology/ai/articles/ai-control-tower-become-servicenows-140400045.html
+
+### Exclusive: Gradial raises $65M for agentic marketing (source: Axios Media)
+Gradial, a Seattle-based startup that deploys AI agents to automate enterprise marketing workflows, has raised $65 million in Series C funding, CEO Doug Tallmadge exclusively tells Axios.
+Link: https://www.axios.com/2026/06/18/gradial-ai-agents-marketing#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media
+
+### Salesforce upgraded to Buy at Monness as valuation “now compelling” (source: Investing.com)
+Investing.com -- Monness, Crespi, Hardt upgraded Salesforce to Buy from Neutral in a note on Thursday, arguing that fears over artificial intelligence displacing the company are overblown and that the stock's decline has created a compelling entry point.
+Link: https://finance.yahoo.com/markets/stocks/articles/salesforce-upgraded-buy-monness-valuation-135311397.html
+
+### Can Appian's Agentic AI Strategy Drive Measurable ROI for Enterprises? (source: Zacks)
+Can APPN's agentic AI strategy deliver ROI through 98% ad-review accuracy, 33% lower resource needs and tighter process controls?
+Link: https://finance.yahoo.com/technology/ai/articles/appians-agentic-ai-strategy-drive-134300727.html
+
+### SpaceX initiated, Salesforce upgraded: Wall Street's top analyst calls (source: The Fly)
+SpaceX initiated, Salesforce upgraded: Wall Street's top analyst calls
+Link: https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-salesforce-upgraded-wall-133508409.html
+
+### What Could Go Wrong For Adobe Stock? (source: Trefis)
+The company is deliberately sacrificing predictable profits for a long-term vision, but the timing of this high-stakes bet introduces its own unique risks.
+Link: https://www.trefis.com/articles/603573/what-could-go-wrong-for-adobe-stock/2026-06-18
+
+### Oracle Is Burning Billions: Is IBM Stock The Smarter Cloud Play? (source: Trefis)
+Oracle’s (ORCL) stock is up by over 120% since the beginning of 2023. That is great for Oracle. But wait a minute, IBM’s (IBM) stock is up a comparatively lower 91% during the same period. Hard to believe, but Oracle’s stock appreciation is well ahead of IBM’s stock. This is despite the stark contrast in how both companies generate cash. Over the trailing twelve months, IBM consistently generated massive free cash flow, pulling in a highly robust $12.2 billion. Oracle, over its most recently rep
+Link: https://www.trefis.com/articles/603511/oracle-is-burning-billions-is-ibm-stock-the-smarter-cloud-play/2026-06-18
+
+### This Week In E-Commerce - Shopify's 2026 Shareholder Meeting Highlights Strategic Decisions (source: Simply Wall St.)
+Shopify recently concluded its 2026 annual meeting of shareholders with several key outcomes that reflect its ongoing governance and operational strategies within the e-commerce sector. All director nominees were successfully elected to the board, and PricewaterhouseCoopers LLP was reappointed as the company's auditors. Shareholders approved, on a non-binding basis, the company's approach to executive compensation, though a shareholder proposal regarding an artificial intelligence policy did...
+Link: https://finance.yahoo.com/markets/stocks/articles/week-e-commerce-shopifys-2026-123739635.html
+
+### Why Did ADBE, CRM, TTD Stocks Hit 52-Week Lows Today? (source: Stocktwits)
+The selloff highlights a growing divide between companies supplying AI infrastructure and those relying on conventional subscription-based software revenue.
+Link: https://stocktwits.com/news-articles/markets/equity/why-did-adbe-crm-ttd-stocks-hit-52-week-lows-today/cZKjp74R7el
+
+### Appian, ZoomInfo, and Salesforce Shares Plummet, What You Need To Know (source: StockStory)
+A number of stocks fell in the afternoon session after the Federal Reserve held its benchmark rate at 3.5%–3.75%, unchanged since the central bank cut by three-quarters of a point in late 2025, and then delivered a dot plot that told investors the easing cycle underpinning the sector's re-rating might be over.
+Link: https://finance.yahoo.com/markets/stocks/articles/appian-zoominfo-salesforce-shares-plummet-005104477.html
+
+### Salesforce (CRM) Earns Vote of Confidence from Truist after $3.6 Billion Acquisition (source: Insider Monkey)
+With a free cash flow yield of 11.07%, Salesforce, Inc. (NYSE:CRM) is included among the 12 Stocks From Companies Generating High Cash Flow. On June 15, Truist maintained its Buy rating on Salesforce, Inc. (NYSE:CRM). It also set a $280 price target on the stock. The firm noted that Salesforce announced a $3.6 billion acquisition of […]
+Link: https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-earns-vote-confidence-231308138.html
+
+### Salesforce (CRM) Stock After 40% Slide Are DCF And P/E Pointing To Opportunity (source: Simply Wall St.)
+If you are wondering whether Salesforce stock is starting to look appealing at today’s price, you are not alone. The answer depends on how you think about value rather than just the share chart. The stock closed at US$155.02, with the share price declining 9.3% over the last week, 13.6% over the last month, 38.9% year to date, and 39.8% over the past year, which has clearly reshaped how many investors think about both its growth potential and risk profile. Recent moves in Salesforce have...
+Link: https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-40-slide-221605754.html
+
+### Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic (source: Reuters)
+(Removes Salesforce, which is not a new participant but an existing member of the coalition, from paragraph 1) By Susanna Twidale LONDON, June 17 (Reuters) - A coalition backed by Big Tech companies
+Link: https://finance.yahoo.com/technology/ai/articles/big-tech-backed-coalition-carbon-120338720.html
+
+### Warsh’s Commitment to Inflation Fight Sparks Market Slide (source: The Wall Street Journal)
+Stocks fall and bond yields jump after central-bank officials signaled rates could rise by the end of the year.
+Link: https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-06-17-2026-05228bac?siteid=yhoof2&yptr=yahoo
+
+### Nasdaq, US stocks slide as Fed forecasts possible rate hike (source: Yahoo Finance Video)
+US stocks (^DJI, ^IXIC, ^GSPC) ended Wednesday's session in negative territory after Federal Reserve officials unanimously voted to hold interest rates at their June FOMC meeting today, while also forecasting at least one possible rate hike ahead. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the trading day's market reactions to the Fed's big decision. This was Kevin Warsh's first FOMC meeting he presided over as the new chairman of the Fed.
+Link: https://finance.yahoo.com/video/nasdaq-us-stocks-slide-as-fed-forecasts-possible-rate-hike-201525166.html
+
+### Stripe-Led Frontier Commits Another $915 Million to Carbon Removal (source: GuruFocus.com)
+New fund will concentrate on 10 to 15 companies with larger, longer-term agreements.
+Link: https://finance.yahoo.com/energy/articles/stripe-led-frontier-commits-another-193602167.html
+
+### Here’s Why Veeva (VEEV) is Among the 10 Best Debt-Free American Stocks to Invest In (source: Insider Monkey)
+Veeva Systems Inc. (NYSE:VEEV) is one of the 10 Best Debt-Free American Stocks to Invest In. On June 4, 2026, Mizuho analyst Steven Valiquette lowered the firm’s price target on Veeva Systems Inc. (NYSE:VEEV) to $270 from $295 and maintained an Outperform rating on the shares. Valiquette updated Mizuho’s model following the Q1 report and […]
+Link: https://finance.yahoo.com/markets/stocks/articles/why-veeva-veev-among-10-173600739.html
+
+### Oracle Stock's High Stakes Gamble (source: Trefis)
+If you hold Oracle (ORCL) stock, you’ve felt the turbulence. Despite a recent bounce, the shares are down over the last 12 months and sit well below their peak, a sign the market is wrestling with a profound shift in the company’s story. The options market is pricing in elevated uncertainty, with implied volatility in the 67th percentile of its annual range. This isn't about a legacy business in decline; it's about the significant risks of a company going all-in on a new one.
+Link: https://www.trefis.com/articles/603343/oracle-stocks-high-stakes-gamble/2026-06-17
+
+### Salesforce Stock's Sell-Off Keeps Getting Worse. Is It Finally Time to Buy the Stock? (source: Motley Fool)
+The software giant just posted record results, yet its shares keep sinking to new lows.
+Link: https://www.fool.com/investing/2026/06/17/salesforce-stocks-sell-off-keeps-getting-worse-is/
+
+### Beyond Hardware: Software ETFs to Buy in the Next Leg of the AI Boom (source: Zacks)
+Software-focused ETFs are gaining attention as AI adoption boosts demand for enterprise applications, cloud services, and cybersecurity.
+Link: https://finance.yahoo.com/technology/ai/articles/beyond-hardware-software-etfs-buy-145100067.html
+
+### Salesforce Acquires AI Agent Firm Fin for $3.6 Billion to Expand Agentforce. CRM Stock Could Double Over the Next 4 Years. (source: Barchart)
+Salesforce acquires AI agent firm Fin for $3.6 billion, adding a customer service agent that resolves 76% of support queries to its Agentforce platform.
+Link: https://www.barchart.com/story/news/2516636/salesforce-acquires-ai-agent-firm-fin-for-3-6-billion-to-expand-agentforce-crm-stock-could-double-over-the-next-4-years
+
+### Zoom Communications (ZM) Launches ZoomMate Agentic AI Platform for Integrated Workflow Execution (source: Insider Monkey)
+Zoom Communications Inc. (NASDAQ:ZM) is one of the 12 Best Growth Stocks Trading in Oversold Territory. On June 1, Zoom Communications launched ZoomMate, an agentic AI platform designed to bridge the gap between workplace conversations and task execution. By integrating live conversational context with data from tools like Salesforce, Jira, Slack, and ServiceNow, the platform […]
+Link: https://finance.yahoo.com/technology/ai/articles/zoom-communications-zm-launches-zoommate-134613516.html
+
+### Snubbing Nvidia for Adobe Costs Florida Stock-Picker $50 Billion (source: Bloomberg)
+(Bloomberg) -- It was 180 degrees off the hot trade on Wall Street. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingIran’s Deputy Foreign Minister Confirms Deal Reached With USNetanyahu Pays a Political Price for Trump’s Iran DealApple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027Snub Nvidia Corp., the soaring king of artificial intelligence chips. Embrace Adobe Inc., a sinking casualty of
+Link: https://finance.yahoo.com/markets/stocks/articles/wrong-way-ai-trade-costs-131500352.html
+
+### Why Did CRM, FOXA, GLND Stocks Fall To 52-Week Lows On Tuesday? (source: Stocktwits)
+Salesforce, Fox Corporation and Greenland Energy shares slumped to annual lows on Tuesday amid company updates and Wall Street commentary.
+Link: https://stocktwits.com/news-articles/markets/equity/why-did-crm-foxa-glnd-stocks-fall-to-52-week-lows/cZK0SJYR7IG
+
+### Salesforce (CRM) Stock Sees Fair Value Cut As Analysts Question AI Growth Path (source: Simply Wall St.)
+Salesforce’s fair value estimate has been reset from US$317.21 to US$255.28, a cut of about 19.5% that has quickly become the focal point of the latest research updates. Many analysts are trimming price targets while still highlighting potential upside linked to second half FY27 revenue acceleration and AI related opportunities. Others point to execution risks and questions around growth reacceleration and AI monetization. In the sections that follow, you will see how this split narrative is...
+Link: https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-sees-fair-221337875.html
+
+### Update: Dow Logs Back-to-Back Record High in Mixed Session Ahead of Fed Decision (source: MT Newswires)
+(Updates with market moves at the end of the day.) The Dow Jones Industrial Average hit a fresh r
+Link: https://finance.yahoo.com/markets/stocks/articles/dow-logs-back-back-record-203919348.html
+
+### Stocks Indexes Finish Mostly Lower as Chipmakers Retreat (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.57%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.89%. June E-mini S&P futures (ESM26 ) fell -0.60%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2502375/stocks-indexes-finish-mostly-lower-as-chipmakers-retreat
+
+### Salesforce (CRM) Announces Landmark Partnership (source: Insider Monkey)
+Salesforce, Inc. (NYSE:CRM) is one of the Most Undervalued Long Term Stocks to Buy Right Now. On June 5, the company announced its landmark partnership. It has become an official tournament supporter of the FIFA World Cup 2026™ in North America and Europe and the FIFA Women’s World Cup 2027™ in North America and the host […]
+Link: https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-announces-landmark-partnership-191928369.html
+
+### Truist Says Salesforce’s (CRM) Headless 360 Could Ease AI Disruption Fears (source: Insider Monkey)
+Salesforce, Inc. (NYSE:CRM) is one of the best tech stocks to invest in on the dip. On June 2, Truist Securities analyst Terry Tillman maintained a Buy rating and $280 price target on Salesforce, Inc. (NYSE:CRM) after attending the company’s deep-dive product webinar on its Headless 360 architecture and Slack. Based on what the analyst […]
+Link: https://finance.yahoo.com/technology/ai/articles/truist-says-salesforce-crm-headless-190225246.html
+
+### Update: Equity Markets Mixed Intraday as Fed Meeting Begins (source: MT Newswires)
+(Updates with latest market prices and developments.) US benchmark equity indexes were mixed intr
+Link: https://finance.yahoo.com/markets/stocks/articles/equity-markets-mixed-intraday-fed-182114168.html
+
+### Salesforce bets $3.6B on Fin as Wedbush sees M&A strategy paying off (source: Proactive)
+Salesforce Inc (NYSE:CRM, XETRA:FOO) has agreed to acquire customer agent company Fin for approximately $3.6 billion, a deal Wedbush says confirms the company is moving faster and more aggressively than most expected to lock up the agentic AI market. The move hasn’t surprised analysts, who...
+Link: https://www.proactiveinvestors.com/companies/news/1093993/salesforce-bets-3-6b-on-fin-as-wedbush-sees-m-a-strategy-paying-off-1093993.html
+
+### Salesforce makes gutsy bet to win AI agent race (source: TheStreet)
+Salesforce (CRM) wants to sell AI agents to everyone, including companies that may never log into Salesforce. This is a strategy the company has been pushing all year, and it could reshape how the software giant makes money for the next decade. The plan rests on one idea: Instead of charging ...
+Link: https://www.thestreet.com/investing/stocks/crm-salesforce-bold-ai-bet
+
+### A new technology is learning how to move money (source: TheStreet)
+For the past two years, the story of AI on Wall Street has mostly been about speed. Faster research, faster summaries, faster answers to questions an analyst would otherwise spend an afternoon on. That story is now changing shape. The systems now being built are not just answering questions about ...
+Link: https://www.thestreet.com/markets/a-new-technology-is-learning-how-to-move-money
+
+### Broader Market Weakens as Energy and Software Stocks Fall (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.83%. June E-mini S&P futures (ESM26 ) are down -0.20%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2496862/broader-market-weakens-as-energy-and-software-stocks-fall
+
+### 1 AI Stock to Buy Before Its Revenue Accelerates in the Back Half of 2026 (source: Motley Fool)
+The market sell-off makes this stock look absolutely cheap compared to its growth potential.
+Link: https://www.fool.com/investing/2026/06/16/ai-stock-to-buy-before-its-revenue-accelerates/
+
+### Can CRM's Record Cash Generation Support Robust Shareholder Returns? (source: Zacks)
+Salesforce's record cash flows, rising margins and $50B buyback plan highlight its capacity to reward shareholders while investing in growth.
+Link: https://finance.yahoo.com/markets/stocks/articles/crms-record-cash-generation-support-131000150.html
+
+### This Analyst Believes Salesforce (CRM) Stock Is Trading At A 52% Discount (source: Insider Monkey)
+Salesforce Inc. (NYSE:CRM) is one of the 7 Worst Cloud Stocks To Buy According to Short Sellers. On June 5, Matthew VanVliet, an analyst at Cantor Fitzgerald, reaffirmed a Buy rating on Salesforce Inc. (NYSE:CRM) stock and set a target price of $250. The firm’s price target reflects an additional 52% upside from current levels. […]
+Link: https://finance.yahoo.com/markets/stocks/articles/analyst-believes-salesforce-crm-stock-120509086.html
+
+### Salesforce to acquire Fin for $3.6bn to expand AI agent services (source: Verdict)
+Fin’s AI agent resolves complex customer queries autonomously across channels such as live chat, email, WhatsApp, SMS, phone, and Slack.
+Link: https://www.verdict.co.uk/salesforce-fin-acquisition/
+
+### The Zacks Analyst Blog Highlights Lenovo Group, Alphabet, Salesforce, Visa and NVIDIA (source: Zacks)
+Lenovo, Alphabet, Salesforce, Visa and NVIDIA are supplying AI tools and infrastructure as FIFA World Cup 2026 expands technology use.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lenovo-082700061.html
+
+### Marketing jobs are among the most exposed to AI. Adobe and LinkedIn are teaming up to ensure the industry is upskilled—not replaced (source: Fortune)
+In a Fortune exclusive, Adobe and LinkedIn announce new coursework designed to teach marketing professionals how to properly use AI.
+Link: https://finance.yahoo.com/technology/ai/articles/marketing-jobs-among-most-exposed-070000349.html
+
+### Salesforce’s Fin Deal Aims To Expand Agentforce AI And Investor Upside (source: Simply Wall St.)
+Salesforce (NYSE:CRM) agreed to acquire AI customer service platform Fin for US$3.6b. The deal is intended to fold Fin into Salesforce's Agentforce offering to expand autonomous digital labor capabilities. The acquisition targets broader use of AI agents across customer service and other enterprise workflows. Salesforce is a major enterprise software company best known for its customer relationship management platform and growing suite of cloud-based applications. The move for Fin comes as...
+Link: https://finance.yahoo.com/technology/ai/articles/salesforce-fin-deal-aims-expand-051025023.html
+
+### The $3.6 Billion Reason Salesforce Is in Focus Today (source: Barchart)
+Salesforce shares extend gains as management announced $3.6 billion acquisition of Fin. Here’s why the transaction is bullish for CRM stock.
+Link: https://www.barchart.com/story/news/2478462/the-3-6-billion-reason-salesforce-is-in-focus-today
+
+### Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal (source: Investor's Business Daily)
+Salesforce on Monday announced the acquisition of AI software maker Fin for $3.6 billion. Salesforce stock rose amid a broad market rally.
+Link: https://www.investors.com/news/technology/salesforce-stock-fin-artificial-intelligence-acqusition-crm/?src=A00220&yptr=yahoo
+

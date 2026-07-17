@@ -1,0 +1,134 @@
+## CBOE News, from 2026-06-08 to 2026-06-22:
+
+### Charles Schwab (SCHW) Launches Yes Or No S&P 500 Options With Cboe (source: Simply Wall St.)
+Charles Schwab (NYSE:SCHW) is partnering with Cboe Global Markets to launch yes or no options tied to the S&P 500. The new products track simple binary outcomes, bringing a prediction market style structure into Schwab's retail trading platform. This expands Schwab's menu of listed derivatives beyond traditional options and futures. Charles Schwab enters this product rollout with its stock trading at $91.7, after a gain of 79.9% over the past 3 years and 32.8% over 5 years. The move into...
+Link: https://finance.yahoo.com/markets/options/articles/charles-schwab-schw-launches-yes-180727746.html
+
+### Lower Fee or Bigger Bitcoin ETF Scale? HODL vs. IBIT (source: Motley Fool)
+The VanEck Bitcoin ETF (HODL) and the iShares Bitcoin Trust ETF (IBIT) both seek to provide spot bitcoin exposure, but they differ on cost, asset scale, and trading depth. For investors comparing the two, the decision may depend less on the bitcoin thesis itself and more on how they want to access that exposure.
+Link: https://www.fool.com/coverage/etfs/2026/06/20/lower-fee-or-bigger-bitcoin-etf-scale-hodl-vs-ibit/
+
+### Schwab Plans S&P 500 Prediction Markets as Event Trading Moves Mainstream (source: CryptoProwl)
+Charles Schwab (NYSE: $SCHW) is preparing to enter the prediction-markets race with a product built around the S&am...
+Link: https://www.cryptoprowl.com/releases/schwab-plans-sp-500-prediction-markets-as-event-trading-moves-mainstream-5931
+
+### Charles Schwab Planning to Roll Out S&P 500 Prediction Markets With Cboe: WSJ (source: decrypt)
+Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.
+Link: https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe
+
+### Charles Schwab Breaks Into the Prediction Market Business (source: The Wall Street Journal)
+The brokerage is working with Cboe to offer yes-or-no contracts tied to the performance of the S&P 500 index.
+Link: https://www.wsj.com/finance/charles-schwab-breaks-into-the-prediction-market-business-61f6b9c2?siteid=yhoof2&yptr=yahoo
+
+### CME Stock Nears 52-Week Low After a 19.8% Drop: Time to Hold or Exit? (source: Zacks)
+CME Group expands its product lineup and global reach while benefiting from electronic trading growth and strong capital returns.
+Link: https://finance.yahoo.com/markets/stocks/articles/cme-stock-nears-52-week-144000225.html
+
+### MarketAxess Expands Bond Market Transparency With New TraX Tape (source: Zacks)
+MKTX launches TraX Tape, a new bond market data feed that combines trading activity, analytics and AI-powered pricing insights in one view.
+Link: https://finance.yahoo.com/markets/stocks/articles/marketaxess-expands-bond-market-transparency-133900744.html
+
+### Cboe (CBOE) Faces New ETF Rivals As Perpetual Futures Threaten Its Core Business (source: Simply Wall St.)
+Cboe Global Markets is confronting rising competition after new leveraged single-stock ETFs and other rival products were launched. Recent regulatory changes, including the Commodity Futures Trading Commission’s approval of perpetual futures, are challenging Cboe’s existing business model. The company is reported to be restructuring its organization to respond, which may introduce execution risks and near-term revenue pressure. Cboe Global Markets (BATS:CBOE) is coming under pressure as new...
+Link: https://finance.yahoo.com/markets/options/articles/cboe-cboe-faces-etf-rivals-091439739.html
+
+### Some Call SpaceX A Meme Stock. PitchBook Sees An AI Infrastructure Boom. (source: Investor's Business Daily)
+Elon Musk's SpaceX pulled off the biggest IPO ever. For investors, there are still issues to sort out. For one, is SPCX a meme stock?
+Link: https://www.investors.com/news/technology/spacex-stock-spcx-meme-stock-elon-musk/?src=A00220&yptr=yahoo
+
+### Tax-Exempt Muni Income or Corporate Bond Yield? SMB vs. VCSH (source: Motley Fool)
+The VanEck Short Muni ETF (SMB) and the Vanguard Short-Term Corporate Bond ETF (VCSH) both appeal to short-term bond investors, but the higher yield is not the only number that matters as taxes and account type can also affect the comparison.
+Link: https://www.fool.com/coverage/etfs/2026/06/18/vanguard-short-term-corporate-bond-etf-vs-vaneck-short-muni-etf-yield/
+
+### 2 Reasons to Buy the Dip on Struggling Carvana Stock (source: Schaeffer's Investment Research)
+Carvana pessimism in the options pits could be another contrarian signal
+Link: https://finance.yahoo.com/markets/stocks/articles/2-reasons-buy-dip-struggling-174738097.html
+
+### Is Cboe Global Markets Stock Underperforming the S&P 500? (source: Barchart)
+As Cboe Global Markets has struggled to keep pace with the broader S&P 500 Index over the past year, analysts are cautious about its future growth prospects.
+Link: https://www.barchart.com/story/news/2515682/is-cboe-global-markets-stock-underperforming-the-s-p-500
+
+### Nasdaq Futures Climb as Chip Stocks Rebound Ahead of First Fed Decision Under Warsh (source: Barchart)
+June Nasdaq 100 E-Mini futures (NQM26) are up +0.54% this morning, signaling a rebound from yesterday’s selloff, while investors await the first Federal Reserve rate decision under Kevin Warsh.
+Link: https://www.barchart.com/story/news/2510564/s-p-futures-gain-ahead-of-first-fed-decision-under-warsh
+
+### Investor FOMO, ETF ‘Feeding Frenzy’ Fuel SpaceX’s Skyrocketing Price (source: The Daily Upside)
+The shares sold in last week’s IPO represented just 5% of its outstanding stock, leaving retail investors clawing for the limited float
+Link: https://www.thedailyupside.com/technology/artificial-intelligence/new-market-forces-add-boosters-to-spacexs-rolling-debut/
+
+### SpaceX Options’ First Day of Trading Breaks Records (source: The Wall Street Journal)
+SpaceX options volumes smashed records on their first trading day. About 1.8 million options contracts tied to SpaceX changed hands on Tuesday, show Cboe Global Markets data. Some of the most actively-traded contracts were call options tied to the stock rising to $300 and $380 a share.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026/card/spacex-options-first-day-of-trading-is-already-breaking-records-GrCnpxlMfONPgZekPEnk?siteid=yhoof2&yptr=yahoo
+
+### Investors pile into moonshot SpaceX bets as first-day options trading shatters records (source: MarketWatch)
+On Friday, SpaceX clinched the biggest IPO in the history of the U.S. equity market, raising more than $85 billion. On Tuesday, it followed that up with the biggest debut in the history of the U.S. options market.
+Link: https://www.marketwatch.com/story/investors-pile-into-moonshot-spacex-bets-as-first-day-options-trading-shatters-records-1079562e
+
+### Oppenheimer Picks Alphabet, Dumps Meta in Highest-Conviction Stock Picks (source: GuruFocus.com)
+Top Bank Names Alphabet A Buy, Meta A Sell As Rally Continues
+Link: https://finance.yahoo.com/markets/stocks/articles/oppenheimer-picks-alphabet-dumps-meta-185259579.html
+
+### SpaceX options debut pulls record demand as investors chase rocket stock (source: Reuters)
+Trading in SpaceX options kicked off with record volume and bullish activity dominating on Tuesday, underscoring strong investor demand for a new way to bet on the future of Elon Musk's aerospace ‌company.  Some 1.8 million SpaceX contracts traded on Tuesday, handily surpassing Meta Platforms' — then known as Facebook — options debut in 2012, which held ‌the previous first-day volume record of about 365,000 contracts, according to Trade Alert data.  "We've never seen anything like it," said Henry Schwartz, vice president of derivatives market intelligence at Cboe Global Markets.
+Link: https://finance.yahoo.com/markets/options/articles/options-spacex-shares-start-trading-133625985.html
+
+### Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku (source: Yahoo Finance Video)
+Yahoo Finance Senior Reporter Brooke DiPalma comes on Market Domination to further discuss today's biggest headlines, including memory chip stocks like Micron Technology (MU) surging as Wall Street leans more bullish on the AI trade, oil prices (CL=F, BZ=F) moving closer to $80 per barrel on news of a US-Iran peace deal, and media giant Fox (FOX, FOXA) striking a deal to acquire Roku (ROKU) for $22 billion.
+Link: https://finance.yahoo.com/video/chip-stocks-surge-oil-slides-closer-to-80-on-us-iran-deal-fox-to-acquire-roku-195425964.html
+
+### SpaceX Options Launch After $1.765 Trillion IPO Valuation (source: GuruFocus.com)
+SpaceX options begin trading Tuesday after shares opened at $150, above the $135 IPO price.
+Link: https://finance.yahoo.com/markets/options/articles/spacex-options-launch-1-765-135151410.html
+
+### The First 2X SpaceX ETF Gained 56% on Day One (source: Simply Wall St.)
+The Defiance 2X Space ETF (SPCL) repositioned around SpaceX before its debut and gained 56% before the ETF entered a trading halt.
+Link: https://finance.yahoo.com/markets/stocks/articles/first-2x-spacex-etf-gained-070049226.html
+
+### CME Group Adds Four E-mini Futures for Broad Market Exposure (source: Zacks)
+CME expands its equity index futures lineup with four new E-mini contracts, targeting demand for broad-market exposure and risk management.
+Link: https://finance.yahoo.com/markets/options/articles/cme-group-adds-four-e-173800795.html
+
+### SpaceX Stock Options Coming Soon (source: Barrons.com)
+Thursday was the IPO. Friday was SpaceX's stock-market debut. Next week, investors will have SpaceX stock options. Cboe Global Markets said options tied to SpaceX stock will arrive on Tuesday. That isn't particularly surprising.
+Link: https://www.barrons.com/livecoverage/spacex-ipo-stock-price-spcx-elon-musk/card/spacex-stock-options-coming-soon-AbO3hHFbcHow5r9UQXbr?siteid=yhoof2&yptr=yahoo
+
+### Cboe Will List SpaceX Options As Soon as Tuesday (source: The Wall Street Journal)
+Traders will soon be able to pounce on options contracts tied to SpaceX.  Cboe Global Markets said that it expects to list options tied to SpaceX as soon as Tuesday, pending some industry checks, including certification from the OCC, or Options Clearing Corporation.  "It's exciting," said Rob Hocking, Cboe's global head of derivatives.
+Link: https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/cboe-will-list-spacex-options-as-soon-as-tuesday-VU5b3fy0oewCSFt8c6nS?siteid=yhoof2&yptr=yahoo
+
+### Tradr ETFs Set for Liftoff Alongside SpaceX IPO (source: Stocktwits)
+Tradr ETFs, a provider of ETFs designed for sophisticated investors and professional traders, today announced that it expects to launch two leveraged single-stock ETFs tied to SpaceX on Monday, June 15, following the company's highly anticipated public market debut.  The new Cboe-listed funds are designed to provide traders with amplified exposure to daily moves in SpaceX stock, offering both bullish and bearish investors a targeted strategy to express their views on one of the world's most closely watched and highly anticipated public companies of all time.
+Link: https://stocktwits.com/news-articles/business/others/tradr-et-fs-set-for-liftoff-alongside-space-x-ipo/cZKTCgnR72w
+
+### Assessing Cboe Global Markets (CBOE) Valuation After Recent Pullback And Ongoing Earnings Growth Expectations (source: Simply Wall St.)
+Short term moves and recent performance context Cboe Global Markets (CBOE) climbed 3.6% in the latest session, building on a 5.6% gain over the past week, even as the stock is down about 14.1% over the past month. See our latest analysis for Cboe Global Markets. Despite the recent pullback that left the 1 month share price return down 14.1%, Cboe Global Markets still has positive momentum, with the year to date share price return at 21.35% and a 1 year total shareholder return of 36.5%. If...
+Link: https://finance.yahoo.com/markets/stocks/articles/assessing-cboe-global-markets-cboe-121714172.html
+
+### 3 Reasons Why Growth Investors Shouldn't Overlook CBOE (CBOE) (source: Zacks)
+CBOE (CBOE) could produce exceptional returns because of its solid growth attributes.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-growth-investors-164503141.html
+
+### Jim Cramer on Cboe Global: “It Suddenly Became a Very Ugly Chart” (source: Insider Monkey)
+Cboe Global Markets, Inc. (NASDAQ:CBOE) was among the stocks Jim Cramer discussed during Mad Money, as he highlighted a difficult backdrop for stocks. A caller asked for Cramer’s thoughts on the stock, and he replied: You know, the stock broke down here for, I think, no real reason. I would buy a little bit here […]
+Link: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cboe-global-suddenly-153907206.html
+
+### Does Cboe (CBOE) Pairing Record Volumes With Longer Hours Reveal Its Next Profit Engine? (source: Simply Wall St.)
+Cboe Global Markets recently reported record May 2026 trading activity, with its four U.S. options exchanges and iBoxx index futures reaching new volume highs, and also received regulatory approval to extend trading hours for certain options. Alongside these operational achievements, the company moved to appoint experienced clearing and risk executive Boudewijn Duinstra as chief risk officer, signaling a stronger emphasis on global risk management, resilience, and governance. We’ll now...
+Link: https://finance.yahoo.com/markets/options/articles/does-cboe-cboe-pairing-record-211828285.html
+
+### Here's Why Investors Should Hold NU Stock in Their Portfolios Now (source: Zacks)
+Nu Holdings slides 28% in six months, but 2026-27 forecasts call for sharp y/y revenue and earnings growth as customers top 135M and efficiency improves.
+Link: https://finance.yahoo.com/markets/stocks/articles/heres-why-investors-hold-nu-135900327.html
+
+### Down 19.1% in 4 Weeks, Here's Why You Should You Buy the Dip in CBOE (CBOE) (source: Zacks)
+CBOE (CBOE) has become technically an oversold stock now, which implies exhaustion of the heavy selling pressure on it. This, combined with strong agreement among Wall Street analysts in revising earnings estimates higher, indicates a potential trend reversal for the stock in the near term.
+Link: https://finance.yahoo.com/markets/stocks/articles/down-19-1-4-weeks-133502466.html
+
+### Guidance Miss Becomes a Bloodbath: DRAM’s 15% Implosion is At The Center (source: 24/7 Wall St.)
+The Roundhill Memory ETF (CBOE:DRAM) closed Friday, June 5, 2026 at $55.79, down 15% on the day from a prior close of $65.70. Over the two-day window from June 3 through June 5, the fund dropped 20%, going from $69.71 to that Friday close. If you had $10,000 in DRAM at Wednesday’s open, you had ... Guidance Miss Becomes a Bloodbath: DRAM’s 15% Implosion is At The Center
+Link: https://247wallst.com/investing/2026/06/08/guidance-miss-becomes-a-bloodbath-drams-15-implosion-is-at-the-center/
+
+### Will Crypto Intrude on Financial Exchanges’ Business? The Panic is Premature. (source: Barrons.com)
+Perpetual futures tied to cryptocurrencies don’t spell perpetual risk for Intercontinental Exchange, Cboe, and CME.
+Link: https://www.barrons.com/articles/crypto-perpetual-futures-cboe-cme-exchanges-regulation-bd5291fc?siteid=yhoof2&yptr=yahoo
+

@@ -1,0 +1,134 @@
+## CSCO News, from 2026-06-15 to 2026-06-22:
+
+### Nvidia's $6.9 billion side bet just paid off in a big way (source: TheStreet)
+Back in 2020, Nvidia dropped $6.9 billion on a company most people had never heard of, Mellanox, an Israeli outfit that made networking switches and adapters. At the time, it barely registered. Jensen Huang was buying GPUs, building the chip story, and a networking company felt like a rounding ...
+Link: https://www.thestreet.com/technology/nvidias-6-9-billion-side-bet-just-paid-off-in-a-big-way
+
+### Cisco is Overvalued at 7.01X P/S: Should You Still Buy the Stock? (source: Zacks)
+CSCO's AI infrastructure orders, network refresh cycle and security momentum support its premium valuation and long-term growth prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-overvalued-7-01x-p-154600772.html
+
+### Shorting Out-of-the-Money Cisco Puts and Calls Provides Shareholders Extra Income (source: Barchart)
+Over the last month, selling short out-of-the-money (OTM) Cisco Systems put and call options has worked well for existing shareholders. Moreover, for the next month, it looks like a good play as well.
+Link: https://www.barchart.com/story/news/2555449/shorting-out-of-the-money-cisco-puts-and-calls-provides-shareholders-extra-income
+
+### Cisco Keeps Access to Restricted AI Model (source: GuruFocus.com)
+Project Glasswing preserves access for select firms
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-keeps-access-restricted-ai-123802001.html
+
+### Cisco (CSCO) Pushes Further Into Quantum Security And Enterprise AI (source: Simply Wall St.)
+Cisco Systems (NasdaqGS:CSCO) is a founding partner in the new Quantum Communication Fieldlab Rotterdam, focused on quantum secure networking. The initiative is intended to test and validate quantum resistant communication infrastructure in real world conditions. Cisco also launched the Secure AI Factory with Equinix and NVIDIA, aimed at simplifying enterprise scale AI deployment. The Secure AI Factory centers on pre integrated infrastructure that combines networking, compute, and colocation...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-csco-pushes-further-quantum-021030455.html
+
+### Why Cisco Systems (CSCO) Outpaced the Stock Market Today (source: Zacks)
+In the most recent trading session, Cisco Systems (CSCO) closed at $119.44, indicating a +1.8% shift from the previous trading day.
+Link: https://finance.yahoo.com/markets/stocks/articles/why-cisco-systems-csco-outpaced-214504138.html
+
+### Equinix Is Now Becoming a Key Stop in the AI Supply Chain. How to Play EQIX Stock Here. (source: Barchart)
+Equinix combines AI exposure, solid execution, and analyst support, but investors must weigh those strengths against a rich valuation.
+Link: https://www.barchart.com/story/news/2544143/equinix-is-now-becoming-a-key-stop-in-the-ai-supply-chain-how-to-play-eqix-stock-here
+
+### Intel jumps after Trump says Apple, Intel reached US chip deal (source: Yahoo Finance Video)
+Intel (INTC) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (AAPL) have agreed on a deal to design and build semiconductors in the US.
+Link: https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html
+
+### Nvidia Claims No. 1 Spot in $10 Billion AI Networking Market (source: GuruFocus.com)
+Nvidia Wins One of the Biggest Battles in the AI Infrastructure Race
+Link: https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html
+
+### Zacks Investment Ideas feature highlights: Dell and Cisco (source: Zacks)
+DELL and CSCO stand out on Zacks' AI screen after record-breaking results, surging demand, and strong growth tied to AI infrastructure.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-061100086.html
+
+### Equinix Strengthens AI Infrastructure With Cisco & NVIDIA Partnerships (source: Zacks)
+EQIX expands partnerships with Cisco and NVIDIA to speed enterprise AI adoption with standardized AI factory blueprints.
+Link: https://finance.yahoo.com/technology/ai/articles/equinix-strengthens-ai-infrastructure-cisco-173500405.html
+
+### Find Top AI Stocks Using This Zacks Tool (source: Zacks)
+This Zacks Thematic investing screen features a diverse set of companies involved with AI, ranging from creators of software and hardware that power AI to those applying and utilizing the technology through other means.
+Link: https://finance.yahoo.com/markets/stocks/articles/top-ai-stocks-using-zacks-153000831.html
+
+### Is Cisco Systems (CSCO) Stock Outpacing Its Computer and Technology Peers This Year? (source: Zacks)
+Here is how Cisco Systems (CSCO) and Arteris, Inc. (AIP) have performed compared to their sector so far this year.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-stock-outpacing-134004048.html
+
+### Cisco Systems (CSCO) Stock After 87% One-Year Rally Is The Price Still Reasonable (source: Simply Wall St.)
+With Cisco Systems stock on many investors' watchlists, the key question is whether the current share price fairly reflects what the company may be worth over the long run. The stock most recently closed at US$119.57, with returns of 57.2% year to date and 87.2% over the past year, while the return over the last 7 days declined 0.7% and the return over the last 30 days was 1.2%. These moves can change how investors think about both upside potential and risk. Recent news coverage has focused...
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-stock-87-021101351.html
+
+### Arista’s Very Good, Very Bad Year (source: Trefis)
+The networking company is drowning in the best demand its CEO has ever seen, and that’s precisely the problem.
+Link: https://www.trefis.com/articles/603097/aristas-very-good-very-bad-year/2026-06-16
+
+### AI Powers Arista Networks Stock, But Its Real Strength Lies Elsewhere (source: Trefis)
+The networking giant is one of the market's hottest stocks, but its real value to your portfolio lies in a story that's partly its own.
+Link: https://www.trefis.com/articles/603103/ai-powers-arista-networks-stock-but-its-real-strength-lies-elsewhere/2026-06-16
+
+### Cisco Systems Inc (CSCO) Partners With AT&T. It’s About Cars (source: Insider Monkey)
+Cisco Systems Inc (NASDAQ:CSCO) is one of billionaire Ken Fisher’s top high growth stock picks. In the past month, Cisco shares have soared more than 20%. The stock is up more than 58% year-to-date. Cisco Systems Inc (NASDAQ:CSCO) has landed a role in AT&T’s in-car entertainment platform. The arrangement involves Cisco providing multi-party billing capabilities […]
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-partners-185840070.html
+
+### SharonAI Shares Surged After Securing a Six-Year Agreement With Nvidia. SHAZ Stock Needs a Lot More to Become a Long-Term Buy. (source: Barchart)
+SharonAI Holdings secured a six-year compute agreement with Nvidia to build 72 MW of new data center capacity and scale up to 40,000 Grace Blackwell GB300 GPUs, pushing its total AI factory footprint to 132 MW.
+Link: https://www.barchart.com/story/news/2500567/sharonai-shares-surged-after-securing-a-six-year-agreement-with-nvidia-shaz-stock-needs-a-lot-more-to-become-a-long-term-buy
+
+### Cisco Systems Capitalizes on AI Networking Boom: More Upside Ahead? (source: Zacks)
+CSCO rides on AI networking demand as Q3 revenues rise 125 to $15.8B, with networking up 25% and orders surging across segments.
+Link: https://finance.yahoo.com/technology/articles/cisco-systems-capitalizes-ai-networking-165100785.html
+
+### A new technology is learning how to move money (source: TheStreet)
+For the past two years, the story of AI on Wall Street has mostly been about speed. Faster research, faster summaries, faster answers to questions an analyst would otherwise spend an afternoon on. That story is now changing shape. The systems now being built are not just answering questions about ...
+Link: https://www.thestreet.com/markets/a-new-technology-is-learning-how-to-move-money
+
+### Databricks strikes deal to buy Panther Labs in cybersecurity push (source: Reuters)
+Databricks said on Tuesday it had agreed to buy startup Panther Labs, as the U.S. ‌data analytics provider pushes deeper into the cybersecurity business.  The ‌acquisition, Databricks' third in this area, furthers its aim to compete with security management ​incumbents like CrowdStrike and Cisco's Splunk.  Databricks declined to comment on the deal terms.
+Link: https://finance.yahoo.com/technology/articles/databricks-strikes-deal-buy-panther-153151914.html
+
+### Okta Rises 37% YTD: Is There More Room for the Stock to Jump? (source: Zacks)
+OKTA's newer identity and AI offerings are boosting bookings and deal sizes, but competition and AI monetization hurdles keep the stock a hold.
+Link: https://finance.yahoo.com/markets/stocks/articles/okta-rises-37-ytd-more-151500610.html
+
+### Marketing jobs are among the most exposed to AI. Adobe and LinkedIn are teaming up to ensure the industry is upskilled—not replaced (source: Fortune)
+In a Fortune exclusive, Adobe and LinkedIn announce new coursework designed to teach marketing professionals how to properly use AI.
+Link: https://finance.yahoo.com/technology/ai/articles/marketing-jobs-among-most-exposed-070000349.html
+
+### Morgan Stanley Raises Price Target on Arista Networks (ANET). Here is Why (source: Insider Monkey)
+Arista Networks, Inc. (NYSE:ANET) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. Arista Networks, Inc. (NYSE:ANET) is an industry leader in data-driven, client-to-cloud networking for large data center/AI, campus, and routing environments. On June 12, Morgan Stanley lifted its price target on Arista Networks, Inc. (NYSE:ANET) from $180 […]
+Link: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-price-target-020648491.html
+
+### Dell Stock And The Best Kind Of Problem (source: Trefis)
+Management just raised the roof on its forecasts, but they also admitted customers are panic-buying. So what exactly are you paying for.
+Link: https://www.trefis.com/articles/602909/dell-stock-and-the-best-kind-of-problem/2026-06-15
+
+### Cisco (CSCO) Stock Valuation Check After Strong Recent Returns (source: Simply Wall St.)
+Event driven snapshot of Cisco Systems (CSCO) Cisco Systems (CSCO) drew fresh attention after recent trading, with the stock closing at US$121.10 as investors reassessed its long term returns and current fundamentals. See our latest analysis for Cisco Systems. While the share price dipped 0.6% on the day to US$121.10, the 90 day share price return of 52.77% and 1 year total shareholder return of 89.11% indicate recent momentum that has reshaped sentiment around the stock. If you are looking...
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-valuation-check-190753414.html
+
+### 3 Dow Jones Stocks We Find Risky (source: StockStory)
+While the Dow Jones (^DJI) represents industry leaders, not every stock in the index is a safe bet. Some are facing headwinds like declining demand, rising costs, or disruptive new competitors.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-dow-jones-stocks-risky-144407133.html
+
+### Flex Soars 241% in a Year: Should Investors Still Buy the Stock? (source: Zacks)
+FLEX rides AI data center demand, strategic shifts and record profitability, with multiyear growth plans fueling its long-term outlook.
+Link: https://finance.yahoo.com/markets/stocks/articles/flex-soars-241-investors-still-131600683.html
+
+### The Agentic AI Tax: Who Pays and Who Profits (source: InvestorPlace)
+Editor’s note: “The Agentic AI Tax: Who Pays and Who Profits” was previously published in May 2026 with the title, “Why the Smartest AI Investors Are Ignoring the Model Race.” It has since been updated to include the most relevant information available. The dot-com era taught investors a valuable lesson. Betting on the winning website was hard. Owning the infrastructure every website needed was easier.InvestorPlace - Stock Market News, Stock Advice & Trading Tips Amazon (AMZN) survived. Pets.com
+Link: https://finance.yahoo.com/markets/stocks/articles/why-smartest-ai-investors-ignoring-125500064.html
+
+### Beat the Market Like Zacks: FirstCash, Cisco, Bread Financial in Focus (source: Zacks)
+FCFS, CSCO and BFH led standout gains as Zacks highlighted top-performing portfolios amid volatile markets and inflation worries.
+Link: https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-firstcash-cisco-123600066.html
+
+### Hewlett Packard Enterprise Stock: Is HPE Outperforming the Technology Sector? (source: Barchart)
+Hewlett Packard has notably outperformed the Technology sector over the past year, and analysts are cautiously optimistic about the stock’s prospects.
+Link: https://www.barchart.com/story/news/2471291/hewlett-packard-enterprise-stock-is-hpe-outperforming-the-technology-sector
+
+### Cisco (CSCO) Unveils Cloud Control Platform and Advances Private 5G Connectivity Solutions (source: Insider Monkey)
+Cisco Systems Inc. (NASDAQ:CSCO) ranks among the best 5G stocks to buy right now. On June 2, Cisco Systems Inc. (NASDAQ:CSCO) announced the release of Cisco Cloud Control, a platform for managing IT infrastructure by operators and artificial intelligence agents. The platform offers a unified interface for networking, security, computation, and observability. The platform, which […]
+Link: https://finance.yahoo.com/sectors/technology/articles/cisco-csco-unveils-cloud-control-083045067.html
+
+### Workday Bets On Trusted AI Agents And AWS Data Ties To Reignite Growth (source: Simply Wall St.)
+Workday (NasdaqGS:WDAY) announced new AI and data features, including the Agent Passport security compliance platform for AI agents. The company introduced new agentic developer tools through the Workday Build platform. Workday Data Cloud is now fully integrated with Amazon Web Services, enabling bi directional data connections. Cisco is partnering with Workday to provide third party validation of AI agent security. For investors tracking NasdaqGS:WDAY, these product moves arrive after a...
+Link: https://finance.yahoo.com/markets/stocks/articles/workday-bets-trusted-ai-agents-001543179.html
+

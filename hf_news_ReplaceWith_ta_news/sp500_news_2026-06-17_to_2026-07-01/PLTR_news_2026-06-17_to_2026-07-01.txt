@@ -1,0 +1,202 @@
+## PLTR News, from 2026-06-17 to 2026-07-01:
+
+### SpaceX Is ‘Much More Of An AI Play’ Than A Space Company, Says Dan Ives — Here’s The Bull Case (source: Stocktwits)
+Wedbush’s Dan Ives says SpaceX could become a major AI-driven hyperscaler, while remaining bullish on semiconductors and select software stocks.
+Link: https://stocktwits.com/news-articles/markets/equity/spacex-more-ai-play-than-space-company-dan-ives-bull-case/cZmdul9R70A
+
+### S&P 500, Nasdaq End Higher As Chipmakers Rally, While Dow Posts Best First Half In Five Years — LUNR, AMZN, PLTR, XYZ, AVAV In Focus (source: Stocktwits)
+The Philadelphia Semiconductor Index hit its best quarter on record.
+Link: https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-as-chipmakers-rally-while-dow-posts-best-first-half-in-five-years-lunr-amzn-pltr-xyz-avav-in-focus/cZ1QvpOR70p
+
+### Binance Expands bStocks Offering and Adds Microsoft, Meta and More (source: BeInCrypto)
+Binance expands its bStocks offering and adds support for Microsoft, Meta and more as tokenized U.S. securities.
+Link: https://beincrypto.com/binance-bstocks-microsoft-meta-palantir-tokenized-stocks/
+
+### Nvidia (NVDA) Teams With Palantir To Bring Sovereign AI To Government (source: Simply Wall St.)
+NVIDIA and Palantir announced a new initiative to deliver secure, sovereign AI infrastructure for U.S. government and critical industries. The collaboration centers on open-source Nemotron models and Palantir AIP, designed for classified and highly regulated environments. The offering focuses on strict data control, mission-specific model optimization, and full traceability of AI workflows. NVIDIA (NasdaqGS:NVDA) is extending its AI platform into sensitive public sector and infrastructure...
+Link: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-teams-palantir-bring-200715360.html
+
+### Software Stocks Have Gotten Crushed. These 2 Have Defied the Selloff. (source: Barrons.com)
+JFrog and Qualys are outperforming the broader software sector as bullish technical patterns suggest both stocks could continue leading into the second half of 2026.
+Link: https://www.barrons.com/articles/software-stocks-jfrog-qualsys-technical-analysis-c594c368?siteid=yhoof2&yptr=yahoo
+
+### IGV Investors: Watch Oracle’s Free Cash Flow as the Real Test of AI Capex Economics (source: 24/7 Wall St.)
+The iShares Expanded Tech-Software Sector ETF (NASDAQ:IGV) closed Friday at $88.20, down 16.5% year to date and 18.9% over the past year, despite the broader AI trade still drawing capital. IGV’s slide accelerated this month after top holding Oracle posted its worst week since the 2001 dot-com bust, dropping 19.4% in five sessions on debt ... IGV Investors: Watch Oracle’s Free Cash Flow as the Real Test of AI Capex Economics
+Link: https://247wallst.com/investing/2026/06/30/igv-investors-watch-oracles-free-cash-flow-as-the-real-test-of-ai-capex-economics/
+
+### The Next Space Race: Could the U.S. Tech Boom Send SPCX Past $3 Trillion by 2027? (source: 24/7 Wall St.)
+SpaceX (NASDAQ:SPCX) is surging back again after a brief fall from its highs. SPCX stock is up by almost 11 days in the past five trading sessions and is likely set to continue moving higher in the coming days as the broader rally shows no sign of stopping. In fact, many analysts (retail and the suits) ... The Next Space Race: Could the U.S. Tech Boom Send SPCX Past $3 Trillion by 2027?
+Link: https://247wallst.com/investing/2026/06/30/the-next-space-race-could-the-u-s-tech-boom-send-spcx-past-3-trillion-by-2027/
+
+### PLTR Stock Gains 2% — Japan Weighs Palantir AI Defense System For Military Command Network, Says Report (source: Stocktwits)
+Japan is reportedly evaluating Palantir Technologies' Maven Smart System for its military operations.
+Link: https://stocktwits.com/news-articles/markets/equity/pltr-stock-gains-japan-weighs-palantir-ai-defense-system/cZ1Qnl1R70g
+
+### Palantir's Expanding Customer Base Fuels Enterprise AI Growth (source: Zacks)
+PLTR's expanding customer base highlights rising enterprise demand for its AI platforms, strengthening its long-term growth outlook.
+Link: https://finance.yahoo.com/technology/ai/articles/palantirs-expanding-customer-fuels-enterprise-165500123.html
+
+### PLTR Stock Watch: What to Know as Palantir Teams Up With Nvidia (source: Barchart)
+Palantir stock inches up on a fresh AI partnership with Nvidia. But does that warrant buying PLTR shares at about 97x forward earnings?
+Link: https://www.barchart.com/story/news/3057556/pltr-stock-watch-what-to-know-as-palantir-teams-up-with-nvidia
+
+### Palantir Price Prediction: The Stock Will Hit $150 on This Date (source: 24/7 Wall St.)
+Palantir Technologies (NASDAQ:PLTR) has handed retirement investors a wild ride in 2026. Shares of Palantir closed Friday at $112.93, down 12.1% over the past week, 14.78% over the past month, and 36.47% year to date from a starting price of $177.75. The one year change sits at negative 21.71%, and the stock is roughly 46% below ... Palantir Price Prediction: The Stock Will Hit $150 on This Date
+Link: https://247wallst.com/investing/2026/06/30/palantir-price-prediction-the-stock-will-hit-150-on-this-date/
+
+### What's Wrong With Palantir Technologies Stock? (source: Motley Fool)
+The top tech stock has been crashing this year, and it's now down more than 40% from its 52-week high.
+Link: https://www.fool.com/investing/2026/06/30/whats-wrong-with-palantir-technologies-stock/
+
+### NVIDIA (NVDA), Palantir (PLTR) Partner to Deploy Secure AI Models for Government and Infrastructure (source: Insider Monkey)
+NVIDIA Corporation (NASDAQ:NVDA) is one of the AI stocks on Wall Street’s radar. On June 29, Palantir announced a strategic initiative with NVIDIA. The two are launching an initiative to enable US government agencies and critical infrastructure sectors to deploy NVIDIA Nemotron open models in secure, sovereign environments. By combining NVIDIA’s AI platform with Palantir’s […]
+Link: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-pltr-partner-133652471.html
+
+### Palantir (PLTR), Surf Air Mobility Expand Partnership to Accelerate SurfOS Platform Development (source: Insider Monkey)
+Palantir Technologies Inc. (NASDAQ:PLTR) is one of the AI stocks on Wall Street’s radar. On June 29, Palantir and Surf Air Mobility are expanding their partnership to accelerate the commercialization of the SurfOS platform. Building on the successful launch of BrokerOS, both companies are committing additional engineering and go-to-market resources to expedite the development and […]
+Link: https://finance.yahoo.com/technology/ai/articles/palantir-pltr-surf-air-mobility-133644293.html
+
+### Palantir's 2 deals answer a question investors keep asking (source: TheStreet)
+Palantir Technologies Inc. (PLTR) confirmed two separate partnerships on Monday, June 29, one with a private aviation startup and one with Nvidia. Most coverage will treat these as routine corporate news. The pattern underneath them is not routine, however. It points to how Palantir plans to defend ...
+Link: https://www.thestreet.com/investing/stocks/pltr-palantir-deals-surf-air-mobility-nvidia
+
+### Palantir Stock vs. Sandisk Stock: Wall Street Says Buy One and Sell the Other (source: Motley Fool)
+Most Wall Street analysts think Palantir stock is headed higher, but the consensus says Sandisk stock is headed lower.
+Link: https://www.fool.com/investing/2026/06/30/palantir-stock-sandisk-stock-wall-street-buy-sell/
+
+### Is The Deal Between Nvidia and Palantir a Game Changer? (source: Motley Fool)
+Two of the most respected names in technology are joining forces to expand the reach of artificial intelligence (AI).
+Link: https://www.fool.com/investing/2026/06/30/is-the-deal-between-nvidia-and-palantir-a-game-cha/
+
+### 5-star analyst gives beaten-down Palantir a surprise verdict (source: TheStreet)
+Palantir (PLTR) stock has effectively gone from AI favorite to AI laggard. Though we saw a resurgence late last week, shares are down seven straight sessions and remain down 37% in 2026, as investors fret over the stock’s valuation and the competitive edge it may be harder to defend. Hence, the ...
+Link: https://www.thestreet.com/investing/stocks/5-star-analyst-gives-beaten-down-palantir-a-surprise-verdict
+
+### Why Palantir Technologies (PLTR) Stock Is Trading Up Today (source: StockStory)
+Shares of data analytics company Palantir Technologies (NASDAQ:PLTR) jumped 3.1% in the afternoon session after the company announced two significant artificial intelligence deals, including a partnership with NVIDIA and an expanded agreement with Surf Air Mobility.
+Link: https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-pltr-stock-001815542.html
+
+### Why Zeta Global (ZETA) Stock Is Up Today (source: StockStory)
+Shares of marketing technology company Zeta Global (NYSE:ZETA) jumped 4.8% in the afternoon session after the company announced strategic partnerships with Snowflake and Palantir Technologies to bolster its enterprise AI capabilities.
+Link: https://finance.yahoo.com/markets/stocks/articles/why-zeta-global-zeta-stock-235415707.html
+
+### Why Palantir Stock Is Up Today (source: Motley Fool)
+A partnership with an artificial intelligence (AI) titan has investors intrigued.
+Link: https://www.fool.com/investing/2026/06/29/why-palantir-stock-is-up-today/
+
+### Comcast, Charter, Rocket Lab, SpaceX, Tesla, and More Stocks That Explain Today’s Market (source: Barrons.com)
+In addition, the Supreme Court on Monday rejected President Donald Trump’s attempt to remove Federal Reserve governor Lisa Cook.  The cable and entertainment giant announced plans to split into two public companies through a spinoff of NBCUniversal and Sky.  Alphabet  gained 4.8% on its first day of trading in the  The Google parent replaced  Verizon Communications  which fell 5.2%.
+Link: https://www.barrons.com/articles/stock-movers-bb996027?siteid=yhoof2&yptr=yahoo
+
+### Stocks to Watch Recap: Comcast, Rocket Lab, Palantir, Verizon (source: The Wall Street Journal)
+↗️ Comcast (CMCSA): The company announced plans to split its media and connectivity businesses through a tax-free spin-off of NBCUniversal and Sky. Shares jumped 4.5%. Broadband competitor Charter Communications (CHTR) rallied even more, adding 9.
+Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-29-2026/card/stocks-to-watch-bat-palantir-technologies-verizon-HcTnrHw9yKASquT0iDnD?siteid=yhoof2&yptr=yahoo
+
+### The Real Engine Behind Snowflake Stock's Reacceleration (source: Trefis)
+A new AI tool is seeing the fastest adoption in the company's history, and it might be the key to unlocking a whole new phase of growth.
+Link: https://www.trefis.com/articles/604940/the-real-engine-behind-snowflake-stocks-reacceleration/2026-06-29
+
+### Big tech faces AI spending scrutiny ahead of Q2 earnings: Wedbush (source: Proactive)
+Investors are entering the second-quarter earnings season focused on whether heavy artificial intelligence spending by major technology companies will begin translating into stronger revenue growth, according to Wedbush Securities analysts. Wedbush wrote that recent weakness in large-cap...
+Link: https://www.proactiveinvestors.com/companies/news/1094670/big-tech-faces-ai-spending-scrutiny-ahead-of-q2-earnings-wedbush-1094670.html
+
+### PLTR Stock: What Does Its Valuation Imply? (source: Trefis)
+This is a supply-constrained year for Palantir Technologies. The company's core is its Artificial Intelligence Platform, embedded in government programs like the Maven Smart System and a fast-growing commercial base.
+Link: https://www.trefis.com/articles/604945/pltr-stock-what-does-its-valuation-imply-4/2026-06-29
+
+### Micron and Intel Lead Chip Selloff (source: GuruFocus.com)
+Software names rally as semiconductors lag.
+Link: https://finance.yahoo.com/technology/articles/micron-intel-lead-chip-selloff-192501898.html
+
+### Can a New Nvidia Partnership Save Palantir Stock From Its Brutal Slump? (source: Barrons.com)
+Palantir advances Monday after snapping a seven-day losing streak on Friday. A new partnership with Nvidia might be the catalyst the stock needs.
+Link: https://www.barrons.com/articles/palantir-stock-nvidia-partnership-b2091c5f?siteid=yhoof2&yptr=yahoo
+
+### Cathie Wood Is Backing the Truck Up on Palantir Stock. Is She Finally Right? (source: 24/7 Wall St.)
+Cathie Wood’s ARK funds kept buying Palantir (NASDAQ:PLTR) into the teeth of its 2026 drawdown, picking up roughly 81,254 shares for about $9.7 million on June 23 and another 41,601 shares for roughly $4.5 million on June 26 across multiple tech names. That extends a months-long pattern of averaging down on weakness, and it sets up the ... Cathie Wood Is Backing the Truck Up on Palantir Stock. Is She Finally Right?
+Link: https://247wallst.com/investing/2026/06/29/cathie-wood-is-backing-the-truck-up-on-palantir-stock-is-she-finally-right/
+
+### Palantir Just Secured the U.S. Army’s Biggest Data Overhaul (source: 24/7 Wall St.)
+The headline number gets attention. Palantir (NASDAQ:PLTR) secured a $10 billion, 10-year Enterprise Agreement with the U.S. Army last summer. The contract was awarded July 31, 2025, and the question worth asking now, nearly a year in, is whether Wall Street has properly priced what that vehicle does to the company’s competitive position. The stock ... Palantir Just Secured the U.S. Army’s Biggest Data Overhaul
+Link: https://247wallst.com/investing/2026/06/29/palantir-just-secured-the-u-s-armys-biggest-data-overhaul/
+
+### Palantir Shares Jump After Striking Nvidia AI Deal (source: GuruFocus.com)
+Palantir and Nvidia Unveil Government AI Platform. Investors Cheer
+Link: https://finance.yahoo.com/technology/ai/articles/palantir-shares-jump-striking-nvidia-175903407.html
+
+### Palantir and Nvidia Bring Open AI Models Inside U.S. Government Systems (source: GuruFocus.com)
+The Nemotron initiative gives agencies sovereign control over model training and deployment in classified environments
+Link: https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-bring-open-ai-175410986.html
+
+### Rocket Lab, RTX, and Palantir: The Best SpaceX Alternatives for Investors Who Missed the IPO or Want Out (source: Motley Fool)
+Rocket Lab, RTX, and Palantir offer three different ways to gain exposure to space, defense, and military AI.
+Link: https://www.fool.com/investing/2026/06/29/rocket-lab-rtx-and-palantir-the-best-spacex-altern/
+
+### This CIO Says the AI Bubble Pops the Moment Good News Stops Moving Stocks (source: 24/7 Wall St.)
+David Bahnsen, Chief Investment Officer at The Bahnsen Group, appeared on CNBC’s Squawk Box this morning with a specific warning. His tell is more clinical. “I think a bubble gets ready to pop is when you start seeing companies have the good news everyone’s been talking about and cheerleading and then the stocks don’t respond,” ... This CIO Says the AI Bubble Pops the Moment Good News Stops Moving Stocks
+Link: https://247wallst.com/investing/2026/06/29/this-cio-says-the-ai-bubble-pops-the-moment-good-news-stops-moving-stocks/
+
+### Palantir Expands AI Push With Nvidia Deal (source: GuruFocus.com)
+The company is also working with Surf Air to commercialize aviation software.
+Link: https://finance.yahoo.com/technology/ai/articles/palantir-expands-ai-push-nvidia-170857576.html
+
+### Palantir gets powerful AI signal from key ally of U.S. (source: TheStreet)
+Palantir Technologies (PLTR) is no longer simply another AI stock chasing the latest Wall Street craze. It’s emerging as one of the clearest tests of how much investors will pay for military AI. That’s significant for more than just hedge funds and defense analysts. A carefully watched stock among ...
+Link: https://www.thestreet.com/investing/palantir-maven-smart-system-japan-considers-using
+
+### Palantir stock is the victim of 'fictional narratives,' Dan Ives explains (source: Yahoo Finance Video)
+Wedbush Securities managing director and global head of technology research, Dan Ives, explains why Palantir (PLTR) stock has been falling and what it needs to recover.
+Link: https://finance.yahoo.com/video/palantir-stock-victim-fictional-narratives-155723925.html
+
+### Palantir and Nvidia partner on AI platform for U.S. government (source: Quartz)
+The two companies will combine Nvidia's Nemotron open models with Palantir's software to let agencies train and deploy AI in secure, air-gapped environments
+Link: https://qz.com/palantir-nvidia-ai-platform-us-government-062926
+
+### In the U.S., the Ties Between Industry and Defense Go Back to the Country’s Founding (source: The Wall Street Journal)
+Starting with George Washington creating the Springfield Armory, the country has fused war and business like never before.
+Link: https://www.wsj.com/politics/national-security/industry-and-defense-historic-ties-a6cbe74e?siteid=yhoof2&yptr=yahoo
+
+### Palantir surges 4% on Nvidia sovereign AI pact as software beats semis (source: Investing.com)
+Investing.com -- Palantir Technologies Inc (NASDAQ:PLTR) is trading up 4.6% at $118.09 on Monday, extending a rebound that began Friday when the stock snapped a seven-session losing streak, after the company announced a strategic initiative with NVIDIA Corporation (NASDAQ:NVDA) to deploy open AI models inside classified and air-gapped government environments. The partnership pertains to a jointly developed intelligent engine pairing Nvidia's Blackwell Ultra GPUs and Nemotron open models with Pal
+Link: https://finance.yahoo.com/technology/ai/articles/palantir-surges-4-nvidia-sovereign-151038463.html
+
+### Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought (source: Motley Fool)
+Ark Invest's top investor is adding to stocks that have fallen sharply from recent highs.
+Link: https://www.fool.com/investing/2026/06/29/cathie-wood-goes-bargain-hunting-3-stocks-she-just/
+
+### Palantir and Nvidia Launch Secure AI Platform for Government Agencies (PLTR) (source: InvestorsHub)
+Palantir Technologies (NASDAQ:PLTR) has unveiled a strategic collaboration with Nvidia (NASDAQ:NVDA) to bring Nvidia’s Nemotron open artificial intelligence models into sovereign computing environments, with the solution aimed at U. S.
+Link: https://investorshub.advfn.com/market-news/article/31096/palantir-and-nvidia-launch-secure-ai-platform-for-government-agencies-pltr
+
+### Meet the Artificial Intelligence (AI) Software Stock That's Quietly Outperforming Palantir Technologies in 2026 (Hint: It's Significantly Cheaper) (source: Motley Fool)
+The adoption of Twilio's AI cloud communications tools is now driving stronger growth for the company.
+Link: https://www.fool.com/investing/2026/06/29/meet-the-artificial-intelligence-ai-software-stock/
+
+### Sector Update: Tech Stocks Rise Premarket Monday (source: MT Newswires)
+Technology stocks were rising premarket Monday, with the State Street Technology Select Sector SPDR
+Link: https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-premarket-131455978.html
+
+### SRFM Stock Heads Toward Best Day In A Year – What’s The Palantir Connection? (source: Stocktwits)
+Surf Air Mobility and Palantir are set to dedicate additional engineering and go-to-market resources to accelerate SurfOS development.
+Link: https://stocktwits.com/news-articles/markets/equity/srfm-stock-surges-intraday-high-palantir-surfos/cZ19JgTR7hH
+
+### Palantir Has Lost Its AI Moat. UBS Says Investors Are Missing the Bigger Story. (source: GuruFocus.com)
+AI Competition Is Heating Up. Why UBS Thinks Palantir Can Stay Ahead
+Link: https://finance.yahoo.com/technology/ai/articles/palantir-lost-ai-moat-ubs-124200267.html
+
+### The US Army Just Made Palantir (PLTR) Foundry the Data Backbone of Its Biggest Tech Overhaul (source: Insider Monkey)
+Palantir Technologies Inc. (NASDAQ:PLTR) is one of the best fast growth stocks to buy according to hedge funds. On June 22, Palantir Technologies Inc. (NASDAQ:PLTR) announced that the US Army has established the common data layer baseline for its Next Generation Command and Control (NGC2) program, and selected its Foundry platform as the cloud data […]
+Link: https://finance.yahoo.com/technology/ai/articles/us-army-just-made-palantir-101813918.html
+
+### Zeta Global (ZETA) Enters into a Strategic Partnership with Palantir Technologies (source: Insider Monkey)
+Zeta Global Holdings Corp. (NYSE:ZETA) is one of the 10 worst artificial intelligence stocks under $30 according to short sellers. On June 23, Zeta Global Holdings Corp. (NYSE:ZETA) revealed that the company has formed a strategic alliance with Palantir Technologies (NASDAQ:PLTR). The aim is to develop an AI infrastructure layer that integrates customer and operational […]
+Link: https://finance.yahoo.com/technology/ai/articles/zeta-global-zeta-enters-strategic-081829618.html
+
+### Prediction: This Could Be Palantir's Stock Price By the End of 2027 (source: Motley Fool)
+A business that's growing like wildfire could drive the stock price significantly higher by the end of next year.
+Link: https://www.fool.com/investing/2026/06/28/prediction-this-could-be-palantirs-stock-price-by/
+
+### Michael Burry pulls back on massive Palantir short bet (source: TheStreet)
+Michael Burry is not a name the market ignores. The investor behind the "Big Short" trade that predicted the 2008 financial crisis has made his bearish stance on Palantir Technologies one of the more talked-about positions on Wall Street. Now, something has shifted. According to GuruFocus: Burry's ...
+Link: https://www.thestreet.com/investing/stocks/pltr-palantir-michael-burry-pulls-back-on-massive-palantir-short-bet
+

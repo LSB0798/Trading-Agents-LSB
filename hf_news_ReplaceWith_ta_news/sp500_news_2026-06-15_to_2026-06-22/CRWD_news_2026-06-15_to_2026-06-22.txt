@@ -1,0 +1,102 @@
+## CRWD News, from 2026-06-15 to 2026-06-22:
+
+### Jim Cramer on CrowdStrike (CRWD): “I Think the Second Half of the Year is Going to Be Really Good” (source: Insider Monkey)
+CrowdStrike Holdings, Inc. (NASDAQ:CRWD) was among the stocks on Jim Cramer’s radar on Mad Money, as he advised investors to care about where a stock is going, not where it has been. When a caller mentioned that the “Mythos scare” is likely to “come into play” during Q2, Cramer said: Actually, no, it came into […]
+Link: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-crowdstrike-crwd-think-175047227.html
+
+### The Bull Case For CrowdStrike (CRWD) Could Change Following New AWS-Powered AI Security Push – Learn Why (source: Simply Wall St.)
+CrowdStrike Holdings recently unveiled a wave of AI and cloud security enhancements, extending its Falcon AI Detection and Response across AWS, AI gateways, and new identity controls to safeguard enterprise AI agents and workloads. By deepening alliances with AWS and partners like Atos while unifying AI, identity, and Next-Gen SIEM on the Falcon platform, CrowdStrike is positioning its technology at the center of how large organizations secure frontier AI risk end to end. We’ll now examine...
+Link: https://finance.yahoo.com/technology/ai/articles/bull-case-crowdstrike-crwd-could-151318401.html
+
+### 3 S&P 500 Stocks to Consider Right Now (source: StockStory)
+The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting themselves up for long-term success.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-consider-144458427.html
+
+### Investors Heavily Search CrowdStrike (CRWD): Here is What You Need to Know (source: Zacks)
+CrowdStrike (CRWD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.
+Link: https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-crowdstrike-crwd-130007570.html
+
+### A Software Glitch Nearly Sank CrowdStrike. This Boss Brought It Back from the Brink. (source: Barrons.com)
+Under co-founder and CEO George Kurtz, CrowdStrike moved past the crisis and strengthened its credibility as a cybersecurity provider.
+Link: https://www.barrons.com/articles/crowdstrike-george-kurtz-top-ceos-2026-0e80a239?siteid=yhoof2&yptr=yahoo
+
+### Got $1,000? 1 Unstoppable Cybersecurity Pioneer to Buy Hand Over Fist and Never Sell (source: 24/7 Wall St.)
+CrowdStrike (NASDAQ:CRWD) is a stock worth owning for decades because cybersecurity has quietly become a non-negotiable utility, and the Falcon platform now sits at the center of how the world’s largest enterprises secure both their existing infrastructure and the new wave of AI workloads that businesses cannot switch off even during a downturn. For a ... Got $1,000? 1 Unstoppable Cybersecurity Pioneer to Buy Hand Over Fist and Never Sell
+Link: https://247wallst.com/investing/2026/06/18/got-1000-1-unstoppable-cybersecurity-pioneer-to-buy-hand-over-fist-and-never-sell/
+
+### CrowdStrike, AWS race to fix AI security blind spot (source: TheStreet)
+CrowdStrike (CRWD) and Amazon Web Services are racing to close a security gap that most enterprises do not yet know they have. Companies are deploying AI agents into production faster than their security teams can monitor what those agents actually do once live. That mismatch, not the partnership ...
+Link: https://www.thestreet.com/technology/crowdstrike-aws-race-to-fix-ai-security-problem
+
+### Trump Administration Clears Delta in CrowdStrike Outage Probe, Ends Investigation Into Travel Meltdown That Impacted 1.3 Million Passengers (source: Benzinga)
+The Donald Trump administration has closed a federal investigation into Delta Air Lines’ handling of the CrowdStrike Holdings Inc.-related outage. Delta Cleared After Review of CrowdStrike Outage Response On Monday, the U.S. Department of Transportation said it had concluded its...
+Link: https://finance.yahoo.com/economy/policy/articles/trump-administration-clears-delta-crowdstrike-094554924.html
+
+### The Contracted Revenue Datadog Stock Bears Are Ignoring (source: Trefis)
+Beyond the impressive sales figures, one number in Datadog's filings offers a clearer view of its future growth and a surprising answer to the biggest risk.
+Link: https://www.trefis.com/articles/603358/the-contracted-revenue-datadog-stock-bears-are-ignoring/2026-06-17
+
+### Nasdaq, US stocks slide as Fed forecasts possible rate hike (source: Yahoo Finance Video)
+US stocks (^DJI, ^IXIC, ^GSPC) ended Wednesday's session in negative territory after Federal Reserve officials unanimously voted to hold interest rates at their June FOMC meeting today, while also forecasting at least one possible rate hike ahead. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the trading day's market reactions to the Fed's big decision. This was Kevin Warsh's first FOMC meeting he presided over as the new chairman of the Fed.
+Link: https://finance.yahoo.com/video/nasdaq-us-stocks-slide-as-fed-forecasts-possible-rate-hike-201525166.html
+
+### CrowdStrike's 4-for-1 Stock Split Is Coming July 2. Here's What You Need to Know Before It Happens. (source: Motley Fool)
+Here's everything investors need to know before the big day.
+Link: https://www.fool.com/investing/2026/06/17/crowdstrikes-4-for-1-stock-split-is-coming-july-2/
+
+### Dan Ives Predicts a Tesla-SpaceX Megamerger. Here’s What Investors Need to Know. (source: Barchart)
+A merger of Elon Musk's companies would be valued at $3.6 trillion.
+Link: https://www.barchart.com/story/news/2511742/dan-ives-predicts-a-tesla-spacex-megamerger-heres-what-investors-need-to-know
+
+### CrowdStrike (CRWD) Wins Grant Thornton Role And Launches AI Agent Identity Tool (source: Simply Wall St.)
+CrowdStrike (NasdaqGS:CRWD) was selected by Grant Thornton Advisors LLC as the unified foundation for its managed security services, centered on the Falcon platform. The collaboration focuses on deploying AI-powered managed detection and response solutions for Grant Thornton’s global client base. CrowdStrike also introduced Continuous Identity for AI Agents, a new capability that applies real-time, risk-aware authorization and identity enforcement to AI agent activity in enterprise...
+Link: https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-wins-grant-thornton-211213779.html
+
+### Stocks Indexes Finish Mostly Lower as Chipmakers Retreat (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.57%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.89%. June E-mini S&P futures (ESM26 ) fell -0.60%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2502375/stocks-indexes-finish-mostly-lower-as-chipmakers-retreat
+
+### The Dell Story Is No Longer Just About PCs. Here’s Why the Stock Still Looks Undervalued. (source: Barchart)
+The market may still be mispricing Dell's AI opportunity.
+Link: https://www.barchart.com/story/news/2500778/the-dell-story-is-no-longer-just-about-pcs-heres-why-the-stock-still-looks-undervalued
+
+### CrowdStrike Holdings (CRWD) Up More Than 17.5% in 30 Days, Is it a Stock to Buy and Hold for Long Term? (source: Insider Monkey)
+CrowdStrike Holdings, Inc. (NASDAQ:CRWD) has gained more than 17.5% over the past 30 days. Much of these gains are driven by record net new annual recurring revenue of $256 million in fiscal Q1 2027, driven by increased AI-driven security demand. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of our Top Stocks to Buy and Hold for […]
+Link: https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-more-17-185036306.html
+
+### A new technology is learning how to move money (source: TheStreet)
+For the past two years, the story of AI on Wall Street has mostly been about speed. Faster research, faster summaries, faster answers to questions an analyst would otherwise spend an afternoon on. That story is now changing shape. The systems now being built are not just answering questions about ...
+Link: https://www.thestreet.com/markets/a-new-technology-is-learning-how-to-move-money
+
+### Databricks strikes deal to buy Panther Labs in cybersecurity push (source: Reuters)
+Databricks said on Tuesday it had agreed to buy startup Panther Labs, as the U.S. ‌data analytics provider pushes deeper into the cybersecurity business.  The ‌acquisition, Databricks' third in this area, furthers its aim to compete with security management ​incumbents like CrowdStrike and Cisco's Splunk.  Databricks declined to comment on the deal terms.
+Link: https://finance.yahoo.com/technology/articles/databricks-strikes-deal-buy-panther-153151914.html
+
+### Broader Market Weakens as Energy and Software Stocks Fall (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.83%. June E-mini S&P futures (ESM26 ) are down -0.20%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2496862/broader-market-weakens-as-energy-and-software-stocks-fall
+
+### Can CrowdStrike's Next-Gen SIEM Sustain Its Strong Growth Momentum? (source: Zacks)
+CRWD's Next-Gen SIEM is gaining traction as customers consolidate security tools and expand adoption across the Falcon platform.
+Link: https://finance.yahoo.com/technology/articles/crowdstrikes-next-gen-siem-sustain-142600514.html
+
+### Stocks Supported by Lower Crude Oil Prices and Bond Yields (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.18%. June E-mini S&P futures (ESM26 ) are up +0.09%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2495519/stocks-supported-by-lower-crude-oil-prices-and-bond-yields
+
+### US closes probe into 2024 Delta Air Lines meltdown sparked by CrowdStrike outage (source: Reuters)
+June 15 () - The Trump administration said on ‌Monday it had ‌closed an investigation, without seeking ​any penalties, into a July 2024 meltdown at Delta Air Lines ‌sparked by ⁠a global outage from CrowdStrike that ⁠disrupted the travel plans of 1. The Biden ​administration ​opened a ‌probe into the incident after other major carriers were able to resume normal operations much ‌faster.
+Link: https://finance.yahoo.com/news/us-closes-probe-2024-delta-223459403.html
+
+### These 5 Companies Just Made a Massive Bet on Themselves (source: MarketBeat)
+Buybacks signal executive confidence in business and cash flow and provide leverage for investors that builds over time.
+Link: https://www.marketbeat.com/articles/these-5-companies-just-made-a-massive-bet-on-themselves/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### BB vs. CRWD: Which Cybersecurity Stock Is the Better Pick at Present? (source: Zacks)
+BlackBerry and CrowdStrike each present distinct cybersecurity opportunities, with QNX momentum, Falcon growth and AI-driven demand shaping the debate.
+Link: https://finance.yahoo.com/markets/stocks/articles/bb-vs-crwd-cybersecurity-stock-133200203.html
+
+### Wall Street's Latest Stock-Split Stock Is Up Over 1,000% Since IPO and Looks Like a Strong Candidate for More (source: Motley Fool)
+CrowdStrike has delivered solid returns for shareholders over the past year.
+Link: https://www.fool.com/investing/2026/06/15/wall-streets-latest-stock-split-is-up-over-1000-si/
+

@@ -1,0 +1,202 @@
+## AAPL News, from 2026-06-17 to 2026-07-01:
+
+### Apple is trying to address AI-related cybersecurity risks. What's going on? (source: Yahoo Finance Video)
+Apple (AAPL) is reportedly releasing early software updates to address AI cybersecurity concerns. Yahoo Finance Technology Editor Dan Howley takes a closer look in the video above.
+Link: https://finance.yahoo.com/video/apple-is-trying-to-address-ai-related-cybersecurity-risks-whats-going-on-202159291.html
+
+### Update: Dow Hits Fresh High as Wall Street Posts Solid Quarterly Gains (source: MT Newswires)
+(Updates with market moves at the end of the day.) The Dow Jones Industrial Average hit an new al
+Link: https://finance.yahoo.com/markets/stocks/articles/dow-hits-fresh-high-wall-204049573.html
+
+### What Could Send Google Stock Into A New Gear? (source: Trefis)
+Behind the "AI" hype lies the real story: a burgeoning order book that shows demand is overwhelming the company's capacity.
+Link: https://www.trefis.com/articles/605149/what-could-send-google-stock-into-a-new-gear/2026-06-30
+
+### Retail Trading in Magnificent Seven Falls to 6%, Citi Says (source: GuruFocus.com)
+Citi says retail participation in Magnificent Seven stocks hit a four-year low as investors increasingly favored ETFs over single stocks.
+Link: https://finance.yahoo.com/markets/stocks/articles/retail-trading-magnificent-seven-falls-202042345.html
+
+### American Express Adds Apple Pay Rewards Redemption for US Cardholders (source: GuruFocus.com)
+Members can now use Membership Rewards points at Apple Pay checkout for online and in-app purchases.
+Link: https://finance.yahoo.com/markets/stocks/articles/american-express-adds-apple-pay-201838820.html
+
+### How Microsoft Stock Rises 50% To $550? (source: Trefis)
+A new business inside Microsoft (MSFT) has quietly reached a massive scale. The company's AI segment has surpassed a $37 billion annual run rate, growing at an astonishing 123%. This new engine is already a significant portion of the Microsoft Cloud, which itself exceeded $54 billion in quarterly revenue. This is not a future promise; it is a present-day reality.
+Link: https://www.trefis.com/articles/605151/how-microsoft-stock-rises-50-to-550/2026-06-30
+
+### Sector Update: Tech Stocks Rise Late Afternoon (source: MT Newswires)
+Tech stocks advanced late Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF
+Link: https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194823514.html
+
+### Apple's Reported Push To Buy Chinese Memory Chips Isn't About Lower Prices, It's About Surviving A Worsening AI-Driven Supply Crunch, Says Analyst (source: Benzinga)
+Apple Inc.’s reported effort to secure access to memory chips from a Chinese supplier reflects mounting concerns over future chip availability rather than a search for lower costs, according to analyst Ming-Chi Kuo. AI Data Centers Are Reshaping The Global...
+Link: https://finance.yahoo.com/technology/ai/articles/apples-reported-push-buy-chinese-193124287.html
+
+### Apple’s China Memory Push Could Be a Win for AAPL Stock (source: Barchart)
+Apple's reported effort to source memory chips from China could lower component costs over time, but investors must balance those potential savings against growing geopolitical risks.
+Link: https://www.barchart.com/story/news/3061387/apples-china-memory-push-could-be-a-win-for-aapl-stock
+
+### Apple Just Acquired the Team Behind the Play App. What That Means for AAPL Stock. (source: Barchart)
+Another strategic acquisition puts Apple's innovation engine in the spotlight. Is it good news for investors?
+Link: https://www.barchart.com/story/news/3061292/apple-just-acquired-the-team-behind-the-play-app-what-that-means-for-aapl-stock
+
+### Apple’s looking at a politically radioactive fix for the memory crisis, and the US government isn’t happy about it (source: Digital Trends)
+Apple wants to buy memory from CXMT, a Chinese company on the Pentagon's blacklist, and it's lobbying the Trump administration for clearance to do exactly that.
+Link: https://www.digitaltrends.com/computing/apples-looking-at-a-politically-radioactive-fix-for-the-memory-crisis-and-the-us-government-isnt-happy-about-it/
+
+### Market Indexes Close Out June With a Tech-Fueled Tuesday Rally (source: Motley Fool)
+Chip stocks are rallying hard into the end of June. Here's what's driving the semiconductor surge.
+Link: https://www.fool.com/investing/2026/06/30/market-indexes-close-out-june-with-a-tech-rally/
+
+### Apple Inc. (AAPL) Is A Top Warren Buffett Stock Pick (source: Insider Monkey)
+Apple Inc. (NASDAQ:AAPL) is one of the 10 Best Long-Term Stocks to Buy Now According to Warren Buffett. Apple Inc. (NASDAQ:AAPL) is widely known for being Berkshire Hathaway’s first technology investment. The firm first disclosed a stake in the company in the first quarter of 2016. The stake came courtesy of 39 million shares that […]
+Link: https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-warren-172902225.html
+
+### Apple Is Raising Prices Due to Higher Memory Costs. Is the Stock in Trouble? (source: Motley Fool)
+The company is raising prices on just about everything except its iPhones -- for now.
+Link: https://www.fool.com/investing/2026/06/30/apple-is-raising-prices-due-to-higher-memory-costs/
+
+### US Supreme Court to hear Apple appeal of contempt in Epic Games lawsuit (source: Reuters)
+The U.S. Supreme Court agreed on Tuesday to hear Apple's bid to escape being found in contempt in its legal fight with "Fortnite" maker Epic Games after the iPhone maker was deemed in ‌violation of a judicial order mandating sweeping changes to its lucrative App Store in the antitrust litigation.  The justices took up ‌Apple's appeal of a lower court's ruling upholding a decision by Oakland, California-based U.S. District Judge Yvonne Gonzalez Rogers finding Apple in contempt in Epic's 2020 lawsuit contesting ​App Store fees.  The Supreme Court is expected to hear the case in its next term, which begins in October.
+Link: https://finance.yahoo.com/technology/articles/us-supreme-court-hear-apple-161008703.html
+
+### iPhone users could save money under App Store crackdown (source: The Telegraph)
+Millions of iPhone users could save on app subscription costs under plans from the competition watchdog to make it easier to bypass Apple’s fees.
+Link: https://www.telegraph.co.uk/business/2026/06/30/iphone-users-could-save-money-under-app-store-crackdown/
+
+### Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car (source: Reuters Videos)
+<body><p>STORY: From Tesla's self-driving challenges in Europe... to South Korea's chip and AI mega-projects...</p><p>This is Tech Weekly.</p><p>:: Tech Weekly</p><p>European regulators are to meet and discuss whether to roll out Tesla's supervised Full Self-Driving system across the region.</p><p>The tech is already available in the U.S. and is expected to boost the EV maker's sales in Europe.</p><p>But it's divided the continent's regulators.</p><p>Ahead of a crucial vote — not expected before October — some countries have individually authorized&nbsp;the system.</p><p>But others have raised safety concerns, including about its ability to drive above legally posted speed limits.</p><p>:: Archive</p><p>Details and photos of Apple’s upcoming iPhone 18 Pro are among files posted on the dark web.</p><p>That’s according to a source and documents seen by Reuters.</p><p>The material is reportedly part of files posted by a ransomware group that stole data from Apple supplier Tata Electronics.</p><p>The exposure could threaten the Indian firm’s relationship with the U.S. giant.</p><p>Documents reviewed by Reuters show details of parts including the new phone’s main circuit board, batteries and cameras.</p><p>Comcast said it will split into two publicly traded companies, separating its media and entertainment brands from its broadband cable and wireless businesses.</p><p>:: Comcast</p><p>The announcement sent its shares up as much as 17% at one point.</p><p>:: Universal Orlando Resort</p><p>Comcast would spin off NBCUniversal and Sky to create a company that includes NBC, Peacock, Universal theme parks, and film and TV studios.</p><p>The other company would be comprised of Comcast's cable, wireless and business services divisions.</p><p>South Korea rolled out sweeping chip and AI mega-projects.</p><p>President Lee Jae Myung pledged investments worth more than $576 billion over several years.</p><p>:: SK Hynix&nbsp;</p><p>It’s a move that aims to cement the nation’s overwhelming industry leadership.</p><p>Lee was joined for the announcement by the leaders of Samsung Electronics and SK Hynix.</p><p>Shell unveiled a small electric concept car that it says can recharge in under 10 minutes.</p><p>It uses a special cooling fluid to help stop the battery overheating.</p><p>Shell said the car, called the Triple 10 Challenge, charged from 10% to 80% in 9 minutes and 54 seconds on a 175 kW public fast charger.</p><p>It describes the car as a road-worthy proof-of-concept vehicle.</p><p>Toby Rockstroh is energy application testing manager at Shell Technology Center.&nbsp;</p><p>"When we looked at battery electric vehicles, they're getting bigger and larger and heavier, so we set ourselves the challenge saying we can have a smaller battery electric vehicle that can charge fast and be convenient,"</p></body>
+Link: https://finance.yahoo.com/video/tech-weekly-teslas-fsd-tech-150316070.html
+
+### Micron and Apple Trade Blame as Prices Soar on Laptops, Phones, and More (source: Barrons.com)
+Micron told Barron’s that purchasing decisions made by large customers in 2023 are partly to blame for the current shortage of memory chips.
+Link: https://www.barrons.com/articles/apple-iphone-price-micron-stock-0d9caba3?siteid=yhoof2&yptr=yahoo
+
+### YOLO Crowd Wants Little to Do With Tech Megacaps It Once Adored (source: Bloomberg)
+(Bloomberg) -- Retail investors’ activity in the technology stocks known as the “Magnificent Seven” hit a four-year low in recent days after having been muted for months, according to Citigroup Inc. equity strategists.Most Read from BloombergSpaceX IPO Left Mirae With No Shares on MisunderstandingYen Hits Four-Decade Low in Historic Slide That’s Rattled JapanWhatsApp Opens Username Reservations to 3 Billion UsersTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsIran Ratchets Up Talk
+Link: https://finance.yahoo.com/markets/stocks/articles/yolo-crowd-wants-little-tech-144957287.html
+
+### 3 Reasons Apple Stock Is No Longer a Buy (source: Motley Fool)
+Long-time investors should probably not sell, but investors should maybe think twice about adding shares.
+Link: https://www.fool.com/investing/2026/06/30/3-reasons-apple-stock-is-no-longer-a-buy/
+
+### The Zacks Analyst Blog Highlights Apple, Tokyo Electron, Advantest and Infineon (source: Zacks)
+Apple's chip-related pricing moves and Asian semiconductor stocks take center stage as investors weigh AI momentum heading into the second half of 2026.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-135000454.html
+
+### Luxshare Precision launches $3.1 billion Hong Kong IPO (source: Quartz)
+The Shenzhen-listed iPhone and AirPods assembler is offering 383.5 million shares at a maximum price of HK$63.28 each
+Link: https://qz.com/luxshare-precision-hong-kong-share-sale-3-billion-063026
+
+### Apple Price Hikes Sent AAPL Stock Falling. They May Not Even Matter in the Long Term. (source: Barchart)
+Although the product price hikes led to Apple’s stock dropping, Morgan Stanley believes it may not matter.
+Link: https://www.barchart.com/story/news/3055219/apple-price-hikes-sent-aapl-stock-falling-they-may-not-even-matter-in-the-long-term
+
+### Zacks Investment Ideas feature highlights: Apple and Alphabet (source: Zacks)
+Apple and Alphabet headline Zacks' July investing ideas as technical, seasonal and market breadth signals point to a potential buying opportunity.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-131800036.html
+
+### Magnificent Seven shed $2.3 trillion in June as AI spending comes under closer scrutiny (MSFT) (source: InvestorsHub)
+Investor sentiment shifts toward infrastructure costsThe so-called “Magnificent Seven” technology stocks have collectively lost around $2. 3 trillion in market value during June as investors reassessed the scale of artificial intelligence infrastructure spending by the sector’s largest companies.
+Link: https://investorshub.advfn.com/market-news/article/31224/magnificent-seven-shed-2-3-trillion-in-june-as-ai-spending-comes-under-closer-scrutiny-msft
+
+### Wolfe sees higher memory prices adding to U.S. inflation pressures (source: Investing.com)
+Investing.com -- Wolfe Research said surging memory chip prices driven by the artificial intelligence buildout have already added meaningfully to core inflation, with further upside likely as costs continue to filter through the consumer electronics supply chain.
+Link: https://finance.yahoo.com/economy/articles/wolfe-sees-higher-memory-prices-125032671.html
+
+### Magnificent 7 stocks lose $2.3 trillion in June (source: Investing.com)
+Investing.com -- The "Magnificent 7" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutiny of large infrastructure spending by these firms.
+Link: https://finance.yahoo.com/markets/stocks/articles/magnificent-7-stocks-lose-2-122836497.html
+
+### 5 Things to Know Before the Stock Market Opens on Tuesday (source: Investopedia)
+News of the day for June 30, 2026
+Link: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-tuesday-june-30-2026-12009390
+
+### Apple Supplier Luxshare Plans Hong Kong Share Sale (source: GuruFocus.com)
+Hong Kong listing could boost funding flexibility.
+Link: https://finance.yahoo.com/markets/stocks/articles/apple-supplier-luxshare-plans-hong-122639512.html
+
+### 'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage (source: Moneywise)
+Apple raised prices across its lineup this week and blamed the chipmakers that supply its memory. One of those suppliers tells a different story about how the shortage started.
+Link: https://finance.yahoo.com/markets/stocks/articles/not-constructive-tim-cook-blames-121500109.html
+
+### Apple Supplier Leak Exposes iPhone 18 Details (source: GuruFocus.com)
+Apple supplier Tata reportedly had iPhone 18 Pro files posted on the dark web.
+Link: https://finance.yahoo.com/markets/stocks/articles/apple-supplier-leak-exposes-iphone-121410097.html
+
+### Magnificent Seven stocks lose $2.3 trillion as AI fears mount (source: Quartz)
+Amazon, Microsoft, Alphabet, and Meta have committed hundreds of billions of dollars to chip purchases and data center construction
+Link: https://qz.com/magnificent-seven-stocks-trillion-loss-ai-spending-063026
+
+### Invesco QQQ Is Magnificent, but This 1 ETF Might Be Even Better Right Now (source: Motley Fool)
+This ETF provides investors with a way to stay invested in the Nasdaq-100 while reducing high-concentration risk.
+Link: https://www.fool.com/investing/2026/06/30/invesco-qqq-magnificent-this-etf-might-better-qqqe/
+
+### Amazon to Buy Half the Carbon Credits From Bacon Tree Project (source: Bloomberg)
+(Bloomberg) -- Amazon.com Inc. said it will buy just less than half of the carbon credits to be generated by a project to restore degraded land in South Africa by planting thickets of Spekboom, a plant that sequesters carbon dioxide and helps soil retain water. Most Read from BloombergYen Hits Four-Decade Low in Historic Slide That’s Rattled JapanWhatsApp Opens Username Reservations to 3 Billion UsersTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsIran Ratchets Up Talk of Controll
+Link: https://finance.yahoo.com/energy/articles/amazon-buy-half-carbon-credits-120000276.html
+
+### Trump Tariff Defeat Is Market Tailwind ‘No One Is Talking About’ (source: Bloomberg)
+(Bloomberg) -- The sweeping tariffs underpinning President Donald Trump’s economic policy may have gone from a headwind to a tailwind for the stock market, with the Supreme Court’s decision to unwind them setting the stage for a potential earnings boon for some companies.Most Read from BloombergYen Hits Four-Decade Low in Historic Slide That’s Rattled JapanWhatsApp Opens Username Reservations to 3 Billion UsersTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsUS Stocks Get Tech Boos
+Link: https://finance.yahoo.com/markets/stocks/articles/trump-tariff-defeat-market-tailwind-115405590.html
+
+### This Stock is My Biggest Bet For July (source: 24/7 Wall St.)
+I keep hitting the buy button on Apple (NASDAQ:AAPL), and July is the month I am leaning in hardest. The pullback over the last month gave me the entry I wanted, and the catalyst I have been waiting on lands on the calendar in roughly four weeks. This is the position I have been adding ... This Stock is My Biggest Bet For July
+Link: https://247wallst.com/investing/2026/06/30/this-stock-is-my-biggest-bet-for-july/
+
+### Dow Builds on 52,000 Breakthrough as Markets Rise to Close a Strong First Half (source: Barrons.com)
+U.S. stocks were headed for modest gains early Tuesday as markets look to close out the first half of the year on a positive note. Dow Jones Industrial Average futures were up 103 points, or 0.2%. S&P 500 futures were up 0.
+Link: https://www.barrons.com/livecoverage/stock-market-news-today-063026/card/dow-builds-on-52000-breakthrough-as-stock-futures-rise-to-close-a-strong-first-half-syFcw16rc530kwEoEi5v?siteid=yhoof2&yptr=yahoo
+
+### Jensen Huang Says an AI Supercomputer Could Become Common in the Home — The Implications for Consumer‑Side Compute are Huge (source: 24/7 Wall St.)
+Nvidia‘s (NASDAQ:NVDA) legendary top boss may very well be playing a game of chess while others in the AI scene play checkers. Undoubtedly, with the Vera Rubin era on the horizon and no hesitation from the mega-cap tech giants who are expected to keep on spending mouth-watering sums on CapEx (a lot of which is ... Jensen Huang Says an AI Supercomputer Could Become Common in the Home — The Implications for Consumer‑Side Compute are Huge
+Link: https://247wallst.com/investing/2026/06/30/jensen-huang-says-an-ai-supercomputer-could-become-common-in-the-home-the-implications-for-consumer%e2%80%91side-compute-are-huge/
+
+### Loop Says Apple (AAPL) Is Looking to China for Memory Supply Relief (source: Insider Monkey)
+Apple (NASDAQ:AAPL) is one of the 14 AI Stocks Making Moves on Wall Street: Nvidia, Micron, and More. On June 29, Loop reiterated the stock as “Buy.” The firm noted that its channel checks show Apple is looking into China for “memory relief.” Following up on our previous trail of breadcrumbs pointing towar ds AAPL […]
+Link: https://finance.yahoo.com/markets/stocks/articles/loop-says-apple-aapl-looking-102616625.html
+
+### Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk (source: 24/7 Wall St.)
+Trade tensions appeared to cool after the U.S. and European Union reached a trade agreement capping most EU exports to the U.S. with a 15% tariff ceiling. For investors, that looked like a welcome step toward greater certainty after months of tariff negotiations. Yet trade policy rarely stays settled for long. President Trump has now ... Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk
+Link: https://247wallst.com/investing/2026/06/30/trump-threatens-100-tariffs-over-digital-taxes-these-5-tech-stocks-are-most-at-risk/
+
+### High Memory Costs Are Increasing AI Development Costs. Time to Sell AI Stocks? (source: Motley Fool)
+Apple raised prices on some of its products to account for higher memory costs, which could have implications across the AI sector.
+Link: https://www.fool.com/investing/2026/06/30/high-memory-costs-ai-development-costs-stock/
+
+### UK watchdog proposes changes to Apple and Google’s app stores payment rules (source: PA Media: Money)
+The CMA is consulting on forcing the tech giants to allow developers to steer customers away from their platforms for payment.
+Link: https://uk.finance.yahoo.com/news/uk-watchdog-proposes-changes-apple-083742489.html
+
+### AAPL Stock Dips Premarket: Report Says Apple Is 'Concerned' Over Tata Data Leak Exposing Confidential iPhone Files (source: Stocktwits)
+Apple considers the details as sensitive and is concerned about the documents being shared on the dark web, a person familiar with ‌the matter told Reuters.
+Link: https://stocktwits.com/news-articles/markets/equity/aapl-stock-dips-premarket-report-says-apple-is-concerned-over-tata-data-leak-exposing-confidential-i-phone-files/cZ1QOJ4R7iL
+
+### Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow (source: Motley Fool)
+Among Nvidia, Apple, Alphabet, Microsoft, Amazon, Taiwan Semi, SpaceX, Broadcom, Tesla, Meta, Micron, Eli Lilly, and Berkshire Hathaway, there are a handful of bargains and pretenders.
+Link: https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/
+
+### Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings (source: Bloomberg)
+(Bloomberg) -- Chip stocks are heading for their best quarter ever, extending an extraordinary start to the year driven by insatiable demand for artificial intelligence equipment. But after recent jitters sent the stocks tumbling, investors are wondering how much further the rally can go. Most Read from BloombergYen Hits Four-Decade Low in Historic Slide That’s Rattled JapanTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsWhatsApp Opens Username Reservations to 3 Billion UsersUS St
+Link: https://finance.yahoo.com/markets/stocks/articles/chip-stocks-best-quarter-ever-090051148.html
+
+### UK regulator considers opening Apple, Google app stores to rival payments (source: Reuters)
+Britain's competition regulator on Tuesday proposed allowing app developers to steer users to alternative payment options outside Apple and Alphabet's Google app stores to cut fees and boost competition.  The Competition ‌and Markets Authority said the proposals would remove restrictions that currently prevent UK developers from directing users to off-platform ‌payment options, which are banned by Apple and restricted by Google.  The watchdog said any fees charged by two of the world's largest technology companies for allowing ​such "steering" would need to be fair and reasonable, and should be lower than current app store commissions, with savings passed on to consumers or reinvested in innovation.
+Link: https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html
+
+### Apple Supplier Luxshare Set for Hong Kong’s Biggest Listing This Year (source: The Wall Street Journal)
+Apple supplier Luxshare Precision Industry is gauging investor interest for a $3.1 billion Hong Kong listing amid a fundraising frenzy for tech-related stocks.
+Link: https://www.wsj.com/business/apple-supplier-luxshare-set-for-hong-kongs-biggest-listing-so-far-this-year-032391a8?siteid=yhoof2&yptr=yahoo
+
+### Apple (AAPL) Seeks Blacklisted China Chip Approval As Supplier Breach Raises Risk (source: Simply Wall St.)
+Apple has reportedly asked the US government for approval to buy memory chips from blacklisted Chinese supplier ChangXin Memory Technologies during an AI driven chip shortage. A separate ransomware attack on Indian supplier Tata Electronics has led to a leak of sensitive iPhone 18 Pro component and manufacturing data. These developments raise fresh questions about Apple's supply chain resilience, regulatory exposure and data security ahead of future hardware launches. Apple, ticker...
+Link: https://finance.yahoo.com/markets/stocks/articles/apple-aapl-seeks-blacklisted-china-060756483.html
+
+### Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation (source: Financial Times)
+The Magnificent Seven group of megacap tech stocks has shed more than $2.3tn of value this month, in a violent rotation away from companies spending...
+Link: https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-shed-2-040018604.html
+
+### MU Stock Caps Best First Half Ever With 4x Surge, Cracks S&P 500’s Top 10: Retail Bulls Want More (source: Stocktwits)
+Micron is now 1.9% of the benchmark index in terms of weight.
+Link: https://stocktwits.com/news-articles/markets/equity/mu-stock-caps-best-first-half-ever-with-4x-surge-cracks-s-and-p-500-s-top-10-retail-bulls-want-more/cZ1QTHRR7Lz
+

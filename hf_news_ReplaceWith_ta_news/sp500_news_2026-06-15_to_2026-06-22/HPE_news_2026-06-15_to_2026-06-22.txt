@@ -1,0 +1,158 @@
+## HPE News, from 2026-06-15 to 2026-06-22:
+
+### 3 AI Tech Stocks That Just Crushed Earnings: Are They Still Buys for the Long Term? (source: Motley Fool)
+Hewlett Packard Enterprise, Micron, and Palantir blew away analysts' expectations last quarter.
+Link: https://www.fool.com/investing/2026/06/21/3-ai-stocks-crushed-earnings-buys-long-term/
+
+### AI And Post‑Quantum Push Could Be A Game Changer For TD SYNNEX (SNX) (source: Simply Wall St.)
+Earlier this week, TD SYNNEX expanded its role in artificial intelligence and security distribution by adding new independent software vendor solutions to the HPE Unleash AI portfolio and collaborating with EigenQ to help AMD EPYC-based environments prepare for post-quantum security requirements. Together, these moves deepen TD SYNNEX’s position at the intersection of AI infrastructure and quantum-resilient cybersecurity, areas that many enterprise and public-sector buyers are actively...
+Link: https://finance.yahoo.com/technology/ai/articles/ai-post-quantum-push-could-161411782.html
+
+### Cisco is Overvalued at 7.01X P/S: Should You Still Buy the Stock? (source: Zacks)
+CSCO's AI infrastructure orders, network refresh cycle and security momentum support its premium valuation and long-term growth prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-overvalued-7-01x-p-154600772.html
+
+### Record AI Backlog and Swelling Cash Flows Make HP Enterprise Stock Attractive (source: Barchart)
+HP Enterprise announced its partnership with several companies on quantum computing.
+Link: https://www.barchart.com/story/news/2557067/record-ai-backlog-and-swelling-cash-flows-make-hp-enterprise-stock-attractive
+
+### HPE Expands AI Factory with NVIDIA (NVDA) to Support Agentic AI and Autonomous Workflows (source: Insider Monkey)
+NVIDIA Corporation (NASDAQ:NVDA) is one of the best US stocks to buy and hold for the next 5 years. On June 16, HPE expanded its “HPE AI Factory with NVIDIA (NVDA)” portfolio to better support agentic AI, adding the NVIDIA Vera CPU for agent orchestration and the NVIDIA Agent Toolkit to safely manage autonomous multi-agent […]
+Link: https://finance.yahoo.com/technology/ai/articles/hpe-expands-ai-factory-nvidia-102213294.html
+
+### Cinemark Holdings and 4 More Stocks Get Analyst Attention (source: Barrons.com)
+Analysts also report on Boot Barn Holdings, Roper Technologies, Sphere Entertainment, and Hewlett Packard Enterprise.
+Link: https://www.barrons.com/articles/analysts-report-on-cinemark-holdings-and-4-more-stocks-f5ca342f?siteid=yhoof2&yptr=yahoo
+
+### 3 Hidden AI Revolution Stocks to Buy Now (source: Zacks)
+Forget NVIDIA. These companies are winners in the AI Revolution too.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-hidden-ai-revolution-stocks-194600239.html
+
+### Super Micro Is Up 10% Today: Is It Outperforming Other AI Server Stocks Like Dell? (source: 24/7 Wall St.)
+Shares of Super Micro Computer (NASDAQ:SMCI) are up 10% in on Thursday, June 18, trading at $30 and change. The move makes Super Micro Computer stock the clear standout among major AI server names on the tape today. By contrast, Dell Technologies (NYSE:DELL) stock is flat at $417, while Hewlett Packard Enterprise (NYSE:HPE) stock is ... Super Micro Is Up 10% Today: Is It Outperforming Other AI Server Stocks Like Dell?
+Link: https://247wallst.com/investing/2026/06/18/super-micro-is-up-9-today-is-it-outperforming-other-ai-server-stocks-like-dell/
+
+### 4 High-Potential PEG Value Stocks That You Can Buy Today (source: Zacks)
+Dow, Hewlett Packard, StoneCo and Intercorp lead a PEG-based value screen highlighting discounted valuations and earnings growth potential.
+Link: https://finance.yahoo.com/markets/stocks/articles/4-high-potential-peg-value-190000702.html
+
+### Top AI Stocks to Add to Your Portfolio for Impressive Returns (source: Zacks)
+Here, we have picked three AI stocks, MU, DELL and HPE, which are well-poised to benefit from AI's growing use and ability to solve complex problems.
+Link: https://finance.yahoo.com/technology/ai/articles/top-ai-stocks-add-portfolio-160400428.html
+
+### 4 Stocks Trading Near 52-Week High With Room to Rise Further (source: Zacks)
+Investors target stocks that have been on a bullish run. Stocks like MUSA, DVA, HPE and VSH are seeing price strength, and the momentum is likely to continue.
+Link: https://finance.yahoo.com/markets/stocks/articles/4-stocks-trading-near-52-152800348.html
+
+### 1 Mooning  Stock to Target This Week and 2 We Question (source: StockStory)
+Great things are happening to the stocks in this article. They’re all outperforming the market over the last month because of positive catalysts such as a new product line, constructive news flow, or even a loyal Reddit fanbase.
+Link: https://finance.yahoo.com/markets/stocks/articles/1-mooning-stock-target-week-142928367.html
+
+### Can SMCI's $7 Billion Capital Raise Plan Help it Sustain AI Growth? (source: Zacks)
+Super Micro Computer's planned capital raise aims to fund AI server demand, debt repayment and expansion as it scales datacenter infrastructure capacity.
+Link: https://finance.yahoo.com/technology/ai/articles/smcis-7-billion-capital-raise-142100854.html
+
+### Nvidia Claims No. 1 Spot in $10 Billion AI Networking Market (source: GuruFocus.com)
+Nvidia Wins One of the Biggest Battles in the AI Infrastructure Race
+Link: https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html
+
+### Rigetti Computing (RGTI) Stock Could Be 26.5% Overvalued After $100 Million Funding Deal (source: Simply Wall St.)
+Rigetti Computing (RGTI) is back in focus after signing a letter of intent with the U.S. Department of Commerce for up to US$100 million in superconducting quantum R&D funding and joining HPE’s hybrid quantum supercomputing consortium. See our latest analysis for Rigetti Computing. For context, Rigetti Computing’s share price has been volatile, with a 1 month share price return of 21.81% and a 3 month share price return of 31.38%. Yet year to date the share price is down 14.22%, while the 1...
+Link: https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-stock-could-081629466.html
+
+### ServiceNow (NOW) Expands Agentic AI With Wipro Digimarc And HPE Partnerships (source: Simply Wall St.)
+ServiceNow (NYSE:NOW) has expanded its agentic AI workflow ecosystem through new partnerships with Wipro, Digimarc, and HPE. Wipro is deploying agentic AI workflows on the ServiceNow platform to help move customers from pilots to broad enterprise rollout. Digimarc is integrating provenance and cryptographic verification into ServiceNow AI agents and Action Fabric to support trustworthy AI outputs. HPE is working with ServiceNow to offer unified agentic AIOps and AI-driven service delivery...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-expands-agentic-ai-031541496.html
+
+### Is ServiceNow (NOW) Quietly Becoming the Core Orchestrator of Enterprise AI Governance? (source: Simply Wall St.)
+In recent weeks, partners including IBM, Cognizant, Wipro, NICE, Phenom, HPE and Digimarc have announced expanded collaborations and integrations with ServiceNow’s AI Platform to modernize legacy systems, tighten AI governance, and embed agentic AI across IT, HR and customer service workflows. These moves highlight ServiceNow’s role as an orchestration layer for enterprise AI, where trusted data, governance and cross‑platform workflows become as important as the underlying models...
+Link: https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-core-021137992.html
+
+### The Quiet Acceleration In SanDisk Stock Before The Roar (source: Trefis)
+Before the memory chip maker posted a forty-five hundred-percent gain, its financial statements were already showing a subtle but powerful shift that most of the market seemed to miss.
+Link: https://www.trefis.com/articles/603352/the-quiet-acceleration-in-sandisk-stock-before-the-roar/2026-06-17
+
+### How Western Digital Became An AI Landlord (source: Trefis)
+A once-cyclical hardware maker just posted video-game numbers, but the story behind its thousand-percent run is all about the rent.
+Link: https://www.trefis.com/articles/603339/how-western-digital-became-an-ai-landlord/2026-06-17
+
+### Sector Update: Tech Stocks Rise Late Afternoon (source: MT Newswires)
+Tech stocks were higher late Wednesday afternoon, with the State Street Technology Select Sector SPD
+Link: https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-193838861.html
+
+### Sector Update: Tech Stocks Rise Wednesday Afternoon (source: MT Newswires)
+Tech stocks were higher Wednesday afternoon, with the State Street Technology Select Sector SPDR ETF
+Link: https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-wednesday-173108363.html
+
+### Hewlett Packard Enterprise (HPE) Stock Could Be 24.6% Undervalued After AI Networking Push (source: Simply Wall St.)
+Hewlett Packard Enterprise (HPE) is in focus after rolling out new AI focused networking products, deeper Juniper integration, and Nvidia powered AI Factory updates designed to simplify large scale AI deployments for enterprise customers. See our latest analysis for Hewlett Packard Enterprise. Hewlett Packard Enterprise stock has been riding a strong AI and networking story, with a 30-day share price return of 46.16% and a year-to-date share price return of 100.17%, while the 1-year total...
+Link: https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-stock-151823215.html
+
+### HPE (NYSE:HPE) Unveils AI Networking Security And Quantum Push (source: Simply Wall St.)
+Hewlett Packard Enterprise (NYSE:HPE) announced a new set of AI-driven networking, security, and quantum computing offerings. The company is integrating Juniper switches into its Mist platform for unified AI-native network control. HPE introduced agentic AIOps capabilities designed to support self-healing networks and AI-optimized switches. The company rolled out a unified SASE security platform aimed at large enterprise environments. HPE also expanded collaborations focused on hybrid...
+Link: https://finance.yahoo.com/technology/ai/articles/hpe-nyse-hpe-unveils-ai-111041885.html
+
+### HPE (HPE) Stock Sees Fair Value Lift After Q2 Spurs Analyst Target Increases (source: Simply Wall St.)
+Hewlett Packard Enterprise is back in focus after a sharp reset in valuation views, with one fair value estimate moving from US$29.92 to US$64.13 per share based on refreshed assumptions. The shift lines up with more constructive Street commentary following Q2 results, where analysts are debating how much of the story rests on enterprise AI infrastructure, server and cloud momentum, and the balance between pricing and unit demand. In the sections that follow, you will see how this evolving...
+Link: https://finance.yahoo.com/markets/stocks/articles/hpe-hpe-stock-sees-fair-091158732.html
+
+### Zacks.com featured highlights include Dell, Hewlett Packard and Taiwan Semiconductor (source: Zacks)
+Dell Technologies, Hewlett Packard and Taiwan Semiconductor stand out as dividend-growth stocks as investors seek stability amid falling oil prices.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-dell-071500884.html
+
+### Arista’s Very Good, Very Bad Year (source: Trefis)
+The networking company is drowning in the best demand its CEO has ever seen, and that’s precisely the problem.
+Link: https://www.trefis.com/articles/603097/aristas-very-good-very-bad-year/2026-06-16
+
+### AI Powers Arista Networks Stock, But Its Real Strength Lies Elsewhere (source: Trefis)
+The networking giant is one of the market's hottest stocks, but its real value to your portfolio lies in a story that's partly its own.
+Link: https://www.trefis.com/articles/603103/ai-powers-arista-networks-stock-but-its-real-strength-lies-elsewhere/2026-06-16
+
+### Western Digital Stock's Thousand-Percent Question (source: Trefis)
+The data storage giant is on a historic run fueled by an AI super-story, but the market is now pricing in something close to perfection.
+Link: https://www.trefis.com/articles/603107/western-digital-stocks-thousand-percent-question/2026-06-16
+
+### HPE Flexes Juniper Muscles In AI Networking At Discover Event (source: Investor's Business Daily)
+HPE played up a one-two punch in the emerging AI market, recently acquired Juniper Networks playing a big part in its strategy.
+Link: https://www.investors.com/news/technology/hpe-stock-discover-conference-juniper-artificial-intelligence/?src=A00220&yptr=yahoo
+
+### The Best Soaring "Strong Buy" Stocks to Buy Now as the Market Rebounds (source: Zacks)
+How investors can find the best "Strong Buy" momentum stocks to add to their portfolios right now in June and heading into the second half of 2026.
+Link: https://finance.yahoo.com/markets/stocks/articles/best-soaring-strong-buy-stocks-193000008.html
+
+### 3 Dividend Growth Stocks to Buy as Global Oil Prices Tumble (source: Zacks)
+Global oil prices hit a 3-month low, and stocks like DELL stand out for revenue growth, earnings outlooks, and dividend payouts.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-dividend-growth-stocks-buy-181200811.html
+
+### Cisco Systems Capitalizes on AI Networking Boom: More Upside Ahead? (source: Zacks)
+CSCO rides on AI networking demand as Q3 revenues rise 125 to $15.8B, with networking up 25% and orders surging across segments.
+Link: https://finance.yahoo.com/technology/articles/cisco-systems-capitalizes-ai-networking-165100785.html
+
+### Hewlett Packard and M-tron have been highlighted as Zacks Bull and Bear of the Day (source: Zacks)
+HPE earns Bull of the Day after record Q2 results and a raised FY26 outlook, while M-tron faces valuation, margin and defense-spending risks.
+Link: https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-m-tron-highlighted-123400005.html
+
+### Bull of the Day: Hewlett Packard (HPE) (source: Zacks)
+Hewlett Packard (HPE) remains a relatively overlooked beneficiary of enterprise AI infrastructure spending.
+Link: https://finance.yahoo.com/markets/stocks/articles/bull-day-hewlett-packard-hpe-080000218.html
+
+### HPE Stock Eyes Fourth Straight Monthly Win: Quantum Tie-Ups With INTC, RGTI Aren't Moving Retail's Needle (source: Stocktwits)
+The company’s partnerships with eight quantum computing firms aim to build hybrid quantum-supercomputing platforms.
+Link: https://stocktwits.com/news-articles/markets/equity/hpe-stock-eyes-fourth-straight-monthly-win-quantum-tie-ups-with-intc-rgti/cZKW1PzR7EK
+
+### Dell Stock And The Best Kind Of Problem (source: Trefis)
+Management just raised the roof on its forecasts, but they also admitted customers are panic-buying. So what exactly are you paying for.
+Link: https://www.trefis.com/articles/602909/dell-stock-and-the-best-kind-of-problem/2026-06-15
+
+### 1 Stock Under $50 to Target This Week and 2 We Question (source: StockStory)
+Stocks in the $10-50 range offer a sweet spot between affordability and stability as they’re typically more established than penny stocks. But their headline prices don’t guarantee quality, and investors should exercise caution as some have shaky business models.
+Link: https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-target-142007987.html
+
+### Chip startup Tensordyne expects $200 million in orders for AI system to rival Nvidia (source: Reuters)
+June 15 (Reuters) - Tensordyne said on Monday it expects more than $200 million in orders for its new inference system, as the AI chip startup positions itself as a direct challenger to Nvidia in a
+Link: https://finance.yahoo.com/sectors/technology/articles/chip-startup-tensordyne-expects-200-140157037.html
+
+### Hewlett Packard Enterprise Stock: Is HPE Outperforming the Technology Sector? (source: Barchart)
+Hewlett Packard has notably outperformed the Technology sector over the past year, and analysts are cautiously optimistic about the stock’s prospects.
+Link: https://www.barchart.com/story/news/2471291/hewlett-packard-enterprise-stock-is-hpe-outperforming-the-technology-sector
+

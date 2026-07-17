@@ -1,0 +1,1 @@
+Error fetching news for CNP: 'NoneType' object has no attribute 'get'

@@ -1,0 +1,202 @@
+## TXN News, from 2026-06-08 to 2026-06-22:
+
+### Texas Instruments (TXN) Launches A Battery Monitor Built For EVs And Energy Storage (source: Simply Wall St.)
+Texas Instruments (NasdaqGS:TXN) released a high cell count battery monitor with integrated advanced diagnostics for electric vehicles and energy storage systems. The new device introduces predictive intelligence and real time cell diagnostics to support safety, efficiency, and scalability in next generation designs. The launch targets energy management needs in automotive and data center markets tied to AI workloads and sustainability goals. For investors tracking Texas Instruments, the...
+Link: https://finance.yahoo.com/technology/articles/texas-instruments-txn-launches-battery-210650341.html
+
+### 3 Semiconductor Stocks We’re Skeptical Of (source: StockStory)
+Semiconductors are the silicon backbone of the digital revolution. Compute-intensive AI workloads are also priming them for the next wave of secular growth, so it’s no wonder the industry has outperformed the market over the past six months, delivering returns of 125% compared to 8.9% for the S&P 500.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-skeptical-130858651.html
+
+### Strength Seen in Texas Instruments (TXN): Can Its 7.0% Jump Turn into More Strength? (source: Zacks)
+Texas Instruments (TXN) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.
+Link: https://finance.yahoo.com/markets/stocks/articles/strength-seen-texas-instruments-txn-120600465.html
+
+### 2 Pick-and-Shovel AI Stocks Powering the Data Center Boom (source: Motley Fool)
+The need for greater power efficiency is benefiting these companies.
+Link: https://www.fool.com/investing/2026/06/19/2-ai-stocks-powering-data-center-boom/
+
+### Where Applied Materials Stock Is Most Exposed (source: Trefis)
+The company's AI-fueled growth story is compelling, but a single number buried in its earnings report reveals a significant geopolitical vulnerability.
+Link: https://www.trefis.com/articles/603588/where-applied-materials-stock-is-most-exposed/2026-06-18
+
+### The Real Price Tag On Broadcom Stock Is Not What It Seems (source: Trefis)
+The chipmaker looks expensive on today's numbers, but a patient investor is buying into a much more reasonable valuation three years from now.
+Link: https://www.trefis.com/articles/603595/the-real-price-tag-on-broadcom-stock-is-not-what-it-seems/2026-06-18
+
+### Stocks Supported as Geopolitical Risks Recede (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.99%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.16%. September E-mini S&P futures (ESU26 ) are up +0.99%, and September E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2539862/stocks-supported-as-geopolitical-risks-recede
+
+### Can onsemi's Treo Platform Unlock New Automotive Opportunities? (source: Zacks)
+ON's Treo platform is gaining traction in software-defined vehicles, with rapid adoption, new auto wins and margin-rich growth potential.
+Link: https://finance.yahoo.com/technology/articles/onsemis-treo-platform-unlock-automotive-141000885.html
+
+### TXN vs. LRCX: Which Semiconductor Stock Is the Better Buy Right Now? (source: Zacks)
+Texas Instruments' AI-linked data center growth, manufacturing strength and lower valuation make it look like the better semiconductor buy over Lam Research.
+Link: https://finance.yahoo.com/markets/stocks/articles/txn-vs-lrcx-semiconductor-stock-123800583.html
+
+### Citi Lifts Texas Instruments (TXN) Price Target by $65. Here is Why (source: Insider Monkey)
+With a net profit margin of 29.11%, Texas Instruments Incorporated (NASDAQ:TXN) is included among the 12 Most Profitable American Stocks to Buy in 2026. Texas Instruments Incorporated (NASDAQ:TXN) designs, manufactures, and sells analog and embedded semiconductors that are the essential building blocks of electronic systems. On June 15, Citi boosted its price recommendation on Texas Instruments […]
+Link: https://finance.yahoo.com/markets/stocks/articles/citi-lifts-texas-instruments-txn-011339837.html
+
+### What A Patient Holder Is Really Paying For Broadcom Stock (source: Trefis)
+The chipmaker's premium price tag melts away when you look a few years out, but that discount depends on a major acceleration in growth.
+Link: https://www.trefis.com/articles/603361/what-a-patient-holder-is-really-paying-for-broadcom-stock/2026-06-17
+
+### Texas Instruments Stock And The Industrial Recovery Hiding In Plain Sight (source: Trefis)
+Before the chipmaker's stock ripped higher, the turnaround in its biggest, most cyclical business was already playing out, quarter by quarter, for anyone listening.
+Link: https://www.trefis.com/articles/603353/texas-instruments-stock-and-the-industrial-recovery-hiding-in-plain-sight/2026-06-17
+
+### Why Citi Keeps Pounding the Table on Texas Instruments Stock (source: Barchart)
+Citi sees Texas Instruments as a prime AI infrastructure beneficiary, raising its price target to $345 as the chipmaker positions itself to gain market share.
+Link: https://www.barchart.com/story/news/2518035/why-citi-keeps-pounding-the-table-on-texas-instruments-stock
+
+### TXN's Manufacturing Expansion Continues: Can It Strengthen Margins? (source: Zacks)
+Texas Instruments' 300-millimeter wafer expansion lifts factory efficiency and margins as demand recovers in industrial and data center markets.
+Link: https://finance.yahoo.com/markets/stocks/articles/txns-manufacturing-expansion-continues-strengthen-121700650.html
+
+### Qualcomm Stock's Next Chapter Might Be Written In The Cloud (source: Trefis)
+The company famous for putting chips in your phone is quietly building a new business with the world's biggest data centers.
+Link: https://www.trefis.com/articles/603100/qualcomm-stocks-next-chapter-might-be-written-in-the-cloud/2026-06-16
+
+### What Applied Materials Stock Was Shouting Before The Surge (source: Trefis)
+Before the stock took off, the company's overall growth looked sluggish, but management was explicitly forecasting a boom in its most important AI-related businesses.
+Link: https://www.trefis.com/articles/603109/what-applied-materials-stock-was-shouting-before-the-surge/2026-06-16
+
+### Texas Instruments (TXN) Returns To Growth As Analog Demand Lifts Guidance (source: Simply Wall St.)
+Texas Instruments (NasdaqGS:TXN) reported a 19% year-over-year revenue increase for Q1 2026, indicating a return to growth. Management highlighted broad-based strength in industrial, automotive, and data center demand, supported by rising analog chip orders. A historic peace agreement reopening the Strait of Hormuz is expected to aid industrial and automotive recovery, which are key markets for the company. Guidance has been raised as Texas Instruments ramps advanced manufacturing capacity...
+Link: https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-returns-growth-181322847.html
+
+### Increased Demand for AI Applications Boosted Texas Instruments (TXN) in Q1 (source: Insider Monkey)
+Madison Investments, an investment advisor, released its first-quarter 2026 investor letter for the “Madison Large Cap Fund”. A copy of the letter is available to download here. The Madison Large Cap Fund (Class I) declined 2.7% in the quarter, outperforming the S&P 500’s -4.33% return. The fund focuses on long-term capital appreciation. The quarter saw […]
+Link: https://finance.yahoo.com/technology/ai/articles/increased-demand-ai-applications-boosted-141542823.html
+
+### New Strong Buy Stocks for June 16th (source: Zacks)
+TXN, ARCB, PGY, RBB and ETSY have been added to the Zacks Rank #1 (Strong Buy) List on June 16, 2026.
+Link: https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-june-16th-083900352.html
+
+### Best Income Stocks to Buy for June 16th (source: Zacks)
+TXN, GIII and TPR made it to the Zacks Rank #1 (Strong Buy) income stocks list on June 16, 2026.
+Link: https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-june-075100076.html
+
+### NXP Semiconductors and Texas Instruments Stocks Trade Up, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the Trump administration announced a new peace deal that would lead to the reopening of the Strait of Hormuz, signaling a potential recovery in the industrial and automotive end markets that analog chips are most directly tied to.
+Link: https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-texas-instruments-stocks-051607040.html
+
+### Stocks Settle Sharply Higher as US-Iran Peace Deal Spurs Optimism (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.65%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.92%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.06%. June E-mini S&P futures (ESM26 ) rose +1.68%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2480274/stocks-settle-sharply-higher-as-us-iran-peace-deal-spurs-optimism
+
+### Applied Materials Stock And The Tell Hiding In Its Margins (source: Trefis)
+Before the stock took flight, its top-line growth looked sleepy, but its profitability was already telling a powerful story about the coming AI boom.
+Link: https://www.trefis.com/articles/602911/applied-materials-stock-and-the-tell-hiding-in-its-margins/2026-06-15
+
+### Stocks Rally as US-Iran Peace Deal Sinks Oil and Bond Yields (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +1.67%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.24%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.79%. June E-mini S&P futures (ESM26 ) are up +1.72%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2474936/stocks-rally-as-us-iran-peace-deal-sinks-oil-and-bond-yields
+
+### ON Semiconductor Stock: Is ON Outperforming the Technology Sector? (source: Barchart)
+After delivering stronger returns than the broader technology sector over the past year, ON Semiconductor continues to garner a moderately bullish outlook from analysts.
+Link: https://www.barchart.com/story/news/2454565/on-semiconductor-stock-is-on-outperforming-the-technology-sector
+
+### What A Patient Investor Really Pays For Broadcom Stock (source: Trefis)
+The sticker price on this AI chip leader is high, but the real question is whether you believe the growth that makes it cheaper down the road.
+Link: https://www.trefis.com/articles/602708/what-a-patient-investor-really-pays-for-broadcom-stock/2026-06-12
+
+### The Best Semiconductor ETFs: How You Can Mine the AI Gold Rush (source: Kiplinger)
+The best semiconductor ETFs hold the chipmakers benefitting from historically high spending by artificial intelligence hyperscalers and data center builders.
+Link: https://www.kiplinger.com/investing/etfs/best-semiconductor-etfs
+
+### These 3 Semiconductor Stocks Just Got a Bullish Nod From Citi. Buy the Dip. (source: Barchart)
+Citi highlighted Broadcom (AVGO), Texas Instruments (TXN), and Applied Materials (AMAT) as attractive buys following the recent semiconductor sector selloff triggered by Broadcom’s Q2 results.
+Link: https://www.barchart.com/story/news/2438312/these-3-semiconductor-stocks-just-got-a-bullish-nod-from-citi-buy-the-dip
+
+### Lattice Semiconductor and Texas Instruments Shares Skyrocket, What You Need To Know (source: StockStory)
+A number of stocks jumped in the afternoon session after the Nasdaq rebounded, up 1.8%, as Trump's Iran peace deal announcement released the rate pressure that weighed on the sector all week.
+Link: https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-texas-instruments-shares-234537463.html
+
+### Stocks Settle Sharply Higher on Middle East Peace Hopes (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.75%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.86%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.29%. June E-mini S&P futures (ESM26 ) rose +1.73%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2430056/stocks-settle-sharply-higher-on-middle-east-peace-hopes
+
+### Texas Instruments Incorporated (TXN) Rallied as the Result Signals Improving End-Market Trend (source: Insider Monkey)
+Guinness Global Innovators, an investment management company, recently released its Q1 2026 quarterly investor update for its “Guinness Global Equity Income Fund”. A copy of the letter is available to download here. The Fund focuses on providing investors with global exposure to dividend-paying companies. In Q1 2026, the fund returned was -0.5% (GBP), compared to […]
+Link: https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-rallied-152331911.html
+
+### Stocks Supported by a Rebound in Chipmakers and AI Stocks (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is up +0.03%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.37%. June E-mini S&P futures (ESM26 ) are up +0.03%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2424249/stocks-supported-by-a-rebound-in-chipmakers-and-ai-stocks
+
+### Can ADI's Communications Segment Emerge as a New Growth Driver? (source: Zacks)
+Analog Devices' communications business is riding on AI and data center demand, with strong growth and record bookings supporting momentum into coming quarters.
+Link: https://finance.yahoo.com/markets/stocks/articles/adis-communications-segment-emerge-growth-130300112.html
+
+### Beyond the Sticker Price: What a Patient Investor Really Pays for Broadcom Stock (source: Trefis)
+The chipmaker's shares look expensive today, but the real question is whether you believe in the growth that makes them cheaper tomorrow.
+Link: https://www.trefis.com/articles/602497/beyond-the-sticker-price-what-a-patient-investor-really-pays-for-broadcom-stock/2026-06-11
+
+### 3 Cash-Producing Stocks We Think Twice About (source: StockStory)
+While strong cash flow is a key indicator of stability, it doesn’t always translate to superior returns. Some cash-heavy businesses struggle with inefficient spending, slowing demand, or weak competitive positioning.
+Link: https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-think-091337026.html
+
+### Is TI’s New EV Battery Monitor Quietly Repositioning Texas Instruments (TXN) in Industrial and Automotive? (source: Simply Wall St.)
+Earlier this month, Texas Instruments introduced the BQ79826Z-Q1, a high‑cell‑count battery monitor with integrated electrochemical impedance spectroscopy for electric vehicles and energy storage systems, aiming to enhance safety, reduce component count and lower system complexity. This launch highlights how TI is tying its analog expertise directly into EV and grid‑scale storage applications, where precise, real‑time cell diagnostics are increasingly critical for both performance and...
+Link: https://finance.yahoo.com/markets/stocks/articles/ti-ev-battery-monitor-quietly-071629578.html
+
+### Broadcom Stock And The Two Customers In The Shadows (source: Trefis)
+The company's AI growth is spectacular, but a closer look at its customer list reveals a multi-billion-dollar question mark investors should not ignore.
+Link: https://www.trefis.com/articles/602300/broadcom-stock-and-the-two-customers-in-the-shadows/2026-06-10
+
+### The Software Engine The Broadcom Stock Bears Overlook (source: Trefis)
+While Wall Street obsesses over AI chip sales, a different, high-margin business is providing the stability that could answer the biggest risk.
+Link: https://www.trefis.com/articles/602304/the-software-engine-the-broadcom-stock-bears-overlook/2026-06-10
+
+### Stock Market Today, June 10: Broadcom Falls as Strong AI Quarter Tests Stock’s Premium Valuation (source: Motley Fool)
+Broadcom’s AI demand remains strong, but the pullback shows investors are looking for clearer proof that custom-chip growth can keep supporting the stock’s premium.
+Link: https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-broadcom-falls-as-strong-ai-quarter-tests-stock-s-premium-valuation/
+
+### Citi names Broadcom, Texas Instruments, and Applied Materials top chip picks (source: Investing.com)
+Investing.com -- As the semiconductor sector navigates a massive market rally, Wall Street is increasingly looking to separate the core secular winners from short-term cyclical plays. In a fresh assessment of the industry, Citigroup analyst Atif Malik reiterated that a recent pullback in the broader semiconductor group is entirely healthy. To capitalize on this temporary pause, Malik maintained Broadcom Inc (NASDAQ:AVGO), Texas Instruments Incorporated (NASDAQ:TXN), and Applied Materials Inc (NA
+Link: https://finance.yahoo.com/markets/stocks/articles/citi-names-broadcom-texas-instruments-203611993.html
+
+### LSCC Rides on Strong AI-Related Demand: Will the Uptrend Persist? (source: Zacks)
+Lattice Semiconductor is riding strong AI infrastructure demand, expanding partnerships and acquisitions as revenue surges and backlog stretches into 2027.
+Link: https://finance.yahoo.com/sectors/technology/articles/lscc-rides-strong-ai-related-170300219.html
+
+### Assessing Texas Instruments (TXN) Valuation After AI Tailwinds And New EV Battery Monitoring Launch (source: Simply Wall St.)
+Texas Instruments (TXN) is back in focus after a rebound in semiconductor stocks, fresh optimism from major investors, and the launch of a high cell count battery monitor aimed at electric vehicles and energy storage. See our latest analysis for Texas Instruments. Despite a pullback in the past week, with a 7 day share price return down 6.33%, Texas Instruments has shown strong upward momentum, reflected in a 90 day share price return of 45.28% and a 1 year total shareholder return of 46.68%,...
+Link: https://finance.yahoo.com/markets/stocks/articles/assessing-texas-instruments-txn-valuation-161502342.html
+
+### Investors Heavily Search Texas Instruments Incorporated (TXN): Here is What You Need to Know (source: Zacks)
+Texas Instruments (TXN) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-texas-instruments-130003684.html
+
+### Texas Instruments (TXN) – Among the 10 Best Dividend Stocks to Buy According to D. E. Shaw (source: Insider Monkey)
+Texas Instruments Incorporated (NASDAQ:TXN) is included among the 10 Best Dividend Stocks to Buy According to D. E. Shaw. On June 9, Wells Fargo raised its price recommendation on Texas Instruments Incorporated (NASDAQ:TXN) to $300 from $260. It reiterated an Equal Weight rating on the shares. The firm believes the emergence of physical AI is […]
+Link: https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-among-10-034848775.html
+
+### What Could Go Wrong For Broadcom Stock? (source: Trefis)
+The company's spectacular AI success is undeniable, but it also concentrates the two biggest risks investors now face.
+Link: https://www.trefis.com/articles/602063/what-could-go-wrong-for-broadcom-stock/2026-06-09
+
+### Broader Market Settles Lower as Chip Stocks Sink (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.17%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.12%. June E-mini S&P futures (ESM26 ) fell -0.36%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2387060/broader-market-pressured-as-chip-stocks-sink
+
+### Broadcom Stock And The Ninety-Billion-Dollar Roadmap (source: Trefis)
+Before the stock took off, the company was laying out an unusually specific, multi-year plan for its AI business that many investors seemed to overlook.
+Link: https://www.trefis.com/articles/602078/broadcom-stock-and-the-ninety-billion-dollar-roadmap/2026-06-09
+
+### What Lit a Fire Under Qualcomm Stock? (source: Trefis)
+The chipmaker has been a market laggard for years, so what suddenly convinced investors it was time to get on board.
+Link: https://www.trefis.com/articles/602060/what-lit-a-fire-under-qualcomm-stock/2026-06-09
+
+### Stocks Erase Early Gains as Chipmakers Turn Lower (source: Barchart)
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.28%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.80%. June E-mini S&P futures (ESM26 ) are down -0.25%, and June E-mini Nasdaq futures...
+Link: https://www.barchart.com/story/news/2381403/stocks-erase-early-gains-as-chipmakers-turn-lower
+
+### At US$291, Is It Time To Put Texas Instruments Incorporated (NASDAQ:TXN) On Your Watch List? (source: Simply Wall St.)
+Today we're going to take a look at the well-established Texas Instruments Incorporated ( NASDAQ:TXN ). The company's...
+Link: https://finance.yahoo.com/markets/stocks/articles/us-291-time-put-texas-110044009.html
+

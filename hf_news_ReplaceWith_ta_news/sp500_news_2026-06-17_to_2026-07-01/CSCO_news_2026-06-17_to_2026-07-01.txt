@@ -1,0 +1,202 @@
+## CSCO News, from 2026-06-17 to 2026-07-01:
+
+### Where Arista Networks Stock Is Most Exposed (source: Trefis)
+The company's incredible AI-driven growth is undeniable, but it rests on a surprisingly narrow foundation that every investor should understand.
+Link: https://www.trefis.com/articles/605159/where-arista-networks-stock-is-most-exposed/2026-06-30
+
+### These Are The Best-Performing Dow Stocks Of Q2 And First Half Of 2026 (source: Investor's Business Daily)
+Apple and Nvidia don't make the cut. But Caterpillar, earthmoving giant turned AI play, is No. 1.
+Link: https://www.investors.com/news/best-dow-stocks-q2-h1-caterpillar-cisco-united-health/?src=A00220&yptr=yahoo
+
+### Is Arista Networks’ (ANET) Russell Top 50 Debut Quietly Redefining Its AI Networking Narrative? (source: Simply Wall St.)
+In late June 2026, Arista Networks, Inc. was added to the Russell Top 50 Index, while multiple research firms highlighted its role in AI-focused networking and public cloud-managed LAN solutions alongside peers such as Cisco, Extreme, HPE, Meter, and Nile. These developments underline how Arista is increasingly tied to AI-related networking demand and institutional index flows, potentially amplifying its exposure to trends in cloud-managed LAN and campus Network-as-a-Service adoption. Next,...
+Link: https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-russell-top-180939730.html
+
+### Cisco (CSCO) Expands AI And Quantum Networking Ties With Equinix Rafay And Rotterdam (source: Simply Wall St.)
+Cisco Systems is taking a larger role in enterprise AI infrastructure through its involvement in the Equinix NVIDIA Secure AI Factory expansion. The company has become a Cisco Solutions Plus partner with Rafay Systems to integrate Kubernetes orchestration and governance into complex environments. Cisco is a founding participant in the Quantum Communication Fieldlab Rotterdam, focused on real world deployment of quantum secure networking. Cisco Systems (NasdaqGS:CSCO) is tying its core...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-csco-expands-ai-quantum-170623615.html
+
+### Dow Hits Record as Tech Starts Week Strong (source: The Wall Street Journal)
+The Dow Jones Industrial Average topped 52000 for the first time on Monday, highlighting investors’ increasing demand for stocks at the heart of the American economy.  One major contributor was  Alphabet  which rose 4.8% to lead gains on the Google-parent’s first day as one of the blue-chip index’s 30 components.
+Link: https://www.wsj.com/finance/stocks/dow-hits-record-as-tech-starts-week-strong-f251b661?siteid=yhoof2&yptr=yahoo
+
+### Here’s Why Cisco (CSCO) is Among the 15 Best AI Stocks That Will Make You Rich in 10 Years (source: Insider Monkey)
+Cisco Systems, Inc. (NASDAQ:CSCO) is one of the 15 Best AI Stocks That Will Make You Rich in 10 Years. On June 25, 2026, KeyBanc raised its price target on Cisco Systems, Inc. (NASDAQ:CSCO) to $130 from $125 and kept an Overweight rating. KeyBanc’s chief investment officer survey for the first half of 2026 showed […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-among-15-193230478.html
+
+### JPMorgan Removes Arista Networks (ANET) from Equity Focus List (source: Insider Monkey)
+Arista Networks, Inc. (NYSE:ANET) is one of the 15 Best AI Stocks That Will Make You Rich in 10 Years. On June 23, 2026, JPMorgan removed Amphenol (APH) and Arista Networks, Inc. (NYSE:ANET) from its Equity Focus List following a transfer of coverage. Both stocks remain Overweight-rated. On June 18, KeyBanc analyst Brandon Nispel raised the […]
+Link: https://finance.yahoo.com/markets/stocks/articles/jpmorgan-removes-arista-networks-anet-193228800.html
+
+### The Real Risk Inside Cisco Stock (source: Trefis)
+After a strong run, it’s natural for any Cisco Systems (CSCO) shareholder to feel confident. The stock is up 72% over the last year, powered by a story of transformation. The company is capturing surging AI demand, raising its forecast for AI infrastructure orders to $9 billion for the fiscal year. But when a stock has priced in this much success, the risks change. The question is no longer just about whether the company can grow, but whether it can grow in a way that justifies the new, higher e
+Link: https://www.trefis.com/articles/603814/the-real-risk-inside-cisco-stock/2026-06-26
+
+### The Old-School Signal That Lit Up Palo Alto Networks Stock (source: Trefis)
+While all eyes were on a futuristic AI platform, the most telling clue to the stock's takeoff lay buried in the company's oldest business.
+Link: https://www.trefis.com/articles/604729/the-old-school-signal-that-lit-up-palo-alto-networks-stock/2026-06-26
+
+### Cisco to lay off more than 400 workers in California (source: LA Times)
+The San José tech company informed the state that the job cuts will occur in their San Francisco Bay area offices.
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-lay-off-more-400-194834963.html
+
+### Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech (source: GuruFocus.com)
+OpenAI IPO Delay Report Sparks Sharp Selloff in AI and Memory Stocks
+Link: https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-150833279.html
+
+### 1 Growth Stock Set to Flourishand 2 Facing Headwinds (source: StockStory)
+Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.
+Link: https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-set-flourishand-150425928.html
+
+### Fabrinet Is Becoming a Quiet Winner in the AI Optics Buildout (source: MarketBeat)
+Fabrinet is well-positioned as a manufacturing specialist for major tech companies, focused on optics and photonics, the future of AI.
+Link: https://www.marketbeat.com/articles/fabrinet-is-becoming-a-quiet-winner-in-the-ai-optics-buildout/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Q1 Earnings Roundup: Cisco (NASDAQ:CSCO) And The Rest Of The IT Services & Other Tech Segment (source: StockStory)
+Wrapping up Q1 earnings, we look at the numbers and key takeaways for the it services & other tech stocks, including Cisco (NASDAQ:CSCO) and its peers.
+Link: https://finance.yahoo.com/markets/stocks/articles/q1-earnings-roundup-cisco-nasdaq-123225997.html
+
+### 2 Growth Stocks with Explosive Upside and 1 Facing Challenges (source: StockStory)
+Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.
+Link: https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-explosive-upside-110425653.html
+
+### Cisco (CSCO) Stock Sees Modest Fair Value Lift After AI Networking Target Raises (source: Simply Wall St.)
+Cisco Systems has seen its fair value estimate move from US$125.82 to US$127.05, a small uptick that captures the latest tweak in the valuation model. Analysts linking this change to recent research generally point to stronger AI networking execution, campus refresh activity, and optical demand tied to Acacia, while still flagging valuation questions and segment level risks. As you read on, you will see how these shifting targets fit into the broader Cisco Systems story and what to watch as...
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-sees-modest-210924894.html
+
+### Micron earnings beat fuels hopes for Tech rally rebound (source: Yahoo Finance Video)
+TECHnalysis Research President Bob O'Donnell joins Josh Lipton on Market Domination to break down Micron's (MU) strong earnings beat and what it could mean for a broader tech rally rebound.
+Link: https://finance.yahoo.com/video/micron-earnings-beat-fuels-hopes-194500066.html
+
+### What Arista Networks Stock's Balance Sheet Revealed Before the AI Boom (source: Trefis)
+Long before the stock took off, the company's orders for future parts and its backlog of unbooked sales were telling a powerful story about the coming AI demand.
+Link: https://www.trefis.com/articles/604519/what-arista-networks-stocks-balance-sheet-revealed-before-the-ai-boom/2026-06-25
+
+### Cisco Systems (CSCO) Dips More Than Broader Market: What You Should Know (source: Zacks)
+In the most recent trading session, Cisco Systems (CSCO) closed at $119.74, indicating a -1.16% shift from the previous trading day.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-dips-more-214505688.html
+
+### Everyone Is Watching Cisco Stock's AI Orders. Here's The Number They Stopped Bragging About. (source: Trefis)
+The pivot to an AI powerhouse is driving record sales, but it comes at a cost to the high-profitability story management once championed.
+Link: https://www.trefis.com/articles/604313/everyone-is-watching-cisco-stocks-ai-orders-heres-the-number-they-stopped-bragging-about/2026-06-24
+
+### Why Cisco’s (CSCO) Acacia Orders Give It a Clearer Role in the 800G AI Optics Cycle (source: Insider Monkey)
+Cisco Systems, Inc. (NASDAQ:CSCO) is one of the Best Fiber Optics Stocks to Buy for the AI Data Center Boom. On June 8, 2026, Bank of America raised its price target on Cisco to $150 from $135 and reiterated a Buy rating, extending a bullish view that had sharpened after the firm’s late-May optics note. […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-acacia-orders-185307381.html
+
+### Alphabet makes the Dow look more like the Nasdaq (source: Yahoo Finance)
+Alphabet's inclusion in the Dow gives the 130-year-old blue-chip index a dose of the same mega-cap tech trade already dominating the Nasdaq 100.
+Link: https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html
+
+### Cisco at $121: Buy, Sell or Hold? (source: 24/7 Wall St.)
+At $121.15, Cisco Systems (NASDAQ:CSCO) is a hold. The stock sits just under a 52-week high of $130.37 after a powerful run on accelerating AI infrastructure orders, leaving little room for error at current levels. Cisco supplies the routers, switches, silicon, security, and observability software that move enterprise and hyperscale traffic. Networking remains the core, ... Cisco at $121: Buy, Sell or Hold?
+Link: https://247wallst.com/investing/2026/06/24/cisco-at-121-buy-sell-or-hold/
+
+### Cisco (CSCO) Is Considered a Good Investment by Brokers: Is That True? (source: Zacks)
+The average brokerage recommendation (ABR) for Cisco (CSCO) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-133005844.html
+
+### Mag Seven to Lag Seven: When ‘One Decision’ Stocks Stumble (source: The Wall Street Journal)
+​📈 Follow our live markets data and coverage.  Wharton School finance professor  Jeremy Siegel,  a cheerleader for staying invested as the 1990s bull market bubbled higher, made a surprising argument at the time.  The boom-and-bust Nifty Fifty stocks of the early 1970s, long trotted out as a cautionary tale of falling in love with one group, weren’t so bad.
+Link: https://www.wsj.com/finance/stocks/mag-seven-to-lag-seven-when-one-decision-stocks-stumble-e20f3103?siteid=yhoof2&yptr=yahoo
+
+### Nvidia's Network Ambitions Could Lift Telecom (source: GuruFocus.com)
+Massive telecom project could reshape AI infrastructure.
+Link: https://finance.yahoo.com/technology/articles/nvidias-network-ambitions-could-lift-190347166.html
+
+### US Supreme Court ends suit alleging Cisco helped China pursue Falun Gong (source: Reuters)
+WASHINGTON, June 23 (Reuters) - The U. Supreme Court further limited the reach of a federal law used to hold corporations liable for human rights abuses committed abroad, as it issued a ruling on Tuesday ending a lawsuit by members of the Falun Gong movement accusing Cisco ‌Systems of facilitating religious persecution in China.
+Link: https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html
+
+### Top Midday Stories: Energy Department to Provide $17.5 Billion in Loans for Nuclear Reactors; Oracle Shrank Workforce by 13% in Fiscal 2026 (source: MT Newswires)
+The Nasdaq Composite and S&P 500 Index were down in late-morning trading Tuesday, while the Dow Jone
+Link: https://finance.yahoo.com/energy/articles/top-midday-stories-energy-department-153941608.html
+
+### How Cisco’s Secure AI Factory and Quantum Networking Bets Could Reshape the Cisco Systems (CSCO) Narrative (source: Simply Wall St.)
+In June 2026, Equinix announced an expanded collaboration with Cisco and NVIDIA to bring the Cisco Secure AI Factory into Equinix’s global data centers, while Cisco also joined Eurofiber, QBird and others as a founding partner of the Quantum Communication Fieldlab Rotterdam to advance quantum-secure networking in real-world infrastructure. Together, these initiatives highlight Cisco’s push to embed its networking and security technology at the heart of emerging AI and quantum-secure...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-secure-ai-factory-quantum-151046091.html
+
+### Cisco Systems, Inc. (CSCO) Is a Trending Stock: Facts to Know Before Betting on It (source: Zacks)
+Cisco (CSCO) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-trending-130005785.html
+
+### 1 Services Stock to Target This Week and 2 Facing Headwinds (source: StockStory)
+Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Market leaders have certainly capitalized on outsourcing trends and digital transformation initiatives to boost sales, helping fuel a 8.2% gain for the industry over the past six months. This performance has closely followed the S&P 500.
+Link: https://finance.yahoo.com/markets/stocks/articles/1-services-stock-target-week-081646236.html
+
+### What Dell Stock's AI Order Book Revealed Before The Surge (source: Trefis)
+Before the stock more than tripled, the company’s official guidance was solid but sleepy, but the real story was hiding in the raw demand figures.
+Link: https://www.trefis.com/articles/603823/what-dell-stocks-ai-order-book-revealed-before-the-surge/2026-06-22
+
+### Cisco Stock Looks Strong, But One Number Says Be Careful (source: Trefis)
+After an 87% run over the last year (as of June 18), it’s hard to find much fault with Cisco Systems (CSCO) stock. The company is posting record revenue, and its AI-related orders are surging. But when a stock is priced for perfection, sitting near its high, the most important signals are often the quiet ones that run counter to the main story.
+Link: https://www.trefis.com/articles/603825/cisco-stock-looks-strong-but-one-number-says-be-careful/2026-06-22
+
+### Why Cisco (CSCO) Is Turning AI Infrastructure Into a Hybrid Data Center Security Opportunity (source: Insider Monkey)
+Cisco Systems, Inc. (NASDAQ:CSCO) is one of Kevin O’Leary’s top stock picks for 2026 through the O’Shares U.S. Quality Dividend ETF. The stock made up 4.41% of the ETF as of June 17, 2026. On June 16, 2026, Equinix said it had expanded a collaboration with Cisco and NVIDIA to help enterprises deploy Cisco Secure […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-cisco-csco-turning-ai-075218669.html
+
+### Datadog vs. Cisco: Which Observability Stock is the Better Buy? (source: Zacks)
+DDOG and CSCO are capitalizing on rising observability demand through product expansion, AI innovation and growing customer adoption.
+Link: https://finance.yahoo.com/markets/stocks/articles/datadog-vs-cisco-observability-stock-125200495.html
+
+### Exclusive: Upscale AI wants to be the next Cisco—and it just raised another $190 million (source: Fortune)
+The AI networking startup has now raised $500 million in under 18 months as investors bet the next infrastructure giant will emerge from the race to connect the world's AI chips.
+Link: https://finance.yahoo.com/technology/ai/articles/exclusive-upscale-ai-wants-next-120000256.html
+
+### Nvidia's $6.9 billion side bet just paid off in a big way (source: TheStreet)
+Back in 2020, Nvidia dropped $6.9 billion on a company most people had never heard of, Mellanox, an Israeli outfit that made networking switches and adapters. At the time, it barely registered. Jensen Huang was buying GPUs, building the chip story, and a networking company felt like a rounding ...
+Link: https://www.thestreet.com/technology/nvidias-6-9-billion-side-bet-just-paid-off-in-a-big-way
+
+### Cisco is Overvalued at 7.01X P/S: Should You Still Buy the Stock? (source: Zacks)
+CSCO's AI infrastructure orders, network refresh cycle and security momentum support its premium valuation and long-term growth prospects.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-overvalued-7-01x-p-154600772.html
+
+### Shorting Out-of-the-Money Cisco Puts and Calls Provides Shareholders Extra Income (source: Barchart)
+Over the last month, selling short out-of-the-money (OTM) Cisco Systems put and call options has worked well for existing shareholders. Moreover, for the next month, it looks like a good play as well.
+Link: https://www.barchart.com/story/news/2555449/shorting-out-of-the-money-cisco-puts-and-calls-provides-shareholders-extra-income
+
+### Cisco Keeps Access to Restricted AI Model (source: GuruFocus.com)
+Project Glasswing preserves access for select firms
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-keeps-access-restricted-ai-123802001.html
+
+### Cisco (CSCO) Pushes Further Into Quantum Security And Enterprise AI (source: Simply Wall St.)
+Cisco Systems (NasdaqGS:CSCO) is a founding partner in the new Quantum Communication Fieldlab Rotterdam, focused on quantum secure networking. The initiative is intended to test and validate quantum resistant communication infrastructure in real world conditions. Cisco also launched the Secure AI Factory with Equinix and NVIDIA, aimed at simplifying enterprise scale AI deployment. The Secure AI Factory centers on pre integrated infrastructure that combines networking, compute, and colocation...
+Link: https://finance.yahoo.com/technology/ai/articles/cisco-csco-pushes-further-quantum-021030455.html
+
+### Why Cisco Systems (CSCO) Outpaced the Stock Market Today (source: Zacks)
+In the most recent trading session, Cisco Systems (CSCO) closed at $119.44, indicating a +1.8% shift from the previous trading day.
+Link: https://finance.yahoo.com/markets/stocks/articles/why-cisco-systems-csco-outpaced-214504138.html
+
+### Equinix Is Now Becoming a Key Stop in the AI Supply Chain. How to Play EQIX Stock Here. (source: Barchart)
+Equinix combines AI exposure, solid execution, and analyst support, but investors must weigh those strengths against a rich valuation.
+Link: https://www.barchart.com/story/news/2544143/equinix-is-now-becoming-a-key-stop-in-the-ai-supply-chain-how-to-play-eqix-stock-here
+
+### Intel jumps after Trump says Apple, Intel reached US chip deal (source: Yahoo Finance Video)
+Intel (INTC) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (AAPL) have agreed on a deal to design and build semiconductors in the US.
+Link: https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html
+
+### Is Zebra Technologies Stock Underperforming the Nasdaq? (source: Barchart)
+While Zebra Technologies has lagged behind the broader Nasdaq Composite over the past year, Wall Street analysts remain moderately optimistic about the stock’s prospects.
+Link: https://www.barchart.com/story/news/2536280/is-zebra-technologies-stock-underperforming-the-nasdaq
+
+### Nvidia Claims No. 1 Spot in $10 Billion AI Networking Market (source: GuruFocus.com)
+Nvidia Wins One of the Biggest Battles in the AI Infrastructure Race
+Link: https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html
+
+### Zacks Investment Ideas feature highlights: Dell and Cisco (source: Zacks)
+DELL and CSCO stand out on Zacks' AI screen after record-breaking results, surging demand, and strong growth tied to AI infrastructure.
+Link: https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-061100086.html
+
+### Equinix Strengthens AI Infrastructure With Cisco & NVIDIA Partnerships (source: Zacks)
+EQIX expands partnerships with Cisco and NVIDIA to speed enterprise AI adoption with standardized AI factory blueprints.
+Link: https://finance.yahoo.com/technology/ai/articles/equinix-strengthens-ai-infrastructure-cisco-173500405.html
+
+### Find Top AI Stocks Using This Zacks Tool (source: Zacks)
+This Zacks Thematic investing screen features a diverse set of companies involved with AI, ranging from creators of software and hardware that power AI to those applying and utilizing the technology through other means.
+Link: https://finance.yahoo.com/markets/stocks/articles/top-ai-stocks-using-zacks-153000831.html
+
+### Is Cisco Systems (CSCO) Stock Outpacing Its Computer and Technology Peers This Year? (source: Zacks)
+Here is how Cisco Systems (CSCO) and Arteris, Inc. (AIP) have performed compared to their sector so far this year.
+Link: https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-stock-outpacing-134004048.html
+

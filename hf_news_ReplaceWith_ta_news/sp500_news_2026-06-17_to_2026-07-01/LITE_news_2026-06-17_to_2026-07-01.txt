@@ -1,0 +1,50 @@
+## LITE News, from 2026-06-17 to 2026-07-01:
+
+### These 7 Stocks Will Solve AI’s Most Important Bottleneck (source: 24/7 Wall St.)
+Artificial intelligence has no shortage of obstacles. The industry is scrambling to secure enough electricity to power new data centers, enough land to build them, and enough high-bandwidth memory (HBM) to keep next-generation chips fed with data. Yet another constraint is emerging that could prove just as important: moving information between those chips fast enough ... These 7 Stocks Will Solve AI’s Most Important Bottleneck
+Link: https://247wallst.com/investing/2026/06/29/these-7-stocks-will-solve-ais-most-important-bottleneck/
+
+### Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech (source: GuruFocus.com)
+OpenAI IPO Delay Report Sparks Sharp Selloff in AI and Memory Stocks
+Link: https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-150833279.html
+
+### Fabrinet Is Becoming a Quiet Winner in the AI Optics Buildout (source: MarketBeat)
+Fabrinet is well-positioned as a manufacturing specialist for major tech companies, focused on optics and photonics, the future of AI.
+Link: https://www.marketbeat.com/articles/fabrinet-is-becoming-a-quiet-winner-in-the-ai-optics-buildout/?utm_source=yahoofinance&utm_medium=yahoofinance
+
+### Why Lumentum’s (LITE) AI Optics Exposure Keeps Needham Bullish Despite Valuation Risk (source: Insider Monkey)
+Lumentum Holdings Inc. (NASDAQ:LITE) is one of the Best Fiber Optics Stocks to Buy for the AI Data Center Boom. On June 9, 2026, Needham & Company reiterated its Buy rating on Lumentum and maintained a $1,040 price target, extending a bullish view closely tied to AI optical networking. Needham analyst Ryan Koontz has described […]
+Link: https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-ai-optics-185254221.html
+
+### Is Lumentum (LITE) Turning Its AI Optics Backlog Into a Durable Data Center Edge? (source: Simply Wall St.)
+Lumentum Holdings recently presented at the Rome Conference on AI Ethics and Governance, with board chair Penny Herscher and CEO Michael Hurlston outlining the company’s role in AI-related optical technologies. Investor attention has centered on Lumentum’s more than US$400 million backlog in optical circuit switches and co-packaged optics, supported by partnerships in AI data center infrastructure. Next, we’ll examine how this large AI optics backlog and related positioning influence...
+Link: https://finance.yahoo.com/technology/ai/articles/lumentum-lite-turning-ai-optics-001935686.html
+
+### Lumentum (LITE) Stock After Strong Multi‑Year Run Is There Still Upside Potential (source: Simply Wall St.)
+If you are wondering whether Lumentum Holdings stock still offers value after a strong run, this article focuses squarely on what the current price might mean for potential risk and reward. Lumentum Holdings has seen very large gains over 1 year and 3 years, even though the share price is down 5.4% over the past week and down 12.6% over the past month. Recent attention on Lumentum Holdings has centered on its role in optical and photonics technologies and how that fits into longer term...
+Link: https://finance.yahoo.com/markets/stocks/articles/lumentum-lite-stock-strong-multi-231334906.html
+
+### Applied Optoelectronics Plunges 13%, Coherent Drops 9%, Lumentum Falls 8%: Has an Optics Valuation Reckoning Begun? (source: 24/7 Wall St.)
+Shares of optical and photonics suppliers are tumbling at midday Tuesday, with Applied Optoelectronics (NASDAQ:AAOI) stock leading the decline, down 13% to $149. Coherent (NYSE:COHR) stock is off 9% to $387, while Lumentum (NASDAQ:LITE) stock has slipped 8% to around $825. The selloff is sharp, but it arrives without a fresh company-specific catalyst from Applied ... Applied Optoelectronics Plunges 13%, Coherent Drops 9%, Lumentum Falls 8%: Has an Optics Valuation Reckoning Begun?
+Link: https://247wallst.com/investing/2026/06/23/applied-optoelectronics-plunges-13-coherent-drops-9-lumentum-falls-8-has-an-optics-valuation-reckoning-begun/
+
+### Why Lumentum (LITE) Remains Tied to the Optical Bottleneck Inside AI Data Centers (source: Insider Monkey)
+Lumentum Holdings Inc. (NASDAQ:LITE) is one of the fastest-growing AI infrastructure stocks to buy. On June 11, 2026, J.P. Morgan reiterated an Overweight rating on Lumentum and argued that investor concerns around co-packaged optics adoption were overstated. The firm pointed to continued progress from NVIDIA and broader customer interest in co-packaged and near-packaged optics, keeping […]
+Link: https://finance.yahoo.com/markets/stocks/articles/why-lumentum-lite-remains-tied-143429339.html
+
+### Lumentum Holdings Stock: Is LITE Outperforming the Technology Sector? (source: Barchart)
+Lumentum Holdings has outperformed its sector peers recently, and analysts remain highly optimistic about the stock’s prospects.
+Link: https://www.barchart.com/story/news/2527605/lumentum-holdings-stock-is-lite-outperforming-the-technology-sector
+
+### Coherent's Good News Gets A Cold Shoulder (source: Trefis)
+The company announced a government-backed expansion for its AI business, and investors promptly headed for the exits.
+Link: https://www.trefis.com/articles/603340/coherents-good-news-gets-a-cold-shoulder/2026-06-17
+
+### Dow Jones Futures: Techs Rebound, SpaceX Rises Despite Trump's Iran Threat; Warsh's Fed Debut Due (source: Investor's Business Daily)
+Tech futures are rising modestly despite President Trump's threat to resume bombing Iran. Fed chief Kevin Warsh's comments loom.
+Link: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-ai-stocks-warsh-fed-debut/?src=A00220&yptr=yahoo
+
+### AAOI, LITE, COHR, MRVL Stocks Bounce Back Overnight: Why AI Photonics Stocks Drew Attention Today (source: Stocktwits)
+Tech and semiconductor stocks dropped in regular trading on Tuesday, taking a breather after an early-week rally fueled by the U.S.-Iran peace deal.
+Link: https://stocktwits.com/news-articles/markets/equity/aaoi-lite-cohr-mrvl-stocks-bounce-back-overnight-why-ai-photonics-stocks-drew-attention-today/cZK0jLIR7IR
+
